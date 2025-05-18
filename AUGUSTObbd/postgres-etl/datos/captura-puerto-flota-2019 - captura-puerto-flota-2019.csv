@@ -1,0 +1,3041 @@
+fecha,flota,id_puerto,categoria,id_especie,captura
+2019-01,Rada o ría,Bahía Blanca,Crustáceos,Camarón,221363
+2019-01,Congeladores poteros nacionales,Caleta Olivia / Paula,Moluscos,Calamar Illex,101156
+2019-01,Costeros,Caleta Olivia / Paula,Peces,Merluza hubbsi,4236
+2019-01,Costeros,Caleta Olivia / Paula,Peces,Rayas nep,33214
+2019-01,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,2123
+2019-01,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,118321
+2019-01,Rada o ría,Caleta Olivia / Paula,Peces,Pez gallo,323
+2019-01,Rada o ría,Caleta Olivia / Paula,Peces,Rayas nep,7548
+2019-01,Congeladores poteros nacionales,Comodoro Rivadavia,Moluscos,Calamar Illex,726
+2019-01,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,9121
+2019-01,Fresqueros,Comodoro Rivadavia,Crustáceos,Centolla,4048644
+2019-01,Fresqueros,Comodoro Rivadavia,Moluscos,Calamar Illex,35571
+2019-01,Fresqueros,Comodoro Rivadavia,Peces,Abadejo,371047
+2019-01,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,75
+2019-01,Fresqueros,Comodoro Rivadavia,Peces,Notothenia,181566
+2019-01,Fresqueros,Comodoro Rivadavia,Peces,Rayas nep,1241777
+2019-01,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),1333213
+2019-01,Congeladores poteros nacionales,Mar del Plata,Moluscos,Calamar Illex,9175735
+2019-01,Costeros,Mar del Plata,Crustáceos,Cangrejo,68579
+2019-01,Costeros,Mar del Plata,Moluscos,Calamar Illex,18622724
+2019-01,Costeros,Mar del Plata,Moluscos,Calamar Loligo,7624857
+2019-01,Costeros,Mar del Plata,Moluscos,Caracol,104775
+2019-01,Costeros,Mar del Plata,Peces,Abadejo,91000
+2019-01,Costeros,Mar del Plata,Peces,Anchoa de banco,965
+2019-01,Costeros,Mar del Plata,Peces,Bacalao austral,313980
+2019-01,Costeros,Mar del Plata,Peces,Bagre,9767
+2019-01,Costeros,Mar del Plata,Peces,Besugo,9417
+2019-01,Costeros,Mar del Plata,Peces,Besugo,1081
+2019-01,Costeros,Mar del Plata,Peces,Brótola,171
+2019-01,Costeros,Mar del Plata,Peces,Brótola,13131
+2019-01,Costeros,Mar del Plata,Peces,Caballa,4658
+2019-01,Costeros,Mar del Plata,Peces,Castañeta,297
+2019-01,Costeros,Mar del Plata,Peces,Corvina blanca,1046
+2019-01,Costeros,Mar del Plata,Peces,Corvina blanca,9339
+2019-01,Costeros,Mar del Plata,Peces,Corvina negra,337743
+2019-01,Costeros,Mar del Plata,Peces,Gatuzo,276
+2019-01,Costeros,Mar del Plata,Peces,Gatuzo,1381
+2019-01,Costeros,Mar del Plata,Peces,Lenguados nep,316
+2019-01,Costeros,Mar del Plata,Peces,Lenguados nep,576
+2019-01,Costeros,Mar del Plata,Peces,Merluza hubbsi,955
+2019-01,Costeros,Mar del Plata,Peces,Merluza hubbsi,386001
+2019-01,Costeros,Mar del Plata,Peces,Mero,8140
+2019-01,Costeros,Mar del Plata,Peces,Mero,3620
+2019-01,Costeros,Mar del Plata,Peces,Palometa,120745
+2019-01,Costeros,Mar del Plata,Peces,Pargo,18238
+2019-01,Costeros,Mar del Plata,Peces,Pargo,581218
+2019-01,Costeros,Mar del Plata,Peces,Pescadilla,130306
+2019-01,Costeros,Mar del Plata,Peces,Pescadilla,270049
+2019-01,Costeros,Mar del Plata,Peces,Pescadilla real,3125
+2019-01,Costeros,Mar del Plata,Peces,Pez gallo,32509
+2019-01,Costeros,Mar del Plata,Peces,Pez gallo,11499
+2019-01,Costeros,Mar del Plata,Peces,Pez palo,1210
+2019-01,Costeros,Mar del Plata,Peces,Pez palo,56669
+2019-01,Costeros,Mar del Plata,Peces,Pez sable,4260
+2019-01,Costeros,Mar del Plata,Peces,Pez ángel,88251
+2019-01,Costeros,Mar del Plata,Peces,Pez ángel,13128
+2019-01,Costeros,Mar del Plata,Peces,Rayas nep,1735
+2019-01,Costeros,Mar del Plata,Peces,Rayas nep,1744
+2019-01,Costeros,Mar del Plata,Peces,Rubio,24249
+2019-01,Costeros,Mar del Plata,Peces,Róbalo,1007293
+2019-01,Costeros,Mar del Plata,Peces,Salmonete,821
+2019-01,Costeros,Mar del Plata,Peces,Salmón de mar,11253
+2019-01,Costeros,Mar del Plata,Peces,Salmón de mar,237904
+2019-01,Costeros,Mar del Plata,Peces,Tiburones nep,107150
+2019-01,Costeros,Mar del Plata,Peces,Tiburones nep,496468
+2019-01,Costeros,Mar del Plata,Peces,Tiburón espinoso,478
+2019-01,Fresqueros,Mar del Plata,Crustáceos,Langostino,396
+2019-01,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,16589
+2019-01,Fresqueros,Mar del Plata,Peces,Abadejo,5083
+2019-01,Fresqueros,Mar del Plata,Peces,Anchoa de banco,27589
+2019-01,Fresqueros,Mar del Plata,Peces,Bacalao austral,1005
+2019-01,Fresqueros,Mar del Plata,Peces,Besugo,10099
+2019-01,Fresqueros,Mar del Plata,Peces,Brótola,1887
+2019-01,Fresqueros,Mar del Plata,Peces,Caballa,90
+2019-01,Fresqueros,Mar del Plata,Peces,Cazón,468
+2019-01,Fresqueros,Mar del Plata,Peces,Corvina blanca,30
+2019-01,Fresqueros,Mar del Plata,Peces,Gatuzo,149
+2019-01,Fresqueros,Mar del Plata,Peces,Gatuzo,28
+2019-01,Fresqueros,Mar del Plata,Peces,Lenguados nep,423
+2019-01,Fresqueros,Mar del Plata,Peces,Lenguados nep,22
+2019-01,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,6
+2019-01,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,26707
+2019-01,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,40
+2019-01,Fresqueros,Mar del Plata,Peces,Mero,18545579
+2019-01,Fresqueros,Mar del Plata,Peces,Mero,96
+2019-01,Fresqueros,Mar del Plata,Peces,Notothenia,600
+2019-01,Fresqueros,Mar del Plata,Peces,Palometa,1350
+2019-01,Fresqueros,Mar del Plata,Peces,Pargo,240
+2019-01,Fresqueros,Mar del Plata,Peces,Pescadilla,360
+2019-01,Fresqueros,Mar del Plata,Peces,Pez gallo,2700
+2019-01,Fresqueros,Mar del Plata,Peces,Pez gallo,4479
+2019-01,Fresqueros,Mar del Plata,Peces,Pez palo,419007
+2019-01,Fresqueros,Mar del Plata,Peces,Pez sable,66
+2019-01,Fresqueros,Mar del Plata,Peces,Pez ángel,544
+2019-01,Fresqueros,Mar del Plata,Peces,Pez ángel,3943
+2019-01,Fresqueros,Mar del Plata,Peces,Rayas nep,3047
+2019-01,Fresqueros,Mar del Plata,Peces,Rayas nep,3270
+2019-01,Fresqueros,Mar del Plata,Peces,Rubio,896
+2019-01,Fresqueros,Mar del Plata,Peces,Róbalo,58752
+2019-01,Fresqueros,Mar del Plata,Peces,Salmonete,175
+2019-01,Fresqueros,Mar del Plata,Peces,Salmón de mar,279
+2019-01,Fresqueros,Mar del Plata,Peces,Salmón de mar,3995
+2019-01,Fresqueros,Mar del Plata,Peces,Savorín,478020
+2019-01,Fresqueros,Mar del Plata,Peces,Tiburones nep,350
+2019-01,Fresqueros,Mar del Plata,Peces,Tiburones nep,2115
+2019-01,Rada o ría,Mar del Plata,Crustáceos,Cangrejo,450
+2019-01,Rada o ría,Mar del Plata,Moluscos,Calamar Loligo,21014
+2019-01,Rada o ría,Mar del Plata,Peces,Besugo,2644
+2019-01,Rada o ría,Mar del Plata,Peces,Besugo,703
+2019-01,Rada o ría,Mar del Plata,Peces,Caballa,60
+2019-01,Rada o ría,Mar del Plata,Peces,Chernia,728793
+2019-01,Rada o ría,Mar del Plata,Peces,Corvina blanca,20982
+2019-01,Rada o ría,Mar del Plata,Peces,Corvina blanca,8320
+2019-01,Rada o ría,Mar del Plata,Peces,Gatuzo,3808
+2019-01,Rada o ría,Mar del Plata,Peces,Gatuzo,914414
+2019-01,Rada o ría,Mar del Plata,Peces,Lenguados nep,64
+2019-01,Rada o ría,Mar del Plata,Peces,Lenguados nep,2555
+2019-01,Rada o ría,Mar del Plata,Peces,Merluza hubbsi,126
+2019-01,Rada o ría,Mar del Plata,Peces,Mero,128929
+2019-01,Rada o ría,Mar del Plata,Peces,Mero,91092
+2019-01,Rada o ría,Mar del Plata,Peces,Pargo,973
+2019-01,Rada o ría,Mar del Plata,Peces,Pejerrey,201
+2019-01,Rada o ría,Mar del Plata,Peces,Pescadilla,20459
+2019-01,Rada o ría,Mar del Plata,Peces,Pescadilla,510
+2019-01,Rada o ría,Mar del Plata,Peces,Pez palo,35
+2019-01,Rada o ría,Mar del Plata,Peces,Pez palo,60
+2019-01,Rada o ría,Mar del Plata,Peces,Pez ángel,153926
+2019-01,Rada o ría,Mar del Plata,Peces,Pez ángel,376
+2019-01,Rada o ría,Mar del Plata,Peces,Rayas nep,22617
+2019-01,Rada o ría,Mar del Plata,Peces,Rayas nep,401
+2019-01,Rada o ría,Mar del Plata,Peces,Salmonete,13139
+2019-01,Rada o ría,Mar del Plata,Peces,Salmón de mar,59998
+2019-01,Rada o ría,Mar del Plata,Peces,Salmón de mar,14766
+2019-01,Rada o ría,Mar del Plata,Peces,Tiburones nep,4398352
+2019-01,Fresqueros,Necochea / Quequén,Peces,Merluza hubbsi,7766
+2019-01,Fresqueros,Necochea / Quequén,Peces,Raya hocicuda / picuda,2126
+2019-01,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,30
+2019-01,Rada o ría,Necochea / Quequén,Moluscos,Caracol,429
+2019-01,Rada o ría,Necochea / Quequén,Peces,Besugo,6239
+2019-01,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,21677
+2019-01,Rada o ría,Necochea / Quequén,Peces,Gatuzo,5004
+2019-01,Rada o ría,Necochea / Quequén,Peces,Jurel,4415
+2019-01,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,19851
+2019-01,Rada o ría,Necochea / Quequén,Peces,Mero,4861
+2019-01,Rada o ría,Necochea / Quequén,Peces,Pargo,277
+2019-01,Rada o ría,Necochea / Quequén,Peces,Pescadilla,13845
+2019-01,Rada o ría,Necochea / Quequén,Peces,Pez gallo,149380
+2019-01,Rada o ría,Necochea / Quequén,Peces,Pez palo,36495
+2019-01,Rada o ría,Necochea / Quequén,Peces,Pez ángel,3380
+2019-01,Rada o ría,Necochea / Quequén,Peces,Rayas nep,65
+2019-01,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,227
+2019-01,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,6419
+2019-01,Congeladores poteros nacionales,otros puertos Buenos Aires,Moluscos,Calamar Illex,3945
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Bagre,1089
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,494
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Corvina negra,138
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Gatuzo,10116
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Palometa,252
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Pescadilla,3562
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Pez ángel,6360
+2019-01,Costeros,otros puertos Buenos Aires,Peces,Rayas nep,5410
+2019-01,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,178591
+2019-01,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,89
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Bagre,5721
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Brótola,30
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,1003602
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,44534
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Lenguados nep,118
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Lisa,353040
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,420
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,980
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,2819
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Pez gallo,245
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Pez ángel,890
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Rayas nep,50147
+2019-01,Rada o ría,otros puertos Buenos Aires,Peces,Rayas nep,372000
+2019-01,Congeladores poteros nacionales,Puerto Deseado,Moluscos,Calamar Illex,60
+2019-01,Congeladores trampas,Puerto Deseado,Crustáceos,Centolla,110
+2019-01,Fresqueros,Puerto Deseado,Crustáceos,Centolla,490
+2019-01,Fresqueros,Puerto Deseado,Moluscos,Calamar Illex,200
+2019-01,Fresqueros,Puerto Deseado,Peces,Abadejo,3030
+2019-01,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,7390
+2019-01,Fresqueros,Puerto Deseado,Peces,Notothenia,60990
+2019-01,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,70
+2019-01,Fresqueros,Puerto Deseado,Peces,Rubio,490
+2019-01,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Illex,6013
+2019-01,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,1525
+2019-01,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,50
+2019-01,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,250
+2019-01,Congeladores poteros nacionales,Puerto Madryn,Moluscos,Calamar Illex,78670
+2019-01,Costeros,Puerto Madryn,Crustáceos,Langostino,9535
+2019-01,Costeros,Puerto Madryn,Peces,Salmón de mar,92473
+2019-01,Costeros,Rawson,Crustáceos,Langostino,2280
+2019-01,Costeros,Rawson,Peces,Merluza hubbsi,14427
+2019-01,Fresqueros,Rawson,Crustáceos,Langostino,3785
+2019-01,Rada o ría,Rawson,Crustáceos,Langostino,43465
+2019-01,Rada o ría,Rawson,Moluscos,Calamar Illex,4030
+2019-01,Rada o ría,Rawson,Moluscos,Calamar Loligo,695
+2019-01,Rada o ría,Rawson,Peces,Merluza hubbsi,2265
+2019-01,Rada o ría,Rawson,Peces,Mero,3130
+2019-01,Rada o ría,Rawson,Peces,Pejerrey,100
+2019-01,Rada o ría,Rawson,Peces,Pez gallo,5046
+2019-01,Rada o ría,Rawson,Peces,Salmón de mar,475
+2019-01,Costeros,Rosales,Peces,Gatuzo,1575
+2019-01,Costeros,Rosales,Peces,Lenguados nep,9175
+2019-01,Costeros,Rosales,Peces,Palometa,500
+2019-01,Costeros,Rosales,Peces,Pescadilla,26790
+2019-01,Costeros,San Antonio Este,Crustáceos,Langostino,161
+2019-01,Costeros,San Antonio Este,Peces,Lenguados nep,1080
+2019-01,Costeros,San Antonio Este,Peces,Merluza hubbsi,8603
+2019-01,Costeros,San Antonio Este,Peces,Mero,2329
+2019-01,Costeros,San Antonio Este,Peces,Otras especies de peces,19633
+2019-01,Costeros,San Antonio Este,Peces,Pez gallo,9854
+2019-01,Costeros,San Antonio Este,Peces,Raya hocicuda / picuda,18717
+2019-01,Costeros,San Antonio Este,Peces,Rayas nep,104
+2019-01,Costeros,San Antonio Este,Peces,Salmón de mar,285
+2019-01,Costeros,San Antonio Oeste,Crustáceos,Langostino,12042
+2019-01,Costeros,San Antonio Oeste,Moluscos,Calamar Illex,4630
+2019-01,Costeros,San Antonio Oeste,Peces,Gatuzo,10
+2019-01,Costeros,San Antonio Oeste,Peces,Lenguados nep,53
+2019-01,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,1015
+2019-01,Costeros,San Antonio Oeste,Peces,Mero,850
+2019-01,Costeros,San Antonio Oeste,Peces,Otras especies de peces,45
+2019-01,Costeros,San Antonio Oeste,Peces,Palometa,920
+2019-01,Costeros,San Antonio Oeste,Peces,Pez gallo,450
+2019-01,Costeros,San Antonio Oeste,Peces,Raya hocicuda / picuda,72
+2019-01,Costeros,San Antonio Oeste,Peces,Salmón de mar,1076
+2019-01,Rada o ría,San Antonio Oeste,Crustáceos,Langostino,15
+2019-01,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,10
+2019-01,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,1560
+2019-01,Rada o ría,San Antonio Oeste,Peces,Pez gallo,24
+2019-01,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,3474248
+2019-01,Costeros,San Clemente del Tuyú,Peces,Pescadilla real,864
+2019-01,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,2784
+2019-01,Rada o ría,San Clemente del Tuyú,Peces,Lisa,8160
+2019-01,Fresqueros,San Julián,Crustáceos,Centolla,14656
+2019-01,Congeladores arrastreros,Ushuaia,Moluscos,Vieira (callos),2
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Abadejo,12416
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,2432
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Granadero,52238
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,60
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,23146
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,4745
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Polaca,60
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,20400
+2019-01,Congeladores arrastreros,Ushuaia,Peces,Savorín,180
+2019-02,Congeladores poteros nacionales,Caleta Olivia / Paula,Moluscos,Calamar Illex,3850341
+2019-02,Costeros,Caleta Olivia / Paula,Peces,Merluza hubbsi,66136
+2019-02,Costeros,Caleta Olivia / Paula,Peces,Rayas nep,3079
+2019-02,Fresqueros,Caleta Olivia / Paula,Crustáceos,Centolla,538
+2019-02,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,2417166
+2019-02,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,29
+2019-02,Rada o ría,Caleta Olivia / Paula,Peces,Pez gallo,16
+2019-02,Congeladores poteros nacionales,Comodoro Rivadavia,Moluscos,Calamar Illex,95
+2019-02,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,52248
+2019-02,Costeros,Comodoro Rivadavia,Peces,Pez gallo,611
+2019-02,Fresqueros,Comodoro Rivadavia,Crustáceos,Centolla,1258
+2019-02,Fresqueros,Comodoro Rivadavia,Moluscos,Calamar Illex,702
+2019-02,Fresqueros,Comodoro Rivadavia,Peces,Abadejo,8795
+2019-02,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,708
+2019-02,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,203044
+2019-02,Fresqueros,Comodoro Rivadavia,Peces,Pez gallo,3033218
+2019-02,Fresqueros,Comodoro Rivadavia,Peces,Rayas nep,54754
+2019-02,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,31
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,890648
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,26
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Caballa,58763
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,55
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Mero,226965
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Notothenia,7531
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Palometa,15926
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,11005
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,14034
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,2218348
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,46321
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,181622
+2019-02,Congeladores arrastreros,Mar del Plata,Peces,Rubio,1957
+2019-02,Congeladores poteros nacionales,Mar del Plata,Moluscos,Calamar Illex,15674
+2019-02,Congeladores trampas,Mar del Plata,Crustáceos,Centolla,300
+2019-02,Costeros,Mar del Plata,Crustáceos,Cangrejo,155790
+2019-02,Costeros,Mar del Plata,Crustáceos,Langostino,580177
+2019-02,Costeros,Mar del Plata,Moluscos,Calamar Illex,1226152
+2019-02,Costeros,Mar del Plata,Moluscos,Calamar Loligo,11721596
+2019-02,Costeros,Mar del Plata,Peces,Abadejo,521386
+2019-02,Costeros,Mar del Plata,Peces,Anchoa de banco,14415622
+2019-02,Costeros,Mar del Plata,Peces,Anchoa de banco,5260399
+2019-02,Costeros,Mar del Plata,Peces,Bacalao austral,72858
+2019-02,Costeros,Mar del Plata,Peces,Bagre,61693
+2019-02,Costeros,Mar del Plata,Peces,Besugo,112424
+2019-02,Costeros,Mar del Plata,Peces,Besugo,134800
+2019-02,Costeros,Mar del Plata,Peces,Brótola,920
+2019-02,Costeros,Mar del Plata,Peces,Brótola,423087
+2019-02,Costeros,Mar del Plata,Peces,Caballa,637
+2019-02,Costeros,Mar del Plata,Peces,Chernia,1811
+2019-02,Costeros,Mar del Plata,Peces,Corvina blanca,459
+2019-02,Costeros,Mar del Plata,Peces,Corvina blanca,294
+2019-02,Costeros,Mar del Plata,Peces,Corvina negra,7022
+2019-02,Costeros,Mar del Plata,Peces,Gatuzo,19279
+2019-02,Costeros,Mar del Plata,Peces,Gatuzo,34
+2019-02,Costeros,Mar del Plata,Peces,Lenguados nep,19246
+2019-02,Costeros,Mar del Plata,Peces,Lenguados nep,208
+2019-02,Costeros,Mar del Plata,Peces,Merluza hubbsi,1213
+2019-02,Costeros,Mar del Plata,Peces,Merluza hubbsi,11108
+2019-02,Costeros,Mar del Plata,Peces,Merluza hubbsi,324814
+2019-02,Costeros,Mar del Plata,Peces,Mero,1244
+2019-02,Costeros,Mar del Plata,Peces,Mero,4361
+2019-02,Costeros,Mar del Plata,Peces,Palometa,1231
+2019-02,Costeros,Mar del Plata,Peces,Papafigo,30
+2019-02,Costeros,Mar del Plata,Peces,Pargo,484
+2019-02,Costeros,Mar del Plata,Peces,Pargo,624660
+2019-02,Costeros,Mar del Plata,Peces,Pescadilla,13245
+2019-02,Costeros,Mar del Plata,Peces,Pescadilla,4467
+2019-02,Costeros,Mar del Plata,Peces,Pescadilla real,209547
+2019-02,Costeros,Mar del Plata,Peces,Pez gallo,55957
+2019-02,Costeros,Mar del Plata,Peces,Pez gallo,489113
+2019-02,Costeros,Mar del Plata,Peces,Pez palo,448113
+2019-02,Costeros,Mar del Plata,Peces,Pez palo,150619
+2019-02,Costeros,Mar del Plata,Peces,Pez sable,103119
+2019-02,Costeros,Mar del Plata,Peces,Pez ángel,5109
+2019-02,Costeros,Mar del Plata,Peces,Pez ángel,44759
+2019-02,Costeros,Mar del Plata,Peces,Raya hocicuda / picuda,11344
+2019-02,Costeros,Mar del Plata,Peces,Raya hocicuda / picuda,442
+2019-02,Costeros,Mar del Plata,Peces,Rayas nep,4880
+2019-02,Costeros,Mar del Plata,Peces,Rayas nep,58536
+2019-02,Costeros,Mar del Plata,Peces,Rubio,31965
+2019-02,Costeros,Mar del Plata,Peces,Salmonete,227801
+2019-02,Costeros,Mar del Plata,Peces,Salmón de mar,3162
+2019-02,Costeros,Mar del Plata,Peces,Salmón de mar,284
+2019-02,Costeros,Mar del Plata,Peces,Tiburones nep,3156
+2019-02,Costeros,Mar del Plata,Peces,Tiburones nep,116231
+2019-02,Fresqueros,Mar del Plata,Crustáceos,Langostino,788937
+2019-02,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,256
+2019-02,Fresqueros,Mar del Plata,Peces,Abadejo,26040
+2019-02,Fresqueros,Mar del Plata,Peces,Anchoa de banco,277530
+2019-02,Fresqueros,Mar del Plata,Peces,Bacalao austral,8325
+2019-02,Fresqueros,Mar del Plata,Peces,Besugo,7807
+2019-02,Fresqueros,Mar del Plata,Peces,Brótola,188365
+2019-02,Fresqueros,Mar del Plata,Peces,Caballa,489674
+2019-02,Fresqueros,Mar del Plata,Peces,Cazón,128
+2019-02,Fresqueros,Mar del Plata,Peces,Corvina blanca,28304
+2019-02,Fresqueros,Mar del Plata,Peces,Gatuzo,7229
+2019-02,Fresqueros,Mar del Plata,Peces,Lenguados nep,30678
+2019-02,Fresqueros,Mar del Plata,Peces,Lenguados nep,167
+2019-02,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,1760
+2019-02,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,10
+2019-02,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,90
+2019-02,Fresqueros,Mar del Plata,Peces,Mero,569
+2019-02,Fresqueros,Mar del Plata,Peces,Mero,40
+2019-02,Fresqueros,Mar del Plata,Peces,Notothenia,1400
+2019-02,Fresqueros,Mar del Plata,Peces,Otras especies de peces,10
+2019-02,Fresqueros,Mar del Plata,Peces,Palometa,10
+2019-02,Fresqueros,Mar del Plata,Peces,Pargo,215
+2019-02,Fresqueros,Mar del Plata,Peces,Pescadilla,58
+2019-02,Fresqueros,Mar del Plata,Peces,Pescadilla real,114
+2019-02,Fresqueros,Mar del Plata,Peces,Pez gallo,13651
+2019-02,Fresqueros,Mar del Plata,Peces,Pez gallo,11645
+2019-02,Fresqueros,Mar del Plata,Peces,Pez palo,9432248
+2019-02,Fresqueros,Mar del Plata,Peces,Pez sable,384
+2019-02,Fresqueros,Mar del Plata,Peces,Pez ángel,102
+2019-02,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,165
+2019-02,Fresqueros,Mar del Plata,Peces,Rayas nep,6111
+2019-02,Fresqueros,Mar del Plata,Peces,Rayas nep,33
+2019-02,Fresqueros,Mar del Plata,Peces,Rubio,426908
+2019-02,Fresqueros,Mar del Plata,Peces,Salmón de mar,3811
+2019-02,Fresqueros,Mar del Plata,Peces,Salmón de mar,774
+2019-02,Fresqueros,Mar del Plata,Peces,Savorín,1730
+2019-02,Fresqueros,Mar del Plata,Peces,Tiburones nep,32416
+2019-02,Fresqueros,Mar del Plata,Peces,Tiburones nep,495
+2019-02,Rada o ría,Mar del Plata,Crustáceos,Cangrejo,198
+2019-02,Rada o ría,Mar del Plata,Moluscos,Calamar Loligo,576
+2019-02,Rada o ría,Mar del Plata,Peces,Anchoa de banco,5893
+2019-02,Rada o ría,Mar del Plata,Peces,Besugo,14592
+2019-02,Rada o ría,Mar del Plata,Peces,Besugo,14604
+2019-02,Rada o ría,Mar del Plata,Peces,Bonito,2808
+2019-02,Rada o ría,Mar del Plata,Peces,Brótola,160
+2019-02,Rada o ría,Mar del Plata,Peces,Castañeta,379042
+2019-02,Rada o ría,Mar del Plata,Peces,Corvina blanca,1922
+2019-02,Rada o ría,Mar del Plata,Peces,Corvina blanca,12783
+2019-02,Rada o ría,Mar del Plata,Peces,Gatuzo,766
+2019-02,Rada o ría,Mar del Plata,Peces,Gatuzo,384
+2019-02,Rada o ría,Mar del Plata,Peces,Jurel,100
+2019-02,Rada o ría,Mar del Plata,Peces,Lenguados nep,150
+2019-02,Rada o ría,Mar del Plata,Peces,Lenguados nep,29944
+2019-02,Rada o ría,Mar del Plata,Peces,Mero,317078
+2019-02,Rada o ría,Mar del Plata,Peces,Mero,22916
+2019-02,Rada o ría,Mar del Plata,Peces,Pargo,1211
+2019-02,Rada o ría,Mar del Plata,Peces,Pescadilla,676
+2019-02,Rada o ría,Mar del Plata,Peces,Pescadilla,57669
+2019-02,Rada o ría,Mar del Plata,Peces,Pez limón,1056564
+2019-02,Rada o ría,Mar del Plata,Peces,Pez palo,414
+2019-02,Rada o ría,Mar del Plata,Peces,Pez palo,1858
+2019-02,Rada o ría,Mar del Plata,Peces,Pez ángel,378
+2019-02,Rada o ría,Mar del Plata,Peces,Pez ángel,239892
+2019-02,Rada o ría,Mar del Plata,Peces,Rayas nep,197689
+2019-02,Rada o ría,Mar del Plata,Peces,Rayas nep,1881
+2019-02,Rada o ría,Mar del Plata,Peces,Salmonete,894
+2019-02,Rada o ría,Mar del Plata,Peces,Salmón de mar,18902
+2019-02,Rada o ría,Mar del Plata,Peces,Salmón de mar,874
+2019-02,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,6245
+2019-02,Rada o ría,Necochea / Quequén,Moluscos,Caracol,29
+2019-02,Rada o ría,Necochea / Quequén,Peces,Besugo,155385
+2019-02,Rada o ría,Necochea / Quequén,Peces,Brótola,8944
+2019-02,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,1370
+2019-02,Rada o ría,Necochea / Quequén,Peces,Gatuzo,16986
+2019-02,Rada o ría,Necochea / Quequén,Peces,Jurel,3808753
+2019-02,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,770307
+2019-02,Rada o ría,Necochea / Quequén,Peces,Mero,6211193
+2019-02,Rada o ría,Necochea / Quequén,Peces,Pargo,862
+2019-02,Rada o ría,Necochea / Quequén,Peces,Pescadilla,995
+2019-02,Rada o ría,Necochea / Quequén,Peces,Pez gallo,1734
+2019-02,Rada o ría,Necochea / Quequén,Peces,Pez palo,35
+2019-02,Rada o ría,Necochea / Quequén,Peces,Pez ángel,1122
+2019-02,Rada o ría,Necochea / Quequén,Peces,Rayas nep,1038
+2019-02,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,38387
+2019-02,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,70
+2019-02,Congeladores poteros nacionales,otros puertos Buenos Aires,Moluscos,Calamar Illex,32
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Brótola,204
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Cazón,8840
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,219
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Gatuzo,13264
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Lisa,3080
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Otras especies de peces,506152
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Palometa,43381
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Pescadilla,798
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Pez ángel,34
+2019-02,Costeros,otros puertos Buenos Aires,Peces,Rayas nep,2037
+2019-02,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,336
+2019-02,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,90
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Bagre,32
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Bonito,7204
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Brótola,3578
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,592991
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,2384
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Lenguados nep,28
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,27
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,609899
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,967050
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,750
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla real,580
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Pez gallo,1832
+2019-02,Rada o ría,otros puertos Buenos Aires,Peces,Pez ángel,40
+2019-02,Congeladores arrastreros,Puerto Deseado,Peces,Merluza negra,780
+2019-02,Congeladores poteros nacionales,Puerto Deseado,Moluscos,Calamar Illex,26171
+2019-02,Congeladores trampas,Puerto Deseado,Crustáceos,Centolla,16595
+2019-02,Fresqueros,Puerto Deseado,Moluscos,Calamar Illex,80
+2019-02,Fresqueros,Puerto Deseado,Peces,Abadejo,35
+2019-02,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,105
+2019-02,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,1540
+2019-02,Fresqueros,Puerto Deseado,Peces,Rubio,2040
+2019-02,Fresqueros,Puerto Deseado,Peces,Róbalo,2880
+2019-02,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Illex,700
+2019-02,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,9800
+2019-02,Congeladores arrastreros,Puerto Madryn,Peces,Caballa,37744
+2019-02,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,1190
+2019-02,Congeladores arrastreros,Puerto Madryn,Peces,Notothenia,6594
+2019-02,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,8000
+2019-02,Congeladores arrastreros,Puerto Madryn,Peces,Rubio,225
+2019-02,Congeladores poteros nacionales,Puerto Madryn,Moluscos,Calamar Illex,78542
+2019-02,Costeros,Puerto Madryn,Crustáceos,Langostino,710
+2019-02,Costeros,Punta Colorada,Crustáceos,Langostino,14400
+2019-02,Costeros,Rawson,Crustáceos,Langostino,61335
+2019-02,Costeros,Rawson,Peces,Merluza hubbsi,3960
+2019-02,Fresqueros,Rawson,Crustáceos,Langostino,14055
+2019-02,Rada o ría,Rawson,Crustáceos,Langostino,5320
+2019-02,Rada o ría,Rawson,Moluscos,Calamar Illex,28170
+2019-02,Rada o ría,Rawson,Moluscos,Calamar Loligo,1225
+2019-02,Rada o ría,Rawson,Peces,Merluza hubbsi,1220
+2019-02,Rada o ría,Rawson,Peces,Mero,4117
+2019-02,Rada o ría,Rawson,Peces,Pez gallo,1307
+2019-02,Rada o ría,Rawson,Peces,Salmón de mar,5577
+2019-02,Rada o ría,Río Salado,Peces,Anchoa de banco,9094
+2019-02,Rada o ría,Río Salado,Peces,Lisa,283
+2019-02,Rada o ría,Río Salado,Peces,Otras especies de peces,3140
+2019-02,Rada o ría,Río Salado,Peces,Pescadilla,12709
+2019-02,Rada o ría,Río Salado,Peces,Pescadilla real,600
+2019-02,Rada o ría,Río Salado,Peces,Raya lisa,36462
+2019-02,Congeladores poteros nacionales,Rosales,Moluscos,Calamar Illex,1812
+2019-02,Costeros,San Antonio Este,Peces,Cazón,1150
+2019-02,Costeros,San Antonio Este,Peces,Gatuzo,10064
+2019-02,Costeros,San Antonio Este,Peces,Lenguados nep,184
+2019-02,Costeros,San Antonio Este,Peces,Merluza de cola,22319
+2019-02,Costeros,San Antonio Este,Peces,Merluza hubbsi,13558
+2019-02,Costeros,San Antonio Este,Peces,Mero,27808
+2019-02,Costeros,San Antonio Este,Peces,Otras especies de peces,2648
+2019-02,Costeros,San Antonio Este,Peces,Palometa,213
+2019-02,Costeros,San Antonio Este,Peces,Pez gallo,4045
+2019-02,Costeros,San Antonio Este,Peces,Pez ángel,100
+2019-02,Costeros,San Antonio Este,Peces,Raya lisa,30
+2019-02,Costeros,San Antonio Este,Peces,Raya marmolada,180
+2019-02,Costeros,San Antonio Este,Peces,Rayas nep,30
+2019-02,Costeros,San Antonio Este,Peces,Salmón de mar,2460
+2019-02,Rada o ría,San Antonio Este,Crustáceos,Langostino,600
+2019-02,Rada o ría,San Antonio Este,Peces,Merluza hubbsi,15
+2019-02,Rada o ría,San Antonio Este,Peces,Mero,6480
+2019-02,Rada o ría,San Antonio Este,Peces,Pez gallo,45
+2019-02,Costeros,San Antonio Oeste,Crustáceos,Langostino,90
+2019-02,Costeros,San Antonio Oeste,Peces,Lenguados nep,600
+2019-02,Costeros,San Antonio Oeste,Peces,Merluza de cola,351
+2019-02,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,15
+2019-02,Costeros,San Antonio Oeste,Peces,Otras especies de peces,60
+2019-02,Costeros,San Antonio Oeste,Peces,Pez gallo,1986223
+2019-02,Costeros,San Antonio Oeste,Peces,Raya hocicuda / picuda,3104
+2019-02,Costeros,San Antonio Oeste,Peces,Rayas nep,5597
+2019-02,Costeros,San Antonio Oeste,Peces,Salmón de mar,5192
+2019-02,Rada o ría,San Antonio Oeste,Crustáceos,Langostino,7698
+2019-02,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,5568
+2019-02,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,751
+2019-02,Rada o ría,San Antonio Oeste,Peces,Mero,1760
+2019-02,Rada o ría,San Antonio Oeste,Peces,Otras especies de peces,7439
+2019-02,Rada o ría,San Antonio Oeste,Peces,Pez gallo,14493
+2019-02,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,5860
+2019-02,Rada o ría,San Antonio Oeste,Peces,Salmón de mar,6790
+2019-02,Costeros,San Clemente del Tuyú,Peces,Otras especies de peces,4768
+2019-02,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,13137
+2019-02,Rada o ría,San Clemente del Tuyú,Peces,Lisa,320
+2019-02,Rada o ría,San Clemente del Tuyú,Peces,Otras especies de peces,512
+2019-02,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla real,544
+2019-02,Congeladores arrastreros,Ushuaia,Moluscos,Calamar Illex,28124
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Abadejo,90
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,148884
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Granadero,30
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,70
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,7949
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Merluza hubbsi,840
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,90
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Pampanito,7200
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Polaca,1620
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,1390
+2019-02,Congeladores arrastreros,Ushuaia,Peces,Savorín,168
+2019-03,Rada o ría,Bahía Blanca,Crustáceos,Camarón,341668
+2019-03,Congeladores poteros nacionales,Caleta Olivia / Paula,Moluscos,Calamar Illex,204
+2019-03,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,58206
+2019-03,Costeros,Caleta Olivia / Paula,Peces,Merluza hubbsi,28282
+2019-03,Fresqueros,Caleta Olivia / Paula,Crustáceos,Centolla,3600
+2019-03,Fresqueros,Caleta Olivia / Paula,Peces,Abadejo,5279
+2019-03,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,2803888
+2019-03,Fresqueros,Caleta Olivia / Paula,Peces,Pez gallo,17
+2019-03,Fresqueros,Caleta Olivia / Paula,Peces,Rayas nep,32295
+2019-03,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,2014
+2019-03,Fresqueros,Camarones,Crustáceos,Centolla,93
+2019-03,Fresqueros,Camarones,Peces,Merluza hubbsi,349628
+2019-03,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,655629
+2019-03,Costeros,Comodoro Rivadavia,Peces,Pez gallo,106
+2019-03,Fresqueros,Comodoro Rivadavia,Crustáceos,Centolla,33903
+2019-03,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,1063
+2019-03,Fresqueros,Comodoro Rivadavia,Peces,Pez gallo,7142
+2019-03,Costeros,General Lavalle,Peces,Bagre,101041
+2019-03,Costeros,General Lavalle,Peces,Corvina blanca,3631117
+2019-03,Costeros,General Lavalle,Peces,Lisa,1248
+2019-03,Costeros,General Lavalle,Peces,Otras especies de peces,72020
+2019-03,Costeros,General Lavalle,Peces,Pescadilla real,1656
+2019-03,Costeros,General Lavalle,Peces,Rayas nep,369
+2019-03,Rada o ría,General Lavalle,Peces,Bagre,3469
+2019-03,Rada o ría,General Lavalle,Peces,Corvina blanca,3174
+2019-03,Rada o ría,General Lavalle,Peces,Lenguados nep,17937
+2019-03,Rada o ría,General Lavalle,Peces,Lisa,22959
+2019-03,Rada o ría,General Lavalle,Peces,Otras especies de peces,19104
+2019-03,Rada o ría,General Lavalle,Peces,Pescadilla real,3960792
+2019-03,Rada o ría,General Lavalle,Peces,Rayas nep,948878
+2019-03,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,3075
+2019-03,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Loligo,1481
+2019-03,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),344937
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,930
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,441442
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Caballa,30684
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,5882714
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Merluza negra,3
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,203137
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,3719616
+2019-03,Congeladores arrastreros,Mar del Plata,Peces,Rubio,11
+2019-03,Congeladores poteros nacionales,Mar del Plata,Moluscos,Calamar Illex,1092871
+2019-03,Congeladores poteros nacionales,Mar del Plata,Moluscos,Calamar Loligo,44442
+2019-03,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,239462
+2019-03,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,1685726
+2019-03,Costeros,Mar del Plata,Crustáceos,Cangrejo,1916
+2019-03,Costeros,Mar del Plata,Crustáceos,Langostino,3679440
+2019-03,Costeros,Mar del Plata,Moluscos,Calamar Illex,6538
+2019-03,Costeros,Mar del Plata,Moluscos,Calamar Loligo,1346
+2019-03,Costeros,Mar del Plata,Peces,Abadejo,326494
+2019-03,Costeros,Mar del Plata,Peces,Anchoa de banco,92576
+2019-03,Costeros,Mar del Plata,Peces,Anchoa de banco,150680
+2019-03,Costeros,Mar del Plata,Peces,Bacalao austral,359759
+2019-03,Costeros,Mar del Plata,Peces,Bagre,3293
+2019-03,Costeros,Mar del Plata,Peces,Besugo,120
+2019-03,Costeros,Mar del Plata,Peces,Besugo,17000
+2019-03,Costeros,Mar del Plata,Peces,Brótola,30
+2019-03,Costeros,Mar del Plata,Peces,Brótola,30
+2019-03,Costeros,Mar del Plata,Peces,Caballa,1650
+2019-03,Costeros,Mar del Plata,Peces,Castañeta,90
+2019-03,Costeros,Mar del Plata,Peces,Chernia,331
+2019-03,Costeros,Mar del Plata,Peces,Corvina blanca,2618
+2019-03,Costeros,Mar del Plata,Peces,Corvina blanca,2221
+2019-03,Costeros,Mar del Plata,Peces,Gatuzo,840
+2019-03,Costeros,Mar del Plata,Peces,Gatuzo,5371
+2019-03,Costeros,Mar del Plata,Peces,Lenguados nep,307
+2019-03,Costeros,Mar del Plata,Peces,Lenguados nep,30195
+2019-03,Costeros,Mar del Plata,Peces,Lisa,272
+2019-03,Costeros,Mar del Plata,Peces,Merluza hubbsi,1846
+2019-03,Costeros,Mar del Plata,Peces,Merluza hubbsi,34498
+2019-03,Costeros,Mar del Plata,Peces,Merluza hubbsi,280768
+2019-03,Costeros,Mar del Plata,Peces,Mero,2134
+2019-03,Costeros,Mar del Plata,Peces,Mero,5875
+2019-03,Costeros,Mar del Plata,Peces,Otras especies de peces,2343
+2019-03,Costeros,Mar del Plata,Peces,Palometa,960
+2019-03,Costeros,Mar del Plata,Peces,Pampanito,31
+2019-03,Costeros,Mar del Plata,Peces,Papafigo,4223
+2019-03,Costeros,Mar del Plata,Peces,Pargo,719545
+2019-03,Costeros,Mar del Plata,Peces,Pargo,11600
+2019-03,Costeros,Mar del Plata,Peces,Pescadilla,175797
+2019-03,Costeros,Mar del Plata,Peces,Pescadilla,33171
+2019-03,Costeros,Mar del Plata,Peces,Pescadilla real,428266
+2019-03,Costeros,Mar del Plata,Peces,Pez gallo,992
+2019-03,Costeros,Mar del Plata,Peces,Pez gallo,64895
+2019-03,Costeros,Mar del Plata,Peces,Pez palo,17914
+2019-03,Costeros,Mar del Plata,Peces,Pez palo,261882
+2019-03,Costeros,Mar del Plata,Peces,Pez sable,6558
+2019-03,Costeros,Mar del Plata,Peces,Pez ángel,78282
+2019-03,Costeros,Mar del Plata,Peces,Pez ángel,693
+2019-03,Costeros,Mar del Plata,Peces,Rayas nep,11934
+2019-03,Costeros,Mar del Plata,Peces,Rayas nep,34
+2019-03,Costeros,Mar del Plata,Peces,Rubio,1434
+2019-03,Costeros,Mar del Plata,Peces,Salmonete,3392
+2019-03,Costeros,Mar del Plata,Peces,Salmón de mar,38711
+2019-03,Costeros,Mar del Plata,Peces,Salmón de mar,30147
+2019-03,Costeros,Mar del Plata,Peces,Tiburones nep,421760
+2019-03,Costeros,Mar del Plata,Peces,Tiburones nep,1376
+2019-03,Fresqueros,Mar del Plata,Crustáceos,Langostino,1475
+2019-03,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,22492
+2019-03,Fresqueros,Mar del Plata,Peces,Abadejo,57828
+2019-03,Fresqueros,Mar del Plata,Peces,Bacalao austral,680105
+2019-03,Fresqueros,Mar del Plata,Peces,Besugo,3934
+2019-03,Fresqueros,Mar del Plata,Peces,Brótola,26158
+2019-03,Fresqueros,Mar del Plata,Peces,Brótola,244550
+2019-03,Fresqueros,Mar del Plata,Peces,Caballa,80701
+2019-03,Fresqueros,Mar del Plata,Peces,Castañeta,418917
+2019-03,Fresqueros,Mar del Plata,Peces,Castañeta,420
+2019-03,Fresqueros,Mar del Plata,Peces,Cazón,15904
+2019-03,Fresqueros,Mar del Plata,Peces,Chernia,6181
+2019-03,Fresqueros,Mar del Plata,Peces,Corvina blanca,58067
+2019-03,Fresqueros,Mar del Plata,Peces,Corvina blanca,657
+2019-03,Fresqueros,Mar del Plata,Peces,Gatuzo,1776
+2019-03,Fresqueros,Mar del Plata,Peces,Gatuzo,10
+2019-03,Fresqueros,Mar del Plata,Peces,Lenguados nep,15
+2019-03,Fresqueros,Mar del Plata,Peces,Lenguados nep,1540
+2019-03,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,840
+2019-03,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,300
+2019-03,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,1800
+2019-03,Fresqueros,Mar del Plata,Peces,Merluza negra,5
+2019-03,Fresqueros,Mar del Plata,Peces,Mero,45
+2019-03,Fresqueros,Mar del Plata,Peces,Mero,1500
+2019-03,Fresqueros,Mar del Plata,Peces,Notothenia,3166180
+2019-03,Fresqueros,Mar del Plata,Peces,Otras especies de peces,288
+2019-03,Fresqueros,Mar del Plata,Peces,Otras especies de peces,80
+2019-03,Fresqueros,Mar del Plata,Peces,Palometa,80
+2019-03,Fresqueros,Mar del Plata,Peces,Papafigo,33
+2019-03,Fresqueros,Mar del Plata,Peces,Pargo,132
+2019-03,Fresqueros,Mar del Plata,Peces,Pargo,5359
+2019-03,Fresqueros,Mar del Plata,Peces,Pescadilla,528
+2019-03,Fresqueros,Mar del Plata,Peces,Pescadilla,353224
+2019-03,Fresqueros,Mar del Plata,Peces,Pez gallo,1477
+2019-03,Fresqueros,Mar del Plata,Peces,Pez gallo,272
+2019-03,Fresqueros,Mar del Plata,Peces,Pez palo,132
+2019-03,Fresqueros,Mar del Plata,Peces,Pez palo,23324
+2019-03,Fresqueros,Mar del Plata,Peces,Pez sable,297
+2019-03,Fresqueros,Mar del Plata,Peces,Pez ángel,8231
+2019-03,Fresqueros,Mar del Plata,Peces,Pez ángel,9759
+2019-03,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,165
+2019-03,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,10202
+2019-03,Fresqueros,Mar del Plata,Peces,Rayas nep,3134
+2019-03,Fresqueros,Mar del Plata,Peces,Rayas nep,352424
+2019-03,Fresqueros,Mar del Plata,Peces,Rubio,3814
+2019-03,Fresqueros,Mar del Plata,Peces,Róbalo,20854
+2019-03,Fresqueros,Mar del Plata,Peces,Salmonete,1194
+2019-03,Fresqueros,Mar del Plata,Peces,Salmón de mar,170
+2019-03,Fresqueros,Mar del Plata,Peces,Salmón de mar,150
+2019-03,Fresqueros,Mar del Plata,Peces,Savorín,2296
+2019-03,Fresqueros,Mar del Plata,Peces,Tiburones nep,259
+2019-03,Fresqueros,Mar del Plata,Peces,Tiburones nep,66
+2019-03,Rada o ría,Mar del Plata,Crustáceos,Cangrejo,70174
+2019-03,Rada o ría,Mar del Plata,Moluscos,Calamar Loligo,94
+2019-03,Rada o ría,Mar del Plata,Peces,Abadejo,2861584
+2019-03,Rada o ría,Mar del Plata,Peces,Anchoa de banco,1703
+2019-03,Rada o ría,Mar del Plata,Peces,Bagre,448
+2019-03,Rada o ría,Mar del Plata,Peces,Besugo,10098
+2019-03,Rada o ría,Mar del Plata,Peces,Bonito,259000
+2019-03,Rada o ría,Mar del Plata,Peces,Brótola,9178
+2019-03,Rada o ría,Mar del Plata,Peces,Chernia,1050797
+2019-03,Rada o ría,Mar del Plata,Peces,Cornalito,1021
+2019-03,Rada o ría,Mar del Plata,Peces,Corvina blanca,150796
+2019-03,Rada o ría,Mar del Plata,Peces,Gatuzo,79688
+2019-03,Rada o ría,Mar del Plata,Peces,Lenguados nep,106706
+2019-03,Rada o ría,Mar del Plata,Peces,Merluza hubbsi,476
+2019-03,Rada o ría,Mar del Plata,Peces,Mero,16985
+2019-03,Rada o ría,Mar del Plata,Peces,Pargo,219
+2019-03,Rada o ría,Mar del Plata,Peces,Pescadilla,494
+2019-03,Rada o ría,Mar del Plata,Peces,Pez gallo,204175
+2019-03,Rada o ría,Mar del Plata,Peces,Pez palo,68
+2019-03,Rada o ría,Mar del Plata,Peces,Pez ángel,4
+2019-03,Rada o ría,Mar del Plata,Peces,Rayas nep,28
+2019-03,Rada o ría,Mar del Plata,Peces,Salmonete,408
+2019-03,Rada o ría,Mar del Plata,Peces,Salmón de mar,1683
+2019-03,Rada o ría,Mar del Plata,Peces,Tiburones nep,21224
+2019-03,Rada o ría,Necochea / Quequén,Crustáceos,Cangrejo,4413
+2019-03,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,29209
+2019-03,Rada o ría,Necochea / Quequén,Moluscos,Caracol,5900
+2019-03,Rada o ría,Necochea / Quequén,Peces,Anchoa de banco,32892
+2019-03,Rada o ría,Necochea / Quequén,Peces,Besugo,268662
+2019-03,Rada o ría,Necochea / Quequén,Peces,Brótola,480026
+2019-03,Rada o ría,Necochea / Quequén,Peces,Congrio,10730804
+2019-03,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,201
+2019-03,Rada o ría,Necochea / Quequén,Peces,Gatuzo,9977
+2019-03,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,19191
+2019-03,Rada o ría,Necochea / Quequén,Peces,Mero,3160
+2019-03,Rada o ría,Necochea / Quequén,Peces,Pargo,377
+2019-03,Rada o ría,Necochea / Quequén,Peces,Pescadilla,5
+2019-03,Rada o ría,Necochea / Quequén,Peces,Pez gallo,102
+2019-03,Rada o ría,Necochea / Quequén,Peces,Pez palo,1976
+2019-03,Rada o ría,Necochea / Quequén,Peces,Pez ángel,2983
+2019-03,Rada o ría,Necochea / Quequén,Peces,Rayas nep,7403
+2019-03,Rada o ría,Necochea / Quequén,Peces,Salmonete,9691
+2019-03,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,19726
+2019-03,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,11206
+2019-03,Congeladores poteros nacionales,otros puertos Buenos Aires,Moluscos,Calamar Illex,60514
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Anchoa de banco,10954
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Bagre,48942
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,217
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Gatuzo,4098
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Lisa,30786
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Lisa,3199
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Palometa,3002
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Pez ángel,299573
+2019-03,Costeros,otros puertos Buenos Aires,Peces,Rayas nep,142152
+2019-03,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,396
+2019-03,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,397
+2019-03,Rada o ría,otros puertos Buenos Aires,Crustáceos,Otras especies de crustác,2786
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Bagre,3707
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,11186
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,266
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,10
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Lenguados nep,71
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Lisa,1886
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Lisa,5616
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,464008
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Pejerrey,180
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,3125
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,119684
+2019-03,Rada o ría,otros puertos Buenos Aires,Peces,Raya marmolada,175938
+2019-03,Congeladores arrastreros,Puerto Deseado,Peces,Merluza negra,279310
+2019-03,Congeladores poteros nacionales,Puerto Deseado,Moluscos,Calamar Illex,828
+2019-03,Congeladores poteros nacionales,Puerto Deseado,Moluscos,Calamar Loligo,570
+2019-03,Congeladores trampas,Puerto Deseado,Crustáceos,Centolla,20862
+2019-03,Fresqueros,Puerto Deseado,Moluscos,Calamar Illex,2840
+2019-03,Fresqueros,Puerto Deseado,Peces,Abadejo,4180
+2019-03,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,415
+2019-03,Fresqueros,Puerto Deseado,Peces,Notothenia,762500
+2019-03,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,720
+2019-03,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Illex,126350
+2019-03,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Loligo,150
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,630
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Bacalao austral,30
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Caballa,8100
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Merluza de cola,840
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,510
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Otras especies de peces,230
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,380
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Rayas nep,295
+2019-03,Congeladores arrastreros,Puerto Madryn,Peces,Rubio,200
+2019-03,Congeladores poteros nacionales,Puerto Madryn,Moluscos,Calamar Illex,24015
+2019-03,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,1500
+2019-03,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,105
+2019-03,Congeladores tangoneros,Puerto Madryn,Peces,Otras especies de peces,175
+2019-03,Fresqueros,Puerto Madryn,Crustáceos,Langostino,4040
+2019-03,Costeros,Rawson,Crustáceos,Langostino,6790
+2019-03,Costeros,Rawson,Peces,Merluza hubbsi,8085
+2019-03,Fresqueros,Rawson,Crustáceos,Langostino,34362
+2019-03,Rada o ría,Rawson,Crustáceos,Langostino,35
+2019-03,Rada o ría,Rawson,Moluscos,Calamar Illex,9815
+2019-03,Rada o ría,Rawson,Moluscos,Calamar Loligo,2365
+2019-03,Rada o ría,Rawson,Peces,Merluza hubbsi,53042
+2019-03,Rada o ría,Rawson,Peces,Mero,1105
+2019-03,Rada o ría,Rawson,Peces,Palometa,70317
+2019-03,Rada o ría,Rawson,Peces,Pez gallo,16680
+2019-03,Rada o ría,Rawson,Peces,Salmón de mar,25083
+2019-03,Rada o ría,Río Salado,Peces,Lisa,1191
+2019-03,Rada o ría,Río Salado,Peces,Otras especies de peces,7530
+2019-03,Rada o ría,Río Salado,Peces,Pescadilla,1625
+2019-03,Rada o ría,Río Salado,Peces,Pescadilla real,60
+2019-03,Rada o ría,Río Salado,Peces,Raya lisa,355
+2019-03,Congeladores poteros nacionales,Rosales,Moluscos,Calamar Illex,8583
+2019-03,Costeros,Rosales,Crustáceos,Camarón,64
+2019-03,Costeros,Rosales,Crustáceos,Langostino,11092
+2019-03,Costeros,San Antonio Este,Peces,Abadejo,248
+2019-03,Costeros,San Antonio Este,Peces,Gatuzo,424
+2019-03,Costeros,San Antonio Este,Peces,Lenguados nep,33833
+2019-03,Costeros,San Antonio Este,Peces,Merluza de cola,18394
+2019-03,Costeros,San Antonio Este,Peces,Merluza hubbsi,32365
+2019-03,Costeros,San Antonio Este,Peces,Mero,1405
+2019-03,Costeros,San Antonio Este,Peces,Otras especies de peces,100
+2019-03,Costeros,San Antonio Este,Peces,Palometa,9816
+2019-03,Costeros,San Antonio Este,Peces,Pez gallo,64
+2019-03,Costeros,San Antonio Este,Peces,Pez ángel,20608
+2019-03,Costeros,San Antonio Este,Peces,Rayas nep,14559
+2019-03,Costeros,San Antonio Este,Peces,Salmón de mar,26708
+2019-03,Costeros,San Antonio Este,Peces,Tiburones nep,93
+2019-03,Fresqueros,San Antonio Este,Peces,Merluza hubbsi,2001
+2019-03,Fresqueros,San Antonio Este,Peces,Mero,894
+2019-03,Fresqueros,San Antonio Este,Peces,Otras especies de peces,15711
+2019-03,Fresqueros,San Antonio Este,Peces,Pez gallo,1131
+2019-03,Fresqueros,San Antonio Este,Peces,Raya hocicuda / picuda,150
+2019-03,Fresqueros,San Antonio Este,Peces,Salmón de mar,302
+2019-03,Rada o ría,San Antonio Este,Crustáceos,Langostino,330
+2019-03,Costeros,San Antonio Oeste,Crustáceos,Langostino,446
+2019-03,Costeros,San Antonio Oeste,Peces,Lenguados nep,1560
+2019-03,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,120
+2019-03,Costeros,San Antonio Oeste,Peces,Otras especies de peces,160
+2019-03,Costeros,San Antonio Oeste,Peces,Pez gallo,435
+2019-03,Costeros,San Antonio Oeste,Peces,Raya hocicuda / picuda,300
+2019-03,Costeros,San Antonio Oeste,Peces,Raya lisa,100
+2019-03,Costeros,San Antonio Oeste,Peces,Rayas nep,422
+2019-03,Costeros,San Antonio Oeste,Peces,Salmón de mar,269
+2019-03,Rada o ría,San Antonio Oeste,Crustáceos,Langostino,140
+2019-03,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,412785
+2019-03,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,316
+2019-03,Rada o ría,San Antonio Oeste,Peces,Otras especies de peces,736
+2019-03,Rada o ría,San Antonio Oeste,Peces,Pez gallo,2464
+2019-03,Costeros,San Clemente del Tuyú,Peces,Lisa,320
+2019-03,Costeros,San Clemente del Tuyú,Peces,Pescadilla real,320
+2019-03,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,768
+2019-03,Rada o ría,San Clemente del Tuyú,Peces,Lisa,480
+2019-03,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla real,4250
+2019-03,Congeladores arrastreros,Ushuaia,Moluscos,Calamar Illex,34543
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Abadejo,16315
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,9958
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Granadero,10725
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,13900
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,16607
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,270
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Otras especies de peces,77493
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Pampanito,330
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Polaca,4922
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,3367
+2019-03,Congeladores arrastreros,Ushuaia,Peces,Savorín,1060
+2019-03,Congeladores trampas,Ushuaia,Crustáceos,Centolla,1733
+2019-04,Costeros,Caleta Cordova,Peces,Merluza hubbsi,102708
+2019-04,Congeladores poteros nacionales,Caleta Olivia / Paula,Moluscos,Calamar Illex,178044
+2019-04,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,35831
+2019-04,Congeladores tangoneros,Caleta Olivia / Paula,Peces,Merluza hubbsi,18534
+2019-04,Costeros,Caleta Olivia / Paula,Peces,Merluza hubbsi,742
+2019-04,Costeros,Caleta Olivia / Paula,Peces,Rayas nep,78
+2019-04,Fresqueros,Caleta Olivia / Paula,Crustáceos,Centolla,9569699
+2019-04,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,51016
+2019-04,Fresqueros,Caleta Olivia / Paula,Peces,Raya hocicuda / picuda,116469
+2019-04,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,24751
+2019-04,Fresqueros,Camarones,Crustáceos,Centolla,2781
+2019-04,Fresqueros,Camarones,Peces,Merluza hubbsi,609
+2019-04,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,97
+2019-04,Fresqueros,Comodoro Rivadavia,Crustáceos,Centolla,4377
+2019-04,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,351
+2019-04,Fresqueros,Comodoro Rivadavia,Peces,Pez gallo,38
+2019-04,Costeros,General Lavalle,Peces,Bagre,3291
+2019-04,Costeros,General Lavalle,Peces,Brótola,332
+2019-04,Costeros,General Lavalle,Peces,Congrio,9580
+2019-04,Costeros,General Lavalle,Peces,Corvina blanca,1919
+2019-04,Costeros,General Lavalle,Peces,Lenguados nep,54
+2019-04,Costeros,General Lavalle,Peces,Lisa,2143018
+2019-04,Costeros,General Lavalle,Peces,Otras especies de peces,34675
+2019-04,Costeros,General Lavalle,Peces,Pejerrey,51
+2019-04,Costeros,General Lavalle,Peces,Pescadilla,142381
+2019-04,Costeros,General Lavalle,Peces,Pescadilla real,18487
+2019-04,Costeros,General Lavalle,Peces,Pez ángel,21787
+2019-04,Costeros,General Lavalle,Peces,Rayas nep,63
+2019-04,Rada o ría,General Lavalle,Peces,Bagre,4877
+2019-04,Rada o ría,General Lavalle,Peces,Brótola,277548
+2019-04,Rada o ría,General Lavalle,Peces,Congrio,1924981
+2019-04,Rada o ría,General Lavalle,Peces,Corvina blanca,2346
+2019-04,Rada o ría,General Lavalle,Peces,Lenguados nep,8674
+2019-04,Rada o ría,General Lavalle,Peces,Lisa,22126
+2019-04,Rada o ría,General Lavalle,Peces,Otras especies de peces,728
+2019-04,Rada o ría,General Lavalle,Peces,Pejerrey,239
+2019-04,Rada o ría,General Lavalle,Peces,Pescadilla,161911
+2019-04,Rada o ría,General Lavalle,Peces,Pescadilla real,1118
+2019-04,Rada o ría,General Lavalle,Peces,Pez ángel,6640
+2019-04,Rada o ría,General Lavalle,Peces,Raya de círculos,2367
+2019-04,Rada o ría,General Lavalle,Peces,Raya marmolada,12142
+2019-04,Rada o ría,General Lavalle,Peces,Rayas nep,6813186
+2019-04,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,95628
+2019-04,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),143860
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,662
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,19852
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Caballa,14805
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Merluza de cola,1272035
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,260073
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Notothenia,109662
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,107268
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,32559
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,872664
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,536
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Rubio,1352470
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Róbalo,1607
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Salmón de mar,203861
+2019-04,Congeladores arrastreros,Mar del Plata,Peces,Savorín,409
+2019-04,Congeladores poteros nacionales,Mar del Plata,Moluscos,Calamar Illex,867054
+2019-04,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,884
+2019-04,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,4796703
+2019-04,Congeladores trampas,Mar del Plata,Crustáceos,Centolla,8559
+2019-04,Costeros,Mar del Plata,Crustáceos,Cangrejo,27
+2019-04,Costeros,Mar del Plata,Moluscos,Calamar Illex,396
+2019-04,Costeros,Mar del Plata,Moluscos,Caracol,381
+2019-04,Costeros,Mar del Plata,Moluscos,Pulpitos,255
+2019-04,Costeros,Mar del Plata,Peces,Abadejo,38661
+2019-04,Costeros,Mar del Plata,Peces,Anchoa de banco,175857
+2019-04,Costeros,Mar del Plata,Peces,Anchoa de banco,53912
+2019-04,Costeros,Mar del Plata,Peces,Bacalao austral,3174
+2019-04,Costeros,Mar del Plata,Peces,Bagre,62700
+2019-04,Costeros,Mar del Plata,Peces,Besugo,178716
+2019-04,Costeros,Mar del Plata,Peces,Besugo,140
+2019-04,Costeros,Mar del Plata,Peces,Bonito,612841
+2019-04,Costeros,Mar del Plata,Peces,Brótola,570
+2019-04,Costeros,Mar del Plata,Peces,Brótola,10
+2019-04,Costeros,Mar del Plata,Peces,Caballa,10
+2019-04,Costeros,Mar del Plata,Peces,Castañeta,24600
+2019-04,Costeros,Mar del Plata,Peces,Chernia,60
+2019-04,Costeros,Mar del Plata,Peces,Congrio,150
+2019-04,Costeros,Mar del Plata,Peces,Corvina blanca,110
+2019-04,Costeros,Mar del Plata,Peces,Corvina blanca,10
+2019-04,Costeros,Mar del Plata,Peces,Gatuzo,80
+2019-04,Costeros,Mar del Plata,Peces,Gatuzo,9470
+2019-04,Costeros,Mar del Plata,Peces,Lenguados nep,370
+2019-04,Costeros,Mar del Plata,Peces,Lenguados nep,1540
+2019-04,Costeros,Mar del Plata,Peces,Merluza hubbsi,427
+2019-04,Costeros,Mar del Plata,Peces,Merluza hubbsi,17310
+2019-04,Costeros,Mar del Plata,Peces,Merluza hubbsi,554
+2019-04,Costeros,Mar del Plata,Peces,Mero,235
+2019-04,Costeros,Mar del Plata,Peces,Mero,15607
+2019-04,Costeros,Mar del Plata,Peces,Otras especies de peces,1516
+2019-04,Costeros,Mar del Plata,Peces,Palometa,84548
+2019-04,Costeros,Mar del Plata,Peces,Pargo,141
+2019-04,Costeros,Mar del Plata,Peces,Pargo,5051
+2019-04,Costeros,Mar del Plata,Peces,Pejerrey,30745
+2019-04,Costeros,Mar del Plata,Peces,Pescadilla,322141
+2019-04,Costeros,Mar del Plata,Peces,Pescadilla,360
+2019-04,Costeros,Mar del Plata,Peces,Pescadilla real,1586
+2019-04,Costeros,Mar del Plata,Peces,Pez gallo,6348
+2019-04,Costeros,Mar del Plata,Peces,Pez gallo,144
+2019-04,Costeros,Mar del Plata,Peces,Pez limón,120
+2019-04,Costeros,Mar del Plata,Peces,Pez palo,2352
+2019-04,Costeros,Mar del Plata,Peces,Pez palo,302
+2019-04,Costeros,Mar del Plata,Peces,Pez sable,26891
+2019-04,Costeros,Mar del Plata,Peces,Pez sable,1465017
+2019-04,Costeros,Mar del Plata,Peces,Pez ángel,21759
+2019-04,Costeros,Mar del Plata,Peces,Pez ángel,347704
+2019-04,Costeros,Mar del Plata,Peces,Raya hocicuda / picuda,56023
+2019-04,Costeros,Mar del Plata,Peces,Rayas nep,380863
+2019-04,Costeros,Mar del Plata,Peces,Rayas nep,245013
+2019-04,Costeros,Mar del Plata,Peces,Rubio,244315
+2019-04,Costeros,Mar del Plata,Peces,Róbalo,201061
+2019-04,Costeros,Mar del Plata,Peces,Salmonete,4643
+2019-04,Costeros,Mar del Plata,Peces,Salmón de mar,60194
+2019-04,Costeros,Mar del Plata,Peces,Salmón de mar,3088
+2019-04,Costeros,Mar del Plata,Peces,Tiburones nep,8702
+2019-04,Costeros,Mar del Plata,Peces,Tiburones nep,3005
+2019-04,Costeros,Mar del Plata,Peces,Tiburón espinoso,22115
+2019-04,Fresqueros,Mar del Plata,Crustáceos,Langostino,570
+2019-04,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,87690
+2019-04,Fresqueros,Mar del Plata,Moluscos,Caracol,457039
+2019-04,Fresqueros,Mar del Plata,Peces,Abadejo,5713
+2019-04,Fresqueros,Mar del Plata,Peces,Anchoa de banco,1917
+2019-04,Fresqueros,Mar del Plata,Peces,Anchoa de banco,18123
+2019-04,Fresqueros,Mar del Plata,Peces,Bacalao austral,2040
+2019-04,Fresqueros,Mar del Plata,Peces,Besugo,140592
+2019-04,Fresqueros,Mar del Plata,Peces,Besugo,795154
+2019-04,Fresqueros,Mar del Plata,Peces,Brótola,321
+2019-04,Fresqueros,Mar del Plata,Peces,Brótola,20611
+2019-04,Fresqueros,Mar del Plata,Peces,Caballa,30340
+2019-04,Fresqueros,Mar del Plata,Peces,Castañeta,200015
+2019-04,Fresqueros,Mar del Plata,Peces,Castañeta,8931
+2019-04,Fresqueros,Mar del Plata,Peces,Corvina blanca,212839
+2019-04,Fresqueros,Mar del Plata,Peces,Corvina blanca,380076
+2019-04,Fresqueros,Mar del Plata,Peces,Gatuzo,105
+2019-04,Fresqueros,Mar del Plata,Peces,Gatuzo,1020
+2019-04,Fresqueros,Mar del Plata,Peces,Lenguados nep,38203
+2019-04,Fresqueros,Mar del Plata,Peces,Lenguados nep,11059
+2019-04,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,67649
+2019-04,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,3555
+2019-04,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,28114
+2019-04,Fresqueros,Mar del Plata,Peces,Merluza negra,840
+2019-04,Fresqueros,Mar del Plata,Peces,Mero,1114
+2019-04,Fresqueros,Mar del Plata,Peces,Mero,92
+2019-04,Fresqueros,Mar del Plata,Peces,Notothenia,30
+2019-04,Fresqueros,Mar del Plata,Peces,Palometa,248
+2019-04,Fresqueros,Mar del Plata,Peces,Papafigo,759295
+2019-04,Fresqueros,Mar del Plata,Peces,Pargo,35
+2019-04,Fresqueros,Mar del Plata,Peces,Pargo,5481
+2019-04,Fresqueros,Mar del Plata,Peces,Pescadilla,105
+2019-04,Fresqueros,Mar del Plata,Peces,Pescadilla,162020
+2019-04,Fresqueros,Mar del Plata,Peces,Pescadilla real,348
+2019-04,Fresqueros,Mar del Plata,Peces,Pez gallo,12777
+2019-04,Fresqueros,Mar del Plata,Peces,Pez gallo,245
+2019-04,Fresqueros,Mar del Plata,Peces,Pez palo,3544
+2019-04,Fresqueros,Mar del Plata,Peces,Pez palo,70
+2019-04,Fresqueros,Mar del Plata,Peces,Pez sable,9090
+2019-04,Fresqueros,Mar del Plata,Peces,Pez ángel,30
+2019-04,Fresqueros,Mar del Plata,Peces,Pez ángel,1799
+2019-04,Fresqueros,Mar del Plata,Peces,Rayas nep,3480
+2019-04,Fresqueros,Mar del Plata,Peces,Rayas nep,99
+2019-04,Fresqueros,Mar del Plata,Peces,Rubio,307633
+2019-04,Fresqueros,Mar del Plata,Peces,Róbalo,60
+2019-04,Fresqueros,Mar del Plata,Peces,Salmonete,4427
+2019-04,Fresqueros,Mar del Plata,Peces,Salmón de mar,32
+2019-04,Fresqueros,Mar del Plata,Peces,Salmón de mar,28388
+2019-04,Fresqueros,Mar del Plata,Peces,Tiburones nep,3274
+2019-04,Fresqueros,Mar del Plata,Peces,Tiburones nep,2199
+2019-04,Rada o ría,Mar del Plata,Moluscos,Calamar Loligo,6886
+2019-04,Rada o ría,Mar del Plata,Moluscos,Pulpitos,2099739
+2019-04,Rada o ría,Mar del Plata,Peces,Abadejo,1921
+2019-04,Rada o ría,Mar del Plata,Peces,Anchoa de banco,8317
+2019-04,Rada o ría,Mar del Plata,Peces,Besugo,68450
+2019-04,Rada o ría,Mar del Plata,Peces,Castañeta,11612
+2019-04,Rada o ría,Mar del Plata,Peces,Cornalito,1815398
+2019-04,Rada o ría,Mar del Plata,Peces,Corvina blanca,2520
+2019-04,Rada o ría,Mar del Plata,Peces,Corvina blanca,114388
+2019-04,Rada o ría,Mar del Plata,Peces,Gatuzo,80838
+2019-04,Rada o ría,Mar del Plata,Peces,Lenguados nep,689
+2019-04,Rada o ría,Mar del Plata,Peces,Lenguados nep,299850
+2019-04,Rada o ría,Mar del Plata,Peces,Merluza hubbsi,191
+2019-04,Rada o ría,Mar del Plata,Peces,Mero,3292
+2019-04,Rada o ría,Mar del Plata,Peces,Mero,6370
+2019-04,Rada o ría,Mar del Plata,Peces,Palometa,13434
+2019-04,Rada o ría,Mar del Plata,Peces,Pargo,57058
+2019-04,Rada o ría,Mar del Plata,Peces,Pargo,340
+2019-04,Rada o ría,Mar del Plata,Peces,Pescadilla,613
+2019-04,Rada o ría,Mar del Plata,Peces,Pescadilla,12960
+2019-04,Rada o ría,Mar del Plata,Peces,Pescadilla real,627
+2019-04,Rada o ría,Mar del Plata,Peces,Pez gallo,363
+2019-04,Rada o ría,Mar del Plata,Peces,Pez palo,1578
+2019-04,Rada o ría,Mar del Plata,Peces,Pez palo,98987
+2019-04,Rada o ría,Mar del Plata,Peces,Pez ángel,3042
+2019-04,Rada o ría,Mar del Plata,Peces,Pez ángel,58025
+2019-04,Rada o ría,Mar del Plata,Peces,Rayas nep,7918
+2019-04,Rada o ría,Mar del Plata,Peces,Rayas nep,39032
+2019-04,Rada o ría,Mar del Plata,Peces,Salmonete,543670
+2019-04,Rada o ría,Mar del Plata,Peces,Salmón de mar,3263800
+2019-04,Rada o ría,Mar del Plata,Peces,Salmón de mar,9450514
+2019-04,Rada o ría,Mar del Plata,Peces,Tiburones nep,297
+2019-04,Rada o ría,Necochea / Quequén,Crustáceos,Cangrejo,1264
+2019-04,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,2278
+2019-04,Rada o ría,Necochea / Quequén,Moluscos,Caracol,650
+2019-04,Rada o ría,Necochea / Quequén,Moluscos,Pulpitos,291
+2019-04,Rada o ría,Necochea / Quequén,Peces,Anchoa de banco,540
+2019-04,Rada o ría,Necochea / Quequén,Peces,Besugo,1440
+2019-04,Rada o ría,Necochea / Quequén,Peces,Brótola,30
+2019-04,Rada o ría,Necochea / Quequén,Peces,Congrio,12039
+2019-04,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,53985
+2019-04,Rada o ría,Necochea / Quequén,Peces,Gatuzo,279
+2019-04,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,2315
+2019-04,Rada o ría,Necochea / Quequén,Peces,Mero,2032
+2019-04,Rada o ría,Necochea / Quequén,Peces,Palometa,15310
+2019-04,Rada o ría,Necochea / Quequén,Peces,Pescadilla,71822
+2019-04,Rada o ría,Necochea / Quequén,Peces,Pez gallo,2549
+2019-04,Rada o ría,Necochea / Quequén,Peces,Pez palo,4699
+2019-04,Rada o ría,Necochea / Quequén,Peces,Pez ángel,28262
+2019-04,Rada o ría,Necochea / Quequén,Peces,Rayas nep,892754
+2019-04,Rada o ría,Necochea / Quequén,Peces,Salmonete,64043
+2019-04,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,95
+2019-04,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,723
+2019-04,Congeladores poteros nacionales,otros puertos Buenos Aires,Moluscos,Calamar Illex,1285
+2019-04,Congeladores tangoneros,otros puertos Buenos Aires,Crustáceos,Langostino,1827
+2019-04,Congeladores tangoneros,otros puertos Buenos Aires,Peces,Merluza hubbsi,5148
+2019-04,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,160
+2019-04,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,2891
+2019-04,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,65255
+2019-04,Rada o ría,otros puertos Buenos Aires,Peces,Lenguados nep,390
+2019-04,Rada o ría,otros puertos Buenos Aires,Peces,Lisa,69433
+2019-04,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,21862
+2019-04,Rada o ría,otros puertos Buenos Aires,Peces,Pejerrey,690
+2019-04,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,191416
+2019-04,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,450
+2019-04,Congeladores arrastreros,Puerto Deseado,Moluscos,Calamar Illex,30
+2019-04,Congeladores arrastreros,Puerto Deseado,Peces,Abadejo,17280
+2019-04,Congeladores arrastreros,Puerto Deseado,Peces,Bacalao austral,1830
+2019-04,Congeladores arrastreros,Puerto Deseado,Peces,Bonito,505003
+2019-04,Congeladores arrastreros,Puerto Deseado,Peces,Cabrilla,1650
+2019-04,Congeladores arrastreros,Puerto Deseado,Peces,Merluza hubbsi,10
+2019-04,Congeladores arrastreros,Puerto Deseado,Peces,Pampanito,10
+2019-04,Congeladores arrastreros,Puerto Deseado,Peces,Savorín,298740
+2019-04,Congeladores poteros nacionales,Puerto Deseado,Moluscos,Calamar Illex,1830
+2019-04,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,900
+2019-04,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,210
+2019-04,Congeladores trampas,Puerto Deseado,Crustáceos,Centolla,10
+2019-04,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,2330
+2019-04,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,29349
+2019-04,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Illex,1030
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,300
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Bacalao austral,570
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Caballa,6040
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Merluza austral,80
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Merluza de cola,35
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,160
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Merluza negra,525
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,8310
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Papafigo,200
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Rayas nep,39640
+2019-04,Congeladores arrastreros,Puerto Madryn,Peces,Savorín,3620
+2019-04,Congeladores poteros nacionales,Puerto Madryn,Moluscos,Calamar Illex,55384
+2019-04,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,5025
+2019-04,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,7599
+2019-04,Congeladores tangoneros,Puerto Madryn,Peces,Otras especies de peces,30190
+2019-04,Congeladores tangoneros,Puerto Madryn,Peces,Papafigo,4110
+2019-04,Congeladores tangoneros,Puerto Madryn,Peces,Pez palo,1461
+2019-04,Congeladores tangoneros,Puerto Madryn,Peces,Pez palo,10812
+2019-04,Congeladores trampas,Puerto Madryn,Crustáceos,Centolla,175
+2019-04,Costeros,Puerto Madryn,Crustáceos,Langostino,2340
+2019-04,Costeros,Puerto Madryn,Peces,Merluza hubbsi,7163
+2019-04,Costeros,Puerto Madryn,Peces,Mero,10156
+2019-04,Costeros,Puerto Madryn,Peces,Salmón de mar,31416
+2019-04,Fresqueros,Puerto Madryn,Crustáceos,Langostino,350
+2019-04,Costeros,Rawson,Crustáceos,Langostino,400
+2019-04,Fresqueros,Rawson,Crustáceos,Langostino,30248
+2019-04,Rada o ría,Rawson,Crustáceos,Langostino,55095
+2019-04,Rada o ría,Rawson,Moluscos,Calamar Loligo,3583
+2019-04,Rada o ría,Rawson,Peces,Lenguados nep,10094
+2019-04,Rada o ría,Rawson,Peces,Merluza hubbsi,3570
+2019-04,Rada o ría,Rawson,Peces,Mero,23578
+2019-04,Rada o ría,Rawson,Peces,Pez gallo,3697
+2019-04,Rada o ría,Rawson,Peces,Salmón de mar,3375
+2019-04,Rada o ría,Río Salado,Peces,Corvina blanca,7245
+2019-04,Rada o ría,Río Salado,Peces,Pescadilla,3280
+2019-04,Congeladores poteros nacionales,Rosales,Moluscos,Calamar Illex,200
+2019-04,Costeros,San Antonio Este,Peces,Gatuzo,156
+2019-04,Costeros,San Antonio Este,Peces,Lenguados nep,5156
+2019-04,Costeros,San Antonio Este,Peces,Merluza de cola,30
+2019-04,Costeros,San Antonio Este,Peces,Merluza hubbsi,352
+2019-04,Costeros,San Antonio Este,Peces,Mero,14110
+2019-04,Costeros,San Antonio Este,Peces,Pez gallo,531
+2019-04,Costeros,San Antonio Este,Peces,Pez ángel,192
+2019-04,Costeros,San Antonio Este,Peces,Rayas nep,25784
+2019-04,Costeros,San Antonio Este,Peces,Salmón de mar,14742
+2019-04,Fresqueros,San Antonio Este,Peces,Gatuzo,23603
+2019-04,Fresqueros,San Antonio Este,Peces,Merluza hubbsi,3035
+2019-04,Fresqueros,San Antonio Este,Peces,Mero,31
+2019-04,Fresqueros,San Antonio Este,Peces,Otras especies de peces,4584
+2019-04,Fresqueros,San Antonio Este,Peces,Pez gallo,95
+2019-04,Fresqueros,San Antonio Este,Peces,Salmón de mar,13921
+2019-04,Rada o ría,San Antonio Este,Crustáceos,Langostino,13330
+2019-04,Costeros,San Antonio Oeste,Crustáceos,Langostino,20272
+2019-04,Costeros,San Antonio Oeste,Peces,Cazón,152
+2019-04,Costeros,San Antonio Oeste,Peces,Gatuzo,3195
+2019-04,Costeros,San Antonio Oeste,Peces,Lenguados nep,2214
+2019-04,Costeros,San Antonio Oeste,Peces,Merluza de cola,15269
+2019-04,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,4224
+2019-04,Costeros,San Antonio Oeste,Peces,Mero,210
+2019-04,Costeros,San Antonio Oeste,Peces,Otras especies de peces,365
+2019-04,Costeros,San Antonio Oeste,Peces,Palometa,220
+2019-04,Costeros,San Antonio Oeste,Peces,Pez gallo,570
+2019-04,Costeros,San Antonio Oeste,Peces,Raya hocicuda / picuda,160
+2019-04,Costeros,San Antonio Oeste,Peces,Salmón de mar,80
+2019-04,Rada o ría,San Antonio Oeste,Crustáceos,Langostino,136
+2019-04,Rada o ría,San Antonio Oeste,Peces,Cazón,62624
+2019-04,Rada o ría,San Antonio Oeste,Peces,Gatuzo,1088
+2019-04,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,1286
+2019-04,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,3072
+2019-04,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,64
+2019-04,Rada o ría,San Antonio Oeste,Peces,Mero,1206
+2019-04,Rada o ría,San Antonio Oeste,Peces,Otras especies de peces,32
+2019-04,Rada o ría,San Antonio Oeste,Peces,Palometa,1472
+2019-04,Rada o ría,San Antonio Oeste,Peces,Pez gallo,192
+2019-04,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,5440
+2019-04,Rada o ría,San Antonio Oeste,Peces,Rayas nep,18736
+2019-04,Rada o ría,San Antonio Oeste,Peces,Salmón de mar,90
+2019-04,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,180
+2019-04,Rada o ría,San Clemente del Tuyú,Peces,Lenguados nep,913
+2019-04,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla real,120692
+2019-04,Congeladores arrastreros,Ushuaia,Moluscos,Vieira (callos),2070
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Abadejo,120
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,238
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Granadero,330
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,37127
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,1473
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,108
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Polaca,1716
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,373
+2019-04,Congeladores arrastreros,Ushuaia,Peces,Savorín,15
+2019-04,Congeladores trampas,Ushuaia,Crustáceos,Centolla,310
+2019-05,Costeros,Caleta Cordova,Peces,Merluza hubbsi,10024
+2019-05,Costeros,Caleta Cordova,Peces,Otras especies de peces,439
+2019-05,Costeros,Caleta Cordova,Peces,Pez gallo,304520
+2019-05,Costeros,Caleta Cordova,Peces,Raya lisa,19145
+2019-05,Costeros,Caleta Cordova,Peces,Rayas nep,19093
+2019-05,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,11022942
+2019-05,Congeladores tangoneros,Caleta Olivia / Paula,Peces,Merluza hubbsi,715
+2019-05,Costeros,Caleta Olivia / Paula,Peces,Merluza hubbsi,126052
+2019-05,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,34300
+2019-05,Fresqueros,Caleta Olivia / Paula,Peces,Pez gallo,216
+2019-05,Fresqueros,Caleta Olivia / Paula,Peces,Raya hocicuda / picuda,12506
+2019-05,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,355
+2019-05,Rada o ría,Caleta Olivia / Paula,Peces,Pez gallo,1125
+2019-05,Fresqueros,Camarones,Crustáceos,Centolla,433
+2019-05,Congeladores trampas,Comodoro Rivadavia,Crustáceos,Centolla,1559
+2019-05,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,438
+2019-05,Costeros,Comodoro Rivadavia,Peces,Pez gallo,109137
+2019-05,Costeros,Comodoro Rivadavia,Peces,Rayas nep,716
+2019-05,Fresqueros,Comodoro Rivadavia,Crustáceos,Centolla,929
+2019-05,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,28556
+2019-05,Fresqueros,Comodoro Rivadavia,Peces,Pez gallo,24338
+2019-05,Fresqueros,Comodoro Rivadavia,Peces,Rayas nep,396033
+2019-05,Costeros,General Lavalle,Moluscos,Otras especies de molusco,6115060
+2019-05,Costeros,General Lavalle,Peces,Anchoa de banco,63287
+2019-05,Costeros,General Lavalle,Peces,Cazón,28387
+2019-05,Costeros,General Lavalle,Peces,Chucho,11
+2019-05,Costeros,General Lavalle,Peces,Congrio,26
+2019-05,Costeros,General Lavalle,Peces,Corvina blanca,1205
+2019-05,Costeros,General Lavalle,Peces,Corvina negra,4625
+2019-05,Costeros,General Lavalle,Peces,Lenguados nep,1924
+2019-05,Costeros,General Lavalle,Peces,Otras especies de peces,20824
+2019-05,Costeros,General Lavalle,Peces,Otras especies de peces,1896903
+2019-05,Costeros,General Lavalle,Peces,Palometa,4883
+2019-05,Costeros,General Lavalle,Peces,Pargo,1599
+2019-05,Costeros,General Lavalle,Peces,Pescadilla,164
+2019-05,Costeros,General Lavalle,Peces,Pescadilla real,3005
+2019-05,Costeros,General Lavalle,Peces,Pez sable,1299
+2019-05,Costeros,General Lavalle,Peces,Pez ángel,5658
+2019-05,Costeros,General Lavalle,Peces,Rayas nep,855386
+2019-05,Rada o ría,General Lavalle,Moluscos,Otras especies de molusco,334
+2019-05,Rada o ría,General Lavalle,Peces,Anchoa de banco,1505958
+2019-05,Rada o ría,General Lavalle,Peces,Bagre,2305
+2019-05,Rada o ría,General Lavalle,Peces,Cazón,188696
+2019-05,Rada o ría,General Lavalle,Peces,Chucho,325
+2019-05,Rada o ría,General Lavalle,Peces,Congrio,967115
+2019-05,Rada o ría,General Lavalle,Peces,Congrio de profundidad,1663
+2019-05,Rada o ría,General Lavalle,Peces,Corvina blanca,572502
+2019-05,Rada o ría,General Lavalle,Peces,Corvina negra,1116
+2019-05,Rada o ría,General Lavalle,Peces,Gatuzo,91809
+2019-05,Rada o ría,General Lavalle,Peces,Lenguados nep,14519
+2019-05,Rada o ría,General Lavalle,Peces,Otras especies de peces,139204
+2019-05,Rada o ría,General Lavalle,Peces,Otras especies de peces,825310
+2019-05,Rada o ría,General Lavalle,Peces,Palometa,140
+2019-05,Rada o ría,General Lavalle,Peces,Pargo,945
+2019-05,Rada o ría,General Lavalle,Peces,Pescadilla,730
+2019-05,Rada o ría,General Lavalle,Peces,Pescadilla real,2240
+2019-05,Rada o ría,General Lavalle,Peces,Pez sable,665895
+2019-05,Rada o ría,General Lavalle,Peces,Pez ángel,1499248
+2019-05,Rada o ría,General Lavalle,Peces,Rayas nep,60
+2019-05,Rada o ría,General Lavalle,Peces,Saraca,1019
+2019-05,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,20
+2019-05,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Loligo,240
+2019-05,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),60
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,50
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,20
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,2500
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Notothenia,20
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,70
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,100
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,30
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,20
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Rubio,20
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Róbalo,20500
+2019-05,Congeladores arrastreros,Mar del Plata,Peces,Savorín,1200
+2019-05,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,50
+2019-05,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,50
+2019-05,Congeladores trampas,Mar del Plata,Crustáceos,Centolla,1300
+2019-05,Costeros,Mar del Plata,Crustáceos,Cangrejo,1320
+2019-05,Costeros,Mar del Plata,Moluscos,Calamar Illex,16103
+2019-05,Costeros,Mar del Plata,Moluscos,Caracol,88
+2019-05,Costeros,Mar del Plata,Peces,Abadejo,16281
+2019-05,Costeros,Mar del Plata,Peces,Anchoa de banco,34
+2019-05,Costeros,Mar del Plata,Peces,Anchoa de banco,26589
+2019-05,Costeros,Mar del Plata,Peces,Bacalao austral,35
+2019-05,Costeros,Mar del Plata,Peces,Bagre,536
+2019-05,Costeros,Mar del Plata,Peces,Besugo,15019
+2019-05,Costeros,Mar del Plata,Peces,Besugo,285650
+2019-05,Costeros,Mar del Plata,Peces,Brótola,177
+2019-05,Costeros,Mar del Plata,Peces,Brótola,4101
+2019-05,Costeros,Mar del Plata,Peces,Chernia,2800
+2019-05,Costeros,Mar del Plata,Peces,Congrio,72
+2019-05,Costeros,Mar del Plata,Peces,Corvina blanca,30018
+2019-05,Costeros,Mar del Plata,Peces,Corvina blanca,1380930
+2019-05,Costeros,Mar del Plata,Peces,Corvina negra,1650
+2019-05,Costeros,Mar del Plata,Peces,Gatuzo,16193
+2019-05,Costeros,Mar del Plata,Peces,Gatuzo,282395
+2019-05,Costeros,Mar del Plata,Peces,Lenguados nep,21854
+2019-05,Costeros,Mar del Plata,Peces,Lenguados nep,316043
+2019-05,Costeros,Mar del Plata,Peces,Merluza de cola,330
+2019-05,Costeros,Mar del Plata,Peces,Merluza hubbsi,190425
+2019-05,Costeros,Mar del Plata,Peces,Merluza hubbsi,168983
+2019-05,Costeros,Mar del Plata,Peces,Merluza hubbsi,266169
+2019-05,Costeros,Mar del Plata,Peces,Mero,5035
+2019-05,Costeros,Mar del Plata,Peces,Mero,27487
+2019-05,Costeros,Mar del Plata,Peces,Otras especies de peces,570
+2019-05,Costeros,Mar del Plata,Peces,Palometa,3450
+2019-05,Costeros,Mar del Plata,Peces,Pampanito,9
+2019-05,Costeros,Mar del Plata,Peces,Pampanito,23
+2019-05,Costeros,Mar del Plata,Peces,Papafigo,233
+2019-05,Costeros,Mar del Plata,Peces,Pargo,1233
+2019-05,Costeros,Mar del Plata,Peces,Pargo,38343
+2019-05,Costeros,Mar del Plata,Peces,Pescadilla,5570
+2019-05,Costeros,Mar del Plata,Peces,Pescadilla,752379
+2019-05,Costeros,Mar del Plata,Peces,Pescadilla real,7065
+2019-05,Costeros,Mar del Plata,Peces,Pez gallo,1046
+2019-05,Costeros,Mar del Plata,Peces,Pez gallo,8215
+2019-05,Costeros,Mar del Plata,Peces,Pez palo,31979
+2019-05,Costeros,Mar del Plata,Peces,Pez palo,316456
+2019-05,Costeros,Mar del Plata,Peces,Pez sable,3251
+2019-05,Costeros,Mar del Plata,Peces,Pez sable,69434
+2019-05,Costeros,Mar del Plata,Peces,Pez ángel,6657
+2019-05,Costeros,Mar del Plata,Peces,Pez ángel,158059
+2019-05,Costeros,Mar del Plata,Peces,Raya hocicuda / picuda,1365
+2019-05,Costeros,Mar del Plata,Peces,Raya hocicuda / picuda,5110
+2019-05,Costeros,Mar del Plata,Peces,Raya pintada,1365
+2019-05,Costeros,Mar del Plata,Peces,Raya pintada,5110
+2019-05,Costeros,Mar del Plata,Peces,Rayas nep,184924
+2019-05,Costeros,Mar del Plata,Peces,Rayas nep,450405
+2019-05,Costeros,Mar del Plata,Peces,Rubio,175
+2019-05,Costeros,Mar del Plata,Peces,Salmonete,15129
+2019-05,Costeros,Mar del Plata,Peces,Salmón de mar,3059
+2019-05,Costeros,Mar del Plata,Peces,Salmón de mar,43170
+2019-05,Costeros,Mar del Plata,Peces,Tiburones nep,4026
+2019-05,Costeros,Mar del Plata,Peces,Tiburones nep,57083
+2019-05,Costeros,Mar del Plata,Peces,Tiburón gris,820
+2019-05,Fresqueros,Mar del Plata,Crustáceos,Langostino,7552
+2019-05,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,80
+2019-05,Fresqueros,Mar del Plata,Peces,Abadejo,80
+2019-05,Fresqueros,Mar del Plata,Peces,Anchoa de banco,105
+2019-05,Fresqueros,Mar del Plata,Peces,Bacalao austral,15785
+2019-05,Fresqueros,Mar del Plata,Peces,Besugo,4725
+2019-05,Fresqueros,Mar del Plata,Peces,Besugo,140
+2019-05,Fresqueros,Mar del Plata,Peces,Corvina blanca,266420
+2019-05,Fresqueros,Mar del Plata,Peces,Corvina blanca,665
+2019-05,Fresqueros,Mar del Plata,Peces,Gatuzo,11795
+2019-05,Fresqueros,Mar del Plata,Peces,Gatuzo,805
+2019-05,Fresqueros,Mar del Plata,Peces,Lenguados nep,10080
+2019-05,Fresqueros,Mar del Plata,Peces,Lenguados nep,315
+2019-05,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,4070
+2019-05,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,4362
+2019-05,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,253
+2019-05,Fresqueros,Mar del Plata,Peces,Mero,1878
+2019-05,Fresqueros,Mar del Plata,Peces,Mero,1569
+2019-05,Fresqueros,Mar del Plata,Peces,Notothenia,2054
+2019-05,Fresqueros,Mar del Plata,Peces,Palometa,243676
+2019-05,Fresqueros,Mar del Plata,Peces,Papafigo,244
+2019-05,Fresqueros,Mar del Plata,Peces,Pargo,4912
+2019-05,Fresqueros,Mar del Plata,Peces,Pargo,835
+2019-05,Fresqueros,Mar del Plata,Peces,Pescadilla,56971
+2019-05,Fresqueros,Mar del Plata,Peces,Pescadilla,32
+2019-05,Fresqueros,Mar del Plata,Peces,Pez gallo,96
+2019-05,Fresqueros,Mar del Plata,Peces,Pez palo,3704
+2019-05,Fresqueros,Mar del Plata,Peces,Pez palo,500
+2019-05,Fresqueros,Mar del Plata,Peces,Pez sable,2227
+2019-05,Fresqueros,Mar del Plata,Peces,Pez sable,1463
+2019-05,Fresqueros,Mar del Plata,Peces,Pez ángel,1818331
+2019-05,Fresqueros,Mar del Plata,Peces,Pez ángel,1212
+2019-05,Fresqueros,Mar del Plata,Peces,Rayas nep,167
+2019-05,Fresqueros,Mar del Plata,Peces,Rayas nep,14065
+2019-05,Fresqueros,Mar del Plata,Peces,Rubio,8861
+2019-05,Fresqueros,Mar del Plata,Peces,Salmonete,1558061
+2019-05,Fresqueros,Mar del Plata,Peces,Salmón de mar,333
+2019-05,Fresqueros,Mar del Plata,Peces,Salmón de mar,518
+2019-05,Fresqueros,Mar del Plata,Peces,Tiburones nep,131640
+2019-05,Fresqueros,Mar del Plata,Peces,Tiburones nep,47916
+2019-05,Rada o ría,Mar del Plata,Crustáceos,Camarón,228034
+2019-05,Rada o ría,Mar del Plata,Crustáceos,Cangrejo,2702
+2019-05,Rada o ría,Mar del Plata,Crustáceos,Langostino,3872
+2019-05,Rada o ría,Mar del Plata,Moluscos,Pulpitos,4170
+2019-05,Rada o ría,Mar del Plata,Peces,Anchoa de banco,8766
+2019-05,Rada o ría,Mar del Plata,Peces,Besugo,4586
+2019-05,Rada o ría,Mar del Plata,Peces,Brótola,315867
+2019-05,Rada o ría,Mar del Plata,Peces,Castañeta,4086
+2019-05,Rada o ría,Mar del Plata,Peces,Castañeta,29414
+2019-05,Rada o ría,Mar del Plata,Peces,Chernia,3378
+2019-05,Rada o ría,Mar del Plata,Peces,Cornalito,17968
+2019-05,Rada o ría,Mar del Plata,Peces,Corvina blanca,1578832
+2019-05,Rada o ría,Mar del Plata,Peces,Gatuzo,4401394
+2019-05,Rada o ría,Mar del Plata,Peces,Jurel,9135018
+2019-05,Rada o ría,Mar del Plata,Peces,Lenguados nep,287
+2019-05,Rada o ría,Mar del Plata,Peces,Lenguados nep,718
+2019-05,Rada o ría,Mar del Plata,Peces,Merluza hubbsi,1173
+2019-05,Rada o ría,Mar del Plata,Peces,Mero,1144
+2019-05,Rada o ría,Mar del Plata,Peces,Otras especies de peces,180
+2019-05,Rada o ría,Mar del Plata,Peces,Palometa,1784
+2019-05,Rada o ría,Mar del Plata,Peces,Pargo,3078
+2019-05,Rada o ría,Mar del Plata,Peces,Pejerrey,2613
+2019-05,Rada o ría,Mar del Plata,Peces,Pescadilla,30987
+2019-05,Rada o ría,Mar del Plata,Peces,Pescadilla real,442
+2019-05,Rada o ría,Mar del Plata,Peces,Pez gallo,8604
+2019-05,Rada o ría,Mar del Plata,Peces,Pez gallo,22174
+2019-05,Rada o ría,Mar del Plata,Peces,Pez palo,320
+2019-05,Rada o ría,Mar del Plata,Peces,Pez palo,20530
+2019-05,Rada o ría,Mar del Plata,Peces,Pez sable,2573
+2019-05,Rada o ría,Mar del Plata,Peces,Pez ángel,12010
+2019-05,Rada o ría,Mar del Plata,Peces,Pez ángel,977459
+2019-05,Rada o ría,Mar del Plata,Peces,Raya hocicuda / picuda,28584
+2019-05,Rada o ría,Mar del Plata,Peces,Rayas nep,225
+2019-05,Rada o ría,Mar del Plata,Peces,Rayas nep,62
+2019-05,Rada o ría,Mar del Plata,Peces,Salmonete,3240
+2019-05,Rada o ría,Mar del Plata,Peces,Salmón de mar,5152
+2019-05,Rada o ría,Mar del Plata,Peces,Saraca,1106
+2019-05,Rada o ría,Mar del Plata,Peces,Tiburones nep,3296
+2019-05,Rada o ría,Necochea / Quequén,Crustáceos,Cangrejo,193716
+2019-05,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,389
+2019-05,Rada o ría,Necochea / Quequén,Moluscos,Caracol,353
+2019-05,Rada o ría,Necochea / Quequén,Peces,Anchoa de banco,30
+2019-05,Rada o ría,Necochea / Quequén,Peces,Bagre,3690
+2019-05,Rada o ría,Necochea / Quequén,Peces,Besugo,109830
+2019-05,Rada o ría,Necochea / Quequén,Peces,Besugo,30
+2019-05,Rada o ría,Necochea / Quequén,Peces,Brótola,30
+2019-05,Rada o ría,Necochea / Quequén,Peces,Congrio,4740
+2019-05,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,120
+2019-05,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,665510
+2019-05,Rada o ría,Necochea / Quequén,Peces,Gatuzo,190
+2019-05,Rada o ría,Necochea / Quequén,Peces,Gatuzo,20
+2019-05,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,240
+2019-05,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,210
+2019-05,Rada o ría,Necochea / Quequén,Peces,Merluza hubbsi,60
+2019-05,Rada o ría,Necochea / Quequén,Peces,Mero,50
+2019-05,Rada o ría,Necochea / Quequén,Peces,Mero,20
+2019-05,Rada o ría,Necochea / Quequén,Peces,Otras especies de peces,30
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pargo,392195
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pescadilla,20
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pescadilla,60
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pez gallo,2890
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pez palo,428
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pez palo,30
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pez ángel,380
+2019-05,Rada o ría,Necochea / Quequén,Peces,Pez ángel,20
+2019-05,Rada o ría,Necochea / Quequén,Peces,Rayas nep,36880
+2019-05,Rada o ría,Necochea / Quequén,Peces,Rayas nep,12755
+2019-05,Rada o ría,Necochea / Quequén,Peces,Salmonete,50
+2019-05,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,260
+2019-05,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,6670
+2019-05,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,10470
+2019-05,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,47
+2019-05,Congeladores tangoneros,otros puertos Buenos Aires,Crustáceos,Langostino,150
+2019-05,Congeladores tangoneros,otros puertos Buenos Aires,Peces,Merluza hubbsi,12
+2019-05,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,175
+2019-05,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,8124
+2019-05,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,12490
+2019-05,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,691
+2019-05,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,100
+2019-05,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,90
+2019-05,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla real,45
+2019-05,Congeladores arrastreros,Puerto Deseado,Moluscos,Calamar Illex,24922
+2019-05,Congeladores arrastreros,Puerto Deseado,Peces,Abadejo,82036
+2019-05,Congeladores arrastreros,Puerto Deseado,Peces,Merluza hubbsi,12708
+2019-05,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,750
+2019-05,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,726
+2019-05,Congeladores trampas,Puerto Deseado,Crustáceos,Centolla,24012
+2019-05,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,1715
+2019-05,Fresqueros,Puerto Deseado,Peces,Pez gallo,7254
+2019-05,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,36
+2019-05,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Illex,2064
+2019-05,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Loligo,1842
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,320
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Bacalao austral,349252
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Merluza de cola,17550
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,35
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,1323
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Papafigo,350
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Rubio,28027
+2019-05,Congeladores arrastreros,Puerto Madryn,Peces,Savorín,955
+2019-05,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,175
+2019-05,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,11383
+2019-05,Costeros,Río Salado,Peces,Corvina blanca,2099
+2019-05,Rada o ría,Río Salado,Peces,Corvina blanca,215
+2019-05,Rada o ría,Río Salado,Peces,Pescadilla real,56502
+2019-05,Costeros,Rosales,Crustáceos,Camarón,1440
+2019-05,Costeros,Rosales,Crustáceos,Langostino,4435
+2019-05,Costeros,San Antonio Este,Peces,Cazón,250
+2019-05,Costeros,San Antonio Este,Peces,Gatuzo,2490
+2019-05,Costeros,San Antonio Este,Peces,Lenguados nep,240
+2019-05,Costeros,San Antonio Este,Peces,Merluza de cola,126
+2019-05,Costeros,San Antonio Este,Peces,Merluza hubbsi,4389
+2019-05,Costeros,San Antonio Este,Peces,Mero,2911
+2019-05,Costeros,San Antonio Este,Peces,Pez gallo,61
+2019-05,Costeros,San Antonio Este,Peces,Pez ángel,960
+2019-05,Costeros,San Antonio Este,Peces,Rayas nep,16312
+2019-05,Costeros,San Antonio Este,Peces,Salmón de mar,535
+2019-05,Costeros,San Antonio Este,Peces,Tiburones nep,347
+2019-05,Fresqueros,San Antonio Este,Moluscos,Calamar Illex,1312
+2019-05,Fresqueros,San Antonio Este,Peces,Gatuzo,15624
+2019-05,Fresqueros,San Antonio Este,Peces,Merluza hubbsi,480
+2019-05,Fresqueros,San Antonio Este,Peces,Mero,11402
+2019-05,Fresqueros,San Antonio Este,Peces,Otras especies de peces,832
+2019-05,Fresqueros,San Antonio Este,Peces,Pez gallo,15515
+2019-05,Fresqueros,San Antonio Este,Peces,Salmón de mar,68
+2019-05,Costeros,San Antonio Oeste,Crustáceos,Langostino,64
+2019-05,Costeros,San Antonio Oeste,Moluscos,Calamar Illex,1276
+2019-05,Costeros,San Antonio Oeste,Peces,Cazón,32
+2019-05,Costeros,San Antonio Oeste,Peces,Gatuzo,295
+2019-05,Costeros,San Antonio Oeste,Peces,Lenguados nep,576
+2019-05,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,8994
+2019-05,Costeros,San Antonio Oeste,Peces,Mero,1590
+2019-05,Costeros,San Antonio Oeste,Peces,Otras especies de peces,160
+2019-05,Costeros,San Antonio Oeste,Peces,Palometa,8576
+2019-05,Costeros,San Antonio Oeste,Peces,Pez gallo,700
+2019-05,Costeros,San Antonio Oeste,Peces,Pez palo,8789
+2019-05,Costeros,San Antonio Oeste,Peces,Pez ángel,1645
+2019-05,Costeros,San Antonio Oeste,Peces,Raya hocicuda / picuda,19971
+2019-05,Costeros,San Antonio Oeste,Peces,Raya marmolada,600
+2019-05,Costeros,San Antonio Oeste,Peces,Rayas nep,204
+2019-05,Costeros,San Antonio Oeste,Peces,Salmón de mar,1799
+2019-05,Rada o ría,San Antonio Oeste,Crustáceos,Langostino,170
+2019-05,Rada o ría,San Antonio Oeste,Peces,Cazón,2096
+2019-05,Rada o ría,San Antonio Oeste,Peces,Gatuzo,10790
+2019-05,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,10215
+2019-05,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,47991
+2019-05,Rada o ría,San Antonio Oeste,Peces,Mero,380
+2019-05,Rada o ría,San Antonio Oeste,Peces,Otras especies de peces,58
+2019-05,Rada o ría,San Antonio Oeste,Peces,Palometa,4656
+2019-05,Rada o ría,San Antonio Oeste,Peces,Pez gallo,276
+2019-05,Rada o ría,San Antonio Oeste,Peces,Pez ángel,63844
+2019-05,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,90
+2019-05,Rada o ría,San Antonio Oeste,Peces,Raya marrón oscuro,18
+2019-05,Rada o ría,San Antonio Oeste,Peces,Rayas nep,2912
+2019-05,Rada o ría,San Antonio Oeste,Peces,Salmón de mar,2176
+2019-05,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,662
+2019-05,Rada o ría,San Clemente del Tuyú,Peces,Lisa,127184
+2019-05,Rada o ría,San Clemente del Tuyú,Peces,Otras especies de peces,128
+2019-05,Rada o ría,San Clemente del Tuyú,Peces,Palometa,996
+2019-05,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla,32
+2019-05,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla real,41898
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Abadejo,192
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,6578
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Granadero,900
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,815
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,738
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Merluza hubbsi,24834
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,4706
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Otras especies de peces,634
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Polaca,812
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,1356
+2019-05,Congeladores arrastreros,Ushuaia,Peces,Savorín,1672
+2019-06,Rada o ría,Bahía Blanca,Crustáceos,Camarón,5401
+2019-06,Rada o ría,Bahía Blanca,Crustáceos,Langostino,273
+2019-06,Costeros,Caleta Cordova,Peces,Merluza hubbsi,460141
+2019-06,Costeros,Caleta Cordova,Peces,Pez gallo,42726
+2019-06,Costeros,Caleta Cordova,Peces,Pez palo,6724
+2019-06,Costeros,Caleta Cordova,Peces,Raya cola corta,612
+2019-06,Costeros,Caleta Cordova,Peces,Raya hocicuda / picuda,16026876
+2019-06,Costeros,Caleta Cordova,Peces,Raya lisa,41184
+2019-06,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,8490
+2019-06,Congeladores tangoneros,Caleta Olivia / Paula,Peces,Merluza hubbsi,2569
+2019-06,Costeros,Caleta Olivia / Paula,Peces,Merluza hubbsi,7060
+2019-06,Fresqueros,Caleta Olivia / Paula,Crustáceos,Langostino,3686
+2019-06,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,123
+2019-06,Fresqueros,Caleta Olivia / Paula,Peces,Raya hocicuda / picuda,25628
+2019-06,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,2966
+2019-06,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,117576
+2019-06,Rada o ría,Caleta Olivia / Paula,Peces,Pez gallo,5911766
+2019-06,Costeros,Camarones,Crustáceos,Langostino,24
+2019-06,Fresqueros,Camarones,Crustáceos,Langostino,34872
+2019-06,Congeladores tangoneros,Comodoro Rivadavia,Crustáceos,Langostino,502
+2019-06,Congeladores tangoneros,Comodoro Rivadavia,Peces,Merluza hubbsi,244530
+2019-06,Costeros,Comodoro Rivadavia,Crustáceos,Langostino,2662
+2019-06,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,35998
+2019-06,Costeros,Comodoro Rivadavia,Peces,Pez gallo,365306
+2019-06,Costeros,Comodoro Rivadavia,Peces,Rayas nep,55828
+2019-06,Fresqueros,Comodoro Rivadavia,Crustáceos,Langostino,5888762
+2019-06,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,9826
+2019-06,Costeros,General Lavalle,Moluscos,Caracol,310615
+2019-06,Costeros,General Lavalle,Peces,Anchoa de banco,1209
+2019-06,Costeros,General Lavalle,Peces,Brótola,18
+2019-06,Costeros,General Lavalle,Peces,Chucho,1358104
+2019-06,Costeros,General Lavalle,Peces,Congrio,8951
+2019-06,Costeros,General Lavalle,Peces,Corvina blanca,43396
+2019-06,Costeros,General Lavalle,Peces,Corvina negra,903563
+2019-06,Costeros,General Lavalle,Peces,Lenguados nep,129
+2019-06,Costeros,General Lavalle,Peces,Otras especies de peces,211461
+2019-06,Costeros,General Lavalle,Peces,Palometa,24
+2019-06,Costeros,General Lavalle,Peces,Pargo,503103
+2019-06,Costeros,General Lavalle,Peces,Pescadilla,280
+2019-06,Costeros,General Lavalle,Peces,Pescadilla real,4743196
+2019-06,Costeros,General Lavalle,Peces,Pez sable,3709
+2019-06,Costeros,General Lavalle,Peces,Pez ángel,4841690
+2019-06,Costeros,General Lavalle,Peces,Rayas nep,5303
+2019-06,Rada o ría,General Lavalle,Moluscos,Caracol,67332
+2019-06,Rada o ría,General Lavalle,Peces,Anchoa de banco,868314
+2019-06,Rada o ría,General Lavalle,Peces,Bagre,75615
+2019-06,Rada o ría,General Lavalle,Peces,Brótola,210
+2019-06,Rada o ría,General Lavalle,Peces,Chucho,1750
+2019-06,Rada o ría,General Lavalle,Peces,Congrio,7530
+2019-06,Rada o ría,General Lavalle,Peces,Congrio de profundidad,175
+2019-06,Rada o ría,General Lavalle,Peces,Corvina blanca,200776
+2019-06,Rada o ría,General Lavalle,Peces,Corvina negra,513857
+2019-06,Rada o ría,General Lavalle,Peces,Lenguados nep,10416
+2019-06,Rada o ría,General Lavalle,Peces,Lisa,1023792
+2019-06,Rada o ría,General Lavalle,Peces,Mero,4838
+2019-06,Rada o ría,General Lavalle,Peces,Otras especies de peces,712
+2019-06,Rada o ría,General Lavalle,Peces,Palometa,50
+2019-06,Rada o ría,General Lavalle,Peces,Pargo,3160
+2019-06,Rada o ría,General Lavalle,Peces,Pescadilla,10
+2019-06,Rada o ría,General Lavalle,Peces,Pescadilla real,250
+2019-06,Rada o ría,General Lavalle,Peces,Pez sable,70
+2019-06,Rada o ría,General Lavalle,Peces,Pez ángel,39414
+2019-06,Rada o ría,General Lavalle,Peces,Raya marmolada,1190
+2019-06,Rada o ría,General Lavalle,Peces,Rayas nep,100
+2019-06,Rada o ría,General Lavalle,Peces,Saraca,340
+2019-06,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,110
+2019-06,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Loligo,140
+2019-06,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),21700
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,4280
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,10
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Merluza de cola,180
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,3200
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,1296
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,3396
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,21227
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,58
+2019-06,Congeladores arrastreros,Mar del Plata,Peces,Rubio,7462
+2019-06,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,108544
+2019-06,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,93
+2019-06,Costeros,Mar del Plata,Moluscos,Calamar Illex,2199
+2019-06,Costeros,Mar del Plata,Peces,Abadejo,33
+2019-06,Costeros,Mar del Plata,Peces,Anchoa de banco,470
+2019-06,Costeros,Mar del Plata,Peces,Bagre,6472
+2019-06,Costeros,Mar del Plata,Peces,Besugo,658417
+2019-06,Costeros,Mar del Plata,Peces,Besugo,24285
+2019-06,Costeros,Mar del Plata,Peces,Brótola,88489
+2019-06,Costeros,Mar del Plata,Peces,Brótola,16322
+2019-06,Costeros,Mar del Plata,Peces,Chernia,109021
+2019-06,Costeros,Mar del Plata,Peces,Congrio,96669
+2019-06,Costeros,Mar del Plata,Peces,Corvina blanca,20705
+2019-06,Costeros,Mar del Plata,Peces,Corvina blanca,61198
+2019-06,Costeros,Mar del Plata,Peces,Gatuzo,4725
+2019-06,Costeros,Mar del Plata,Peces,Gatuzo,28384
+2019-06,Costeros,Mar del Plata,Peces,Lenguados nep,6706
+2019-06,Costeros,Mar del Plata,Peces,Lenguados nep,68
+2019-06,Costeros,Mar del Plata,Peces,Merluza hubbsi,481
+2019-06,Costeros,Mar del Plata,Peces,Merluza hubbsi,6361
+2019-06,Costeros,Mar del Plata,Peces,Merluza hubbsi,13290
+2019-06,Costeros,Mar del Plata,Peces,Mero,730234
+2019-06,Costeros,Mar del Plata,Peces,Mero,180
+2019-06,Costeros,Mar del Plata,Peces,Palometa,6493
+2019-06,Costeros,Mar del Plata,Peces,Pampanito,3803
+2019-06,Costeros,Mar del Plata,Peces,Papafigo,31029
+2019-06,Costeros,Mar del Plata,Peces,Pargo,141147
+2019-06,Costeros,Mar del Plata,Peces,Pescadilla,53135
+2019-06,Costeros,Mar del Plata,Peces,Pescadilla,5926
+2019-06,Costeros,Mar del Plata,Peces,Pescadilla real,52757
+2019-06,Costeros,Mar del Plata,Peces,Pescadilla real,50333
+2019-06,Costeros,Mar del Plata,Peces,Pez gallo,151450
+2019-06,Costeros,Mar del Plata,Peces,Pez palo,6533
+2019-06,Costeros,Mar del Plata,Peces,Pez palo,3926
+2019-06,Costeros,Mar del Plata,Peces,Pez sable,19572
+2019-06,Costeros,Mar del Plata,Peces,Pez ángel,3593
+2019-06,Costeros,Mar del Plata,Peces,Pez ángel,24032
+2019-06,Costeros,Mar del Plata,Peces,Rayas nep,34773
+2019-06,Costeros,Mar del Plata,Peces,Rayas nep,12000
+2019-06,Costeros,Mar del Plata,Peces,Salmonete,245
+2019-06,Costeros,Mar del Plata,Peces,Salmón de mar,93788
+2019-06,Costeros,Mar del Plata,Peces,Salmón de mar,38903
+2019-06,Costeros,Mar del Plata,Peces,Tiburones nep,1483
+2019-06,Costeros,Mar del Plata,Peces,Tiburones nep,33
+2019-06,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,4800
+2019-06,Fresqueros,Mar del Plata,Peces,Abadejo,175
+2019-06,Fresqueros,Mar del Plata,Peces,Anchoa de banco,630
+2019-06,Fresqueros,Mar del Plata,Peces,Bacalao austral,28000
+2019-06,Fresqueros,Mar del Plata,Peces,Besugo,490
+2019-06,Fresqueros,Mar del Plata,Peces,Corvina blanca,665
+2019-06,Fresqueros,Mar del Plata,Peces,Gatuzo,105
+2019-06,Fresqueros,Mar del Plata,Peces,Gatuzo,1822
+2019-06,Fresqueros,Mar del Plata,Peces,Lenguados nep,2690
+2019-06,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,860
+2019-06,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,1124
+2019-06,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,95732
+2019-06,Fresqueros,Mar del Plata,Peces,Mero,1546
+2019-06,Fresqueros,Mar del Plata,Peces,Mero,19775
+2019-06,Fresqueros,Mar del Plata,Peces,Papafigo,5780
+2019-06,Fresqueros,Mar del Plata,Peces,Pescadilla,192
+2019-06,Fresqueros,Mar del Plata,Peces,Pescadilla real,182
+2019-06,Fresqueros,Mar del Plata,Peces,Pez gallo,3704
+2019-06,Fresqueros,Mar del Plata,Peces,Pez palo,300
+2019-06,Fresqueros,Mar del Plata,Peces,Pez sable,360
+2019-06,Fresqueros,Mar del Plata,Peces,Pez ángel,701855
+2019-06,Fresqueros,Mar del Plata,Peces,Pez ángel,327655
+2019-06,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,205
+2019-06,Fresqueros,Mar del Plata,Peces,Rayas nep,2114954
+2019-06,Fresqueros,Mar del Plata,Peces,Rayas nep,1203086
+2019-06,Fresqueros,Mar del Plata,Peces,Rubio,101033
+2019-06,Fresqueros,Mar del Plata,Peces,Tiburones nep,14289
+2019-06,Fresqueros,Mar del Plata,Peces,Tiburones nep,49313
+2019-06,Fresqueros,Mar del Plata,Peces,Tiburón gris,542
+2019-06,Rada o ría,Mar del Plata,Peces,Anchoa de banco,1246
+2019-06,Rada o ría,Mar del Plata,Peces,Besugo,20454
+2019-06,Rada o ría,Mar del Plata,Peces,Brótola,102091
+2019-06,Rada o ría,Mar del Plata,Peces,Castañeta,438
+2019-06,Rada o ría,Mar del Plata,Peces,Corvina blanca,2262
+2019-06,Rada o ría,Mar del Plata,Peces,Gatuzo,4363
+2019-06,Rada o ría,Mar del Plata,Peces,Lenguados nep,1119550
+2019-06,Rada o ría,Mar del Plata,Peces,Merluza hubbsi,3933369
+2019-06,Rada o ría,Mar del Plata,Peces,Mero,5301925
+2019-06,Rada o ría,Mar del Plata,Peces,Otras especies de peces,1213
+2019-06,Rada o ría,Mar del Plata,Peces,Palometa,3737
+2019-06,Rada o ría,Mar del Plata,Peces,Pargo,450
+2019-06,Rada o ría,Mar del Plata,Peces,Pescadilla,10678
+2019-06,Rada o ría,Mar del Plata,Peces,Pescadilla real,620
+2019-06,Rada o ría,Mar del Plata,Peces,Pez palo,442
+2019-06,Rada o ría,Mar del Plata,Peces,Pez sable,926
+2019-06,Rada o ría,Mar del Plata,Peces,Pez ángel,16464
+2019-06,Rada o ría,Mar del Plata,Peces,Rayas nep,31
+2019-06,Rada o ría,Mar del Plata,Peces,Salmonete,1868
+2019-06,Rada o ría,Mar del Plata,Peces,Salmón de mar,2848
+2019-06,Rada o ría,Mar del Plata,Peces,Tiburones nep,704590
+2019-06,Rada o ría,Necochea / Quequén,Crustáceos,Cangrejo,6795
+2019-06,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,90
+2019-06,Rada o ría,Necochea / Quequén,Moluscos,Caracol,216
+2019-06,Rada o ría,Necochea / Quequén,Moluscos,Pulpos nep,1018
+2019-06,Rada o ría,Necochea / Quequén,Peces,Anchoa de banco,28
+2019-06,Rada o ría,Necochea / Quequén,Peces,Bagre,70264
+2019-06,Rada o ría,Necochea / Quequén,Peces,Besugo,65590
+2019-06,Rada o ría,Necochea / Quequén,Peces,Brótola,132
+2019-06,Rada o ría,Necochea / Quequén,Peces,Congrio,627
+2019-06,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,1656187
+2019-06,Rada o ría,Necochea / Quequén,Peces,Gatuzo,407
+2019-06,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,87
+2019-06,Rada o ría,Necochea / Quequén,Peces,Merluza hubbsi,16346
+2019-06,Rada o ría,Necochea / Quequén,Peces,Mero,180
+2019-06,Rada o ría,Necochea / Quequén,Peces,Pescadilla,1020
+2019-06,Rada o ría,Necochea / Quequén,Peces,Pez gallo,139350
+2019-06,Rada o ría,Necochea / Quequén,Peces,Pez palo,5370
+2019-06,Rada o ría,Necochea / Quequén,Peces,Pez ángel,90
+2019-06,Rada o ría,Necochea / Quequén,Peces,Rayas nep,800
+2019-06,Rada o ría,Necochea / Quequén,Peces,Salmonete,400
+2019-06,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,36500
+2019-06,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,53657
+2019-06,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,60
+2019-06,Costeros,otros puertos Buenos Aires,Peces,Corvina negra,50
+2019-06,Costeros,otros puertos Buenos Aires,Peces,Pescadilla,6130
+2019-06,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,510
+2019-06,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,10
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Bagre,250
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Cazón,130
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,30
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,981094
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,55880
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,610
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,240
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,6000
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,715
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,380
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Raya marmolada,140
+2019-06,Rada o ría,otros puertos Buenos Aires,Peces,Rayas nep,99440
+2019-06,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,9085
+2019-06,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,10
+2019-06,Fresqueros,Puerto Deseado,Crustáceos,Langostino,510
+2019-06,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,2370
+2019-06,Fresqueros,Puerto Deseado,Peces,Pez gallo,5425
+2019-06,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,3000
+2019-06,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Loligo,76598
+2019-06,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,2026
+2019-06,Congeladores arrastreros,Puerto Madryn,Peces,Bacalao austral,96
+2019-06,Congeladores arrastreros,Puerto Madryn,Peces,Merluza de cola,60
+2019-06,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,8257
+2019-06,Congeladores arrastreros,Puerto Madryn,Peces,Notothenia,5697
+2019-06,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,6510
+2019-06,Congeladores arrastreros,Puerto Madryn,Peces,Rubio,175
+2019-06,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,2045
+2019-06,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,60
+2019-06,Congeladores trampas,Puerto Madryn,Crustáceos,Centolla,2000
+2019-06,Costeros,Puerto Madryn,Crustáceos,Langostino,930
+2019-06,Fresqueros,Puerto Madryn,Crustáceos,Langostino,360724
+2019-06,Fresqueros,Puerto Madryn,Peces,Merluza hubbsi,770
+2019-06,Fresqueros,Puerto Madryn,Peces,Rayas nep,13881
+2019-06,Costeros,Rawson,Peces,Merluza hubbsi,288
+2019-06,Costeros,Rawson,Peces,Pez gallo,2833
+2019-06,Costeros,Rawson,Peces,Rayas nep,10789
+2019-06,Fresqueros,Rawson,Crustáceos,Langostino,350
+2019-06,Costeros,Río Salado,Peces,Corvina blanca,1055
+2019-06,Rada o ría,Río Salado,Peces,Corvina blanca,916
+2019-06,Rada o ría,Río Salado,Peces,Pescadilla,130
+2019-06,Costeros,San Antonio Este,Peces,Gatuzo,36
+2019-06,Costeros,San Antonio Este,Peces,Lenguados nep,2588
+2019-06,Costeros,San Antonio Este,Peces,Merluza hubbsi,15
+2019-06,Costeros,San Antonio Este,Peces,Pez gallo,150
+2019-06,Costeros,San Antonio Este,Peces,Rayas nep,200
+2019-06,Costeros,San Antonio Este,Peces,Tiburones nep,12219
+2019-06,Fresqueros,San Antonio Este,Moluscos,Calamar Illex,100
+2019-06,Fresqueros,San Antonio Este,Peces,Gatuzo,192
+2019-06,Fresqueros,San Antonio Este,Peces,Merluza hubbsi,2708
+2019-06,Fresqueros,San Antonio Este,Peces,Pez gallo,7667
+2019-06,Fresqueros,San Antonio Este,Peces,Salmón de mar,10966
+2019-06,Costeros,San Antonio Oeste,Peces,Cazón,32
+2019-06,Costeros,San Antonio Oeste,Peces,Gatuzo,2554
+2019-06,Costeros,San Antonio Oeste,Peces,Lenguados nep,3510
+2019-06,Costeros,San Antonio Oeste,Peces,Merluza de cola,2388
+2019-06,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,6939
+2019-06,Costeros,San Antonio Oeste,Peces,Otras especies de peces,5695
+2019-06,Costeros,San Antonio Oeste,Peces,Pez gallo,10589
+2019-06,Costeros,San Antonio Oeste,Peces,Raya hocicuda / picuda,527
+2019-06,Costeros,San Antonio Oeste,Peces,Rayas nep,1890
+2019-06,Costeros,San Antonio Oeste,Peces,Salmón de mar,1074
+2019-06,Costeros,San Clemente del Tuyú,Peces,Corvina blanca,7516
+2019-06,Costeros,San Clemente del Tuyú,Peces,Palometa,7567
+2019-06,Costeros,San Clemente del Tuyú,Peces,Pescadilla,120
+2019-06,Rada o ría,San Clemente del Tuyú,Peces,Bagre,90
+2019-06,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,88380
+2019-06,Rada o ría,San Clemente del Tuyú,Peces,Corvina negra,840
+2019-06,Rada o ría,San Clemente del Tuyú,Peces,Palometa,373
+2019-06,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla,150
+2019-06,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla real,3800
+2019-06,Congeladores arrastreros,Ushuaia,Moluscos,Vieira (callos),5589
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Abadejo,143
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,448
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Granadero,300
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,380
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,44086
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Merluza hubbsi,2240
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,288
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Otras especies de peces,34944
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Pampanito,1000
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Polaca,90
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,8936
+2019-06,Congeladores arrastreros,Ushuaia,Peces,Savorín,2698
+2019-07,Costeros,Caleta Cordova,Peces,Merluza hubbsi,375
+2019-07,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,102059
+2019-07,Fresqueros,Caleta Olivia / Paula,Crustáceos,Langostino,27141
+2019-07,Costeros,Camarones,Crustáceos,Langostino,2533
+2019-07,Fresqueros,Camarones,Crustáceos,Langostino,10727306
+2019-07,Congeladores tangoneros,Comodoro Rivadavia,Crustáceos,Langostino,3760
+2019-07,Congeladores tangoneros,Comodoro Rivadavia,Peces,Merluza hubbsi,201
+2019-07,Costeros,Comodoro Rivadavia,Crustáceos,Langostino,3140
+2019-07,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,4305
+2019-07,Costeros,Comodoro Rivadavia,Peces,Palometa,263
+2019-07,Costeros,Comodoro Rivadavia,Peces,Pez gallo,11709
+2019-07,Costeros,Comodoro Rivadavia,Peces,Rayas nep,23216
+2019-07,Fresqueros,Comodoro Rivadavia,Crustáceos,Langostino,1212
+2019-07,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,635088
+2019-07,Costeros,General Lavalle,Moluscos,Caracol,1244
+2019-07,Costeros,General Lavalle,Peces,Chucho,465
+2019-07,Costeros,General Lavalle,Peces,Congrio,87805
+2019-07,Costeros,General Lavalle,Peces,Corvina blanca,1133
+2019-07,Costeros,General Lavalle,Peces,Otras especies de peces,1352167
+2019-07,Costeros,General Lavalle,Peces,Papafigo,156393
+2019-07,Costeros,General Lavalle,Peces,Pescadilla,134433
+2019-07,Costeros,General Lavalle,Peces,Pescadilla real,346714
+2019-07,Costeros,General Lavalle,Peces,Pez ángel,855569
+2019-07,Costeros,General Lavalle,Peces,Raya cola corta,400201
+2019-07,Costeros,General Lavalle,Peces,Rayas nep,457
+2019-07,Costeros,General Lavalle,Peces,Saraca,654631
+2019-07,Rada o ría,General Lavalle,Moluscos,Caracol,656
+2019-07,Rada o ría,General Lavalle,Peces,Anchoa de banco,6302019
+2019-07,Rada o ría,General Lavalle,Peces,Bagre,5006
+2019-07,Rada o ría,General Lavalle,Peces,Chucho,10911609
+2019-07,Rada o ría,General Lavalle,Peces,Congrio,10275
+2019-07,Rada o ría,General Lavalle,Peces,Corvina blanca,132825
+2019-07,Rada o ría,General Lavalle,Peces,Corvina blanca,1047580
+2019-07,Rada o ría,General Lavalle,Peces,Corvina negra,95561
+2019-07,Rada o ría,General Lavalle,Peces,Lenguados nep,458869
+2019-07,Rada o ría,General Lavalle,Peces,Lisa,30
+2019-07,Rada o ría,General Lavalle,Peces,Mero,322
+2019-07,Rada o ría,General Lavalle,Peces,Otras especies de peces,650
+2019-07,Rada o ría,General Lavalle,Peces,Otras especies de peces,55
+2019-07,Rada o ría,General Lavalle,Peces,Palometa,430
+2019-07,Rada o ría,General Lavalle,Peces,Papafigo,40
+2019-07,Rada o ría,General Lavalle,Peces,Pargo,52098
+2019-07,Rada o ría,General Lavalle,Peces,Pejerrey,515
+2019-07,Rada o ría,General Lavalle,Peces,Pescadilla,90
+2019-07,Rada o ría,General Lavalle,Peces,Pescadilla,63758
+2019-07,Rada o ría,General Lavalle,Peces,Pescadilla real,400
+2019-07,Rada o ría,General Lavalle,Peces,Pez ángel,20
+2019-07,Rada o ría,General Lavalle,Peces,Raya marmolada,15
+2019-07,Rada o ría,General Lavalle,Peces,Rayas nep,3664
+2019-07,Rada o ría,General Lavalle,Peces,Saraca,368
+2019-07,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,30085
+2019-07,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),9646
+2019-07,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,4436
+2019-07,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,34
+2019-07,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,20918
+2019-07,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,20075
+2019-07,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,40865
+2019-07,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,34
+2019-07,Congeladores arrastreros,Mar del Plata,Peces,Rubio,2262
+2019-07,Congeladores poteros nacionales,Mar del Plata,Moluscos,Calamar Illex,840
+2019-07,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,1336
+2019-07,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,240
+2019-07,Costeros,Mar del Plata,Crustáceos,Langostino,180
+2019-07,Costeros,Mar del Plata,Moluscos,Calamar Illex,1766
+2019-07,Costeros,Mar del Plata,Peces,Abadejo,11432
+2019-07,Costeros,Mar del Plata,Peces,Anchoa de banco,1158808
+2019-07,Costeros,Mar del Plata,Peces,Anchoa de banco,40740
+2019-07,Costeros,Mar del Plata,Peces,Besugo,138937
+2019-07,Costeros,Mar del Plata,Peces,Besugo,19232
+2019-07,Costeros,Mar del Plata,Peces,Brótola,84101
+2019-07,Costeros,Mar del Plata,Peces,Caballa,210
+2019-07,Costeros,Mar del Plata,Peces,Castañeta,104159
+2019-07,Costeros,Mar del Plata,Peces,Chernia,95603
+2019-07,Costeros,Mar del Plata,Peces,Chernia,7124
+2019-07,Costeros,Mar del Plata,Peces,Congrio,32579
+2019-07,Costeros,Mar del Plata,Peces,Congrio,2472
+2019-07,Costeros,Mar del Plata,Peces,Corvina blanca,506
+2019-07,Costeros,Mar del Plata,Peces,Corvina blanca,1361
+2019-07,Costeros,Mar del Plata,Peces,Gatuzo,600
+2019-07,Costeros,Mar del Plata,Peces,Gatuzo,6260
+2019-07,Costeros,Mar del Plata,Peces,Lenguados nep,14767
+2019-07,Costeros,Mar del Plata,Peces,Lenguados nep,837095
+2019-07,Costeros,Mar del Plata,Peces,Lisa,3946
+2019-07,Costeros,Mar del Plata,Peces,Merluza hubbsi,2978
+2019-07,Costeros,Mar del Plata,Peces,Merluza hubbsi,16469
+2019-07,Costeros,Mar del Plata,Peces,Mero,34333
+2019-07,Costeros,Mar del Plata,Peces,Mero,71727
+2019-07,Costeros,Mar del Plata,Peces,Palometa,13057
+2019-07,Costeros,Mar del Plata,Peces,Pampanito,36587
+2019-07,Costeros,Mar del Plata,Peces,Papafigo,86986
+2019-07,Costeros,Mar del Plata,Peces,Pargo,153708
+2019-07,Costeros,Mar del Plata,Peces,Pargo,6443
+2019-07,Costeros,Mar del Plata,Peces,Pescadilla,4399
+2019-07,Costeros,Mar del Plata,Peces,Pescadilla,14186
+2019-07,Costeros,Mar del Plata,Peces,Pescadilla real,875
+2019-07,Costeros,Mar del Plata,Peces,Pez gallo,4914
+2019-07,Costeros,Mar del Plata,Peces,Pez gallo,21405
+2019-07,Costeros,Mar del Plata,Peces,Pez palo,320
+2019-07,Costeros,Mar del Plata,Peces,Pez palo,35970
+2019-07,Costeros,Mar del Plata,Peces,Pez ángel,1109683
+2019-07,Costeros,Mar del Plata,Peces,Pez ángel,2220
+2019-07,Costeros,Mar del Plata,Peces,Rayas nep,10384
+2019-07,Costeros,Mar del Plata,Peces,Rayas nep,1044030
+2019-07,Costeros,Mar del Plata,Peces,Salmonete,32
+2019-07,Costeros,Mar del Plata,Peces,Salmón de mar,60
+2019-07,Costeros,Mar del Plata,Peces,Salmón de mar,31
+2019-07,Costeros,Mar del Plata,Peces,Sargo,853975
+2019-07,Costeros,Mar del Plata,Peces,Tiburones nep,133657
+2019-07,Costeros,Mar del Plata,Peces,Tiburones nep,21140
+2019-07,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,4480
+2019-07,Fresqueros,Mar del Plata,Peces,Abadejo,29137
+2019-07,Fresqueros,Mar del Plata,Peces,Anchoa de banco,140
+2019-07,Fresqueros,Mar del Plata,Peces,Bacalao austral,140
+2019-07,Fresqueros,Mar del Plata,Peces,Besugo,600
+2019-07,Fresqueros,Mar del Plata,Peces,Corvina blanca,150
+2019-07,Fresqueros,Mar del Plata,Peces,Gatuzo,831381
+2019-07,Fresqueros,Mar del Plata,Peces,Lenguados nep,3895295
+2019-07,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,2110464
+2019-07,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,110
+2019-07,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,12709
+2019-07,Fresqueros,Mar del Plata,Peces,Mero,21109
+2019-07,Fresqueros,Mar del Plata,Peces,Notothenia,1190
+2019-07,Fresqueros,Mar del Plata,Peces,Papafigo,490
+2019-07,Fresqueros,Mar del Plata,Peces,Pargo,101
+2019-07,Fresqueros,Mar del Plata,Peces,Pescadilla,121763
+2019-07,Fresqueros,Mar del Plata,Peces,Pescadilla real,4522
+2019-07,Fresqueros,Mar del Plata,Peces,Pez gallo,1153
+2019-07,Fresqueros,Mar del Plata,Peces,Pez palo,197565
+2019-07,Fresqueros,Mar del Plata,Peces,Pez sable,249242
+2019-07,Fresqueros,Mar del Plata,Peces,Pez ángel,9539229
+2019-07,Fresqueros,Mar del Plata,Peces,Rayas nep,173
+2019-07,Fresqueros,Mar del Plata,Peces,Rayas nep,750
+2019-07,Fresqueros,Mar del Plata,Peces,Rubio,64
+2019-07,Fresqueros,Mar del Plata,Peces,Salmón de mar,544
+2019-07,Fresqueros,Mar del Plata,Peces,Tiburones nep,47290
+2019-07,Fresqueros,Mar del Plata,Peces,Tiburones nep,32
+2019-07,Fresqueros,Mar del Plata,Peces,Tiburón espinoso,925
+2019-07,Rada o ría,Mar del Plata,Crustáceos,Cangrejo,423
+2019-07,Rada o ría,Mar del Plata,Moluscos,Calamar Illex,132
+2019-07,Rada o ría,Mar del Plata,Moluscos,Calamar Loligo,983
+2019-07,Rada o ría,Mar del Plata,Moluscos,Pulpitos,314401
+2019-07,Rada o ría,Mar del Plata,Moluscos,Pulpos nep,4829
+2019-07,Rada o ría,Mar del Plata,Peces,Abadejo,645
+2019-07,Rada o ría,Mar del Plata,Peces,Besugo,26
+2019-07,Rada o ría,Mar del Plata,Peces,Castañeta,32
+2019-07,Rada o ría,Mar del Plata,Peces,Chernia,456
+2019-07,Rada o ría,Mar del Plata,Peces,Corvina blanca,120
+2019-07,Rada o ría,Mar del Plata,Peces,Gatuzo,5323364
+2019-07,Rada o ría,Mar del Plata,Peces,Lenguados nep,340
+2019-07,Rada o ría,Mar del Plata,Peces,Merluza hubbsi,125028
+2019-07,Rada o ría,Mar del Plata,Peces,Mero,630
+2019-07,Rada o ría,Mar del Plata,Peces,Palometa,34680
+2019-07,Rada o ría,Mar del Plata,Peces,Pescadilla,90
+2019-07,Rada o ría,Mar del Plata,Peces,Pescadilla,720
+2019-07,Rada o ría,Mar del Plata,Peces,Pez palo,330
+2019-07,Rada o ría,Mar del Plata,Peces,Pez ángel,55
+2019-07,Rada o ría,Mar del Plata,Peces,Rayas nep,480
+2019-07,Rada o ría,Mar del Plata,Peces,Salmonete,3420
+2019-07,Rada o ría,Mar del Plata,Peces,Salmón de mar,430
+2019-07,Rada o ría,Mar del Plata,Peces,Tiburones nep,130
+2019-07,Rada o ría,Necochea / Quequén,Crustáceos,Cangrejo,6000
+2019-07,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,2086896
+2019-07,Rada o ría,Necochea / Quequén,Moluscos,Caracol,199825
+2019-07,Rada o ría,Necochea / Quequén,Moluscos,Pulpitos,1915
+2019-07,Rada o ría,Necochea / Quequén,Peces,Besugo,2760
+2019-07,Rada o ría,Necochea / Quequén,Peces,Brótola,6000
+2019-07,Rada o ría,Necochea / Quequén,Peces,Castañeta,2165
+2019-07,Rada o ría,Necochea / Quequén,Peces,Congrio,30
+2019-07,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,3810
+2019-07,Rada o ría,Necochea / Quequén,Peces,Gatuzo,90
+2019-07,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,600
+2019-07,Rada o ría,Necochea / Quequén,Peces,Merluza hubbsi,270
+2019-07,Rada o ría,Necochea / Quequén,Peces,Mero,1500
+2019-07,Rada o ría,Necochea / Quequén,Peces,Papafigo,306369
+2019-07,Rada o ría,Necochea / Quequén,Peces,Pescadilla,1030
+2019-07,Rada o ría,Necochea / Quequén,Peces,Pez gallo,20
+2019-07,Rada o ría,Necochea / Quequén,Peces,Pez palo,10245
+2019-07,Rada o ría,Necochea / Quequén,Peces,Pez sable,8956
+2019-07,Rada o ría,Necochea / Quequén,Peces,Pez ángel,10010
+2019-07,Rada o ría,Necochea / Quequén,Peces,Rayas nep,15
+2019-07,Rada o ría,Necochea / Quequén,Peces,Salmonete,90
+2019-07,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,80
+2019-07,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,55
+2019-07,Congeladores poteros nacionales,otros puertos Buenos Aires,Moluscos,Calamar Illex,20
+2019-07,Costeros,otros puertos Buenos Aires,Peces,Anchoa de banco,115
+2019-07,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,3120
+2019-07,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,180
+2019-07,Costeros,otros puertos Buenos Aires,Peces,Gatuzo,80
+2019-07,Costeros,otros puertos Buenos Aires,Peces,Pescadilla,1120
+2019-07,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,17554
+2019-07,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,17517
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,2869
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,4494
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Lisa,70
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,2805
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Pargo,323377
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Pejerrey,26096
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,6335
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,12848
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Pez gallo,170
+2019-07,Rada o ría,otros puertos Buenos Aires,Peces,Rayas nep,4090
+2019-07,Congeladores poteros nacionales,Puerto Deseado,Moluscos,Calamar Illex,5736
+2019-07,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,116
+2019-07,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,114
+2019-07,Congeladores poteros nacionales,Puerto Madryn,Moluscos,Calamar Illex,1591
+2019-07,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,50
+2019-07,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,510
+2019-07,Costeros,Puerto Madryn,Crustáceos,Langostino,64
+2019-07,Costeros,Puerto Madryn,Peces,Merluza hubbsi,476
+2019-07,Costeros,Puerto Madryn,Peces,Mero,95
+2019-07,Costeros,Puerto Madryn,Peces,Salmón de mar,96
+2019-07,Fresqueros,Puerto Madryn,Crustáceos,Langostino,5032
+2019-07,Fresqueros,Puerto Madryn,Peces,Merluza hubbsi,11839
+2019-07,Costeros,Rawson,Crustáceos,Langostino,1617
+2019-07,Costeros,Rawson,Peces,Anchoíta,4466
+2019-07,Costeros,Rawson,Peces,Merluza hubbsi,442
+2019-07,Fresqueros,Rawson,Crustáceos,Langostino,2958
+2019-07,Costeros,Río Salado,Peces,Corvina blanca,1087
+2019-07,Costeros,Río Salado,Peces,Corvina blanca,5456
+2019-07,Rada o ría,Río Salado,Peces,Anchoa de banco,736
+2019-07,Rada o ría,Río Salado,Peces,Corvina blanca,2985
+2019-07,Rada o ría,Río Salado,Peces,Lisa,8589
+2019-07,Rada o ría,Río Salado,Peces,Palometa,210
+2019-07,Rada o ría,Río Salado,Peces,Pejerrey,1323
+2019-07,Rada o ría,Río Salado,Peces,Pescadilla,1125
+2019-07,Costeros,Rosales,Crustáceos,Camarón,780
+2019-07,Costeros,Rosales,Crustáceos,Langostino,275
+2019-07,Rada o ría,Rosales,Crustáceos,Camarón,862741
+2019-07,Rada o ría,Rosales,Crustáceos,Langostino,4150
+2019-07,Fresqueros,San Antonio Este,Peces,Gatuzo,5200
+2019-07,Fresqueros,San Antonio Este,Peces,Merluza hubbsi,975
+2019-07,Fresqueros,San Antonio Este,Peces,Otras especies de peces,355
+2019-07,Fresqueros,San Antonio Este,Peces,Pez gallo,4836
+2019-07,Fresqueros,San Antonio Este,Peces,Raya hocicuda / picuda,1080
+2019-07,Rada o ría,San Antonio Oeste,Peces,Cazón,20049
+2019-07,Rada o ría,San Antonio Oeste,Peces,Gatuzo,25
+2019-07,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,320
+2019-07,Rada o ría,San Antonio Oeste,Peces,Pez gallo,672
+2019-07,Rada o ría,San Antonio Oeste,Peces,Pez ángel,494762
+2019-07,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,5166
+2019-07,Rada o ría,San Antonio Oeste,Peces,Salmón de mar,1888
+2019-07,Costeros,San Clemente del Tuyú,Peces,Palometa,14800
+2019-07,Costeros,San Clemente del Tuyú,Peces,Pescadilla,7648
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Anchoa de banco,140
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,140
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Corvina negra,32
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Lisa,1581
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Otras especies de peces,20128
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Palometa,3712
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Pejerrey,64
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla,2848
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Raya hocicuda / picuda,32
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Raya lisa,1670
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Rayas nep,61222
+2019-07,Rada o ría,San Clemente del Tuyú,Peces,Saraca,5088
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Abadejo,4029
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,3226
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Granadero,1634
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,10560
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,56784
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Merluza hubbsi,1568
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Notothenia,608
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Polaca,720
+2019-07,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,2264
+2019-08,Rada o ría,Bahía Blanca,Peces,Pescadilla,1497
+2019-08,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,263975
+2019-08,Costeros,Caleta Olivia / Paula,Crustáceos,Langostino,54740
+2019-08,Fresqueros,Caleta Olivia / Paula,Crustáceos,Langostino,20366
+2019-08,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,20
+2019-08,Costeros,Camarones,Crustáceos,Langostino,2097
+2019-08,Costeros,Camarones,Peces,Merluza hubbsi,13355897
+2019-08,Fresqueros,Camarones,Crustáceos,Langostino,107
+2019-08,Congeladores tangoneros,Comodoro Rivadavia,Crustáceos,Langostino,1541
+2019-08,Congeladores tangoneros,Comodoro Rivadavia,Peces,Merluza hubbsi,99
+2019-08,Costeros,Comodoro Rivadavia,Crustáceos,Langostino,322
+2019-08,Fresqueros,Comodoro Rivadavia,Crustáceos,Langostino,1518
+2019-08,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,12193
+2019-08,Costeros,General Lavalle,Moluscos,Caracol,2953
+2019-08,Costeros,General Lavalle,Moluscos,Otras especies de molusco,376
+2019-08,Costeros,General Lavalle,Peces,Anchoa de banco,9948
+2019-08,Costeros,General Lavalle,Peces,Chucho,2049
+2019-08,Costeros,General Lavalle,Peces,Congrio,192635
+2019-08,Costeros,General Lavalle,Peces,Corvina blanca,1732298
+2019-08,Costeros,General Lavalle,Peces,Corvina negra,156285
+2019-08,Costeros,General Lavalle,Peces,Gatuzo,529
+2019-08,Costeros,General Lavalle,Peces,Lenguados nep,767
+2019-08,Costeros,General Lavalle,Peces,Lisa,73538
+2019-08,Costeros,General Lavalle,Peces,Otras especies de peces,304
+2019-08,Costeros,General Lavalle,Peces,Palometa,3913705
+2019-08,Costeros,General Lavalle,Peces,Papafigo,3011
+2019-08,Costeros,General Lavalle,Peces,Pescadilla,851400
+2019-08,Costeros,General Lavalle,Peces,Pez ángel,735
+2019-08,Costeros,General Lavalle,Peces,Rayas nep,73717
+2019-08,Costeros,General Lavalle,Peces,Saraca,112321
+2019-08,Rada o ría,General Lavalle,Moluscos,Otras especies de molusco,11628
+2019-08,Rada o ría,General Lavalle,Peces,Anchoa de banco,893
+2019-08,Rada o ría,General Lavalle,Peces,Bagre,44119
+2019-08,Rada o ría,General Lavalle,Peces,Chucho,921798
+2019-08,Rada o ría,General Lavalle,Peces,Congrio,1325605
+2019-08,Rada o ría,General Lavalle,Peces,Corvina blanca,1432
+2019-08,Rada o ría,General Lavalle,Peces,Corvina negra,1302096
+2019-08,Rada o ría,General Lavalle,Peces,Gatuzo,1051
+2019-08,Rada o ría,General Lavalle,Peces,Lenguados nep,795018
+2019-08,Rada o ría,General Lavalle,Peces,Lisa,738
+2019-08,Rada o ría,General Lavalle,Peces,Mero,4530463
+2019-08,Rada o ría,General Lavalle,Peces,Otras especies de peces,62
+2019-08,Rada o ría,General Lavalle,Peces,Palometa,3419
+2019-08,Rada o ría,General Lavalle,Peces,Papafigo,12251060
+2019-08,Rada o ría,General Lavalle,Peces,Pargo,14800
+2019-08,Rada o ría,General Lavalle,Peces,Pejerrey,41251
+2019-08,Rada o ría,General Lavalle,Peces,Pescadilla,1194371
+2019-08,Rada o ría,General Lavalle,Peces,Pescadilla real,32955
+2019-08,Rada o ría,General Lavalle,Peces,Pez ángel,326122
+2019-08,Rada o ría,General Lavalle,Peces,Raya marmolada,150
+2019-08,Rada o ría,General Lavalle,Peces,Rayas nep,240
+2019-08,Rada o ría,General Lavalle,Peces,Saraca,252
+2019-08,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,130
+2019-08,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),162
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,108306
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,64
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Brótola,20
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Granadero,20
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,1440
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Merluza negra,592
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,392
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,100
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Pez gallo,32776
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,10
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,7158
+2019-08,Congeladores arrastreros,Mar del Plata,Peces,Rubio,130
+2019-08,Congeladores poteros nacionales,Mar del Plata,Moluscos,Calamar Illex,16
+2019-08,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,4896
+2019-08,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,31698
+2019-08,Costeros,Mar del Plata,Crustáceos,Cangrejo,368
+2019-08,Costeros,Mar del Plata,Crustáceos,Langostino,3985
+2019-08,Costeros,Mar del Plata,Moluscos,Calamar Illex,4768
+2019-08,Costeros,Mar del Plata,Moluscos,Calamar Loligo,245
+2019-08,Costeros,Mar del Plata,Peces,Abadejo,301
+2019-08,Costeros,Mar del Plata,Peces,Anchoa de banco,23605
+2019-08,Costeros,Mar del Plata,Peces,Bacalao austral,3781
+2019-08,Costeros,Mar del Plata,Peces,Besugo,600
+2019-08,Costeros,Mar del Plata,Peces,Besugo,207
+2019-08,Costeros,Mar del Plata,Peces,Caballa,2116
+2019-08,Costeros,Mar del Plata,Peces,Castañeta,2017352
+2019-08,Costeros,Mar del Plata,Peces,Congrio,4236
+2019-08,Costeros,Mar del Plata,Peces,Corvina blanca,116813
+2019-08,Costeros,Mar del Plata,Peces,Corvina blanca,2356
+2019-08,Costeros,Mar del Plata,Peces,Gatuzo,110115
+2019-08,Costeros,Mar del Plata,Peces,Gatuzo,198
+2019-08,Costeros,Mar del Plata,Peces,Lenguados nep,75473
+2019-08,Costeros,Mar del Plata,Peces,Lenguados nep,38612
+2019-08,Costeros,Mar del Plata,Peces,Lisa,24567
+2019-08,Costeros,Mar del Plata,Peces,Merluza hubbsi,15001
+2019-08,Costeros,Mar del Plata,Peces,Merluza hubbsi,29559
+2019-08,Costeros,Mar del Plata,Peces,Merluza hubbsi,1124
+2019-08,Costeros,Mar del Plata,Peces,Mero,20028
+2019-08,Costeros,Mar del Plata,Peces,Mero,2175
+2019-08,Costeros,Mar del Plata,Peces,Palometa,245
+2019-08,Costeros,Mar del Plata,Peces,Palometa,589
+2019-08,Costeros,Mar del Plata,Peces,Papafigo,637460
+2019-08,Costeros,Mar del Plata,Peces,Pargo,1088
+2019-08,Costeros,Mar del Plata,Peces,Pescadilla,288
+2019-08,Costeros,Mar del Plata,Peces,Pescadilla,24649
+2019-08,Costeros,Mar del Plata,Peces,Pescadilla real,4564
+2019-08,Costeros,Mar del Plata,Peces,Pez gallo,96233
+2019-08,Costeros,Mar del Plata,Peces,Pez gallo,691
+2019-08,Costeros,Mar del Plata,Peces,Pez palo,48875
+2019-08,Costeros,Mar del Plata,Peces,Pez palo,52635
+2019-08,Costeros,Mar del Plata,Peces,Pez ángel,183897
+2019-08,Costeros,Mar del Plata,Peces,Pez ángel,748
+2019-08,Costeros,Mar del Plata,Peces,Rayas nep,3568
+2019-08,Costeros,Mar del Plata,Peces,Rayas nep,203
+2019-08,Costeros,Mar del Plata,Peces,Rubio,13782
+2019-08,Costeros,Mar del Plata,Peces,Salmonete,180
+2019-08,Costeros,Mar del Plata,Peces,Salmón de mar,7200
+2019-08,Costeros,Mar del Plata,Peces,Salmón de mar,70
+2019-08,Costeros,Mar del Plata,Peces,Sargo,16424
+2019-08,Costeros,Mar del Plata,Peces,Savorín,1330
+2019-08,Costeros,Mar del Plata,Peces,Tiburones nep,210
+2019-08,Costeros,Mar del Plata,Peces,Tiburones nep,465319
+2019-08,Fresqueros,Mar del Plata,Crustáceos,Langostino,6390
+2019-08,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,315
+2019-08,Fresqueros,Mar del Plata,Peces,Abadejo,34
+2019-08,Fresqueros,Mar del Plata,Peces,Anchoa de banco,60
+2019-08,Fresqueros,Mar del Plata,Peces,Bacalao austral,17251
+2019-08,Fresqueros,Mar del Plata,Peces,Besugo,10
+2019-08,Fresqueros,Mar del Plata,Peces,Caballa,111
+2019-08,Fresqueros,Mar del Plata,Peces,Corvina blanca,784676
+2019-08,Fresqueros,Mar del Plata,Peces,Gatuzo,1046851
+2019-08,Fresqueros,Mar del Plata,Peces,Gatuzo,14878
+2019-08,Fresqueros,Mar del Plata,Peces,Lenguados nep,51042
+2019-08,Fresqueros,Mar del Plata,Peces,Lenguados nep,140
+2019-08,Fresqueros,Mar del Plata,Peces,Lisa,140
+2019-08,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,96
+2019-08,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,11200
+2019-08,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,320
+2019-08,Fresqueros,Mar del Plata,Peces,Mero,240
+2019-08,Fresqueros,Mar del Plata,Peces,Notothenia,450
+2019-08,Fresqueros,Mar del Plata,Peces,Palometa,846800
+2019-08,Fresqueros,Mar del Plata,Peces,Pampanito,2646509
+2019-08,Fresqueros,Mar del Plata,Peces,Pargo,1265301
+2019-08,Fresqueros,Mar del Plata,Peces,Pescadilla,1154
+2019-08,Fresqueros,Mar del Plata,Peces,Pez gallo,30262
+2019-08,Fresqueros,Mar del Plata,Peces,Pez gallo,13851
+2019-08,Fresqueros,Mar del Plata,Peces,Pez palo,18576
+2019-08,Fresqueros,Mar del Plata,Peces,Pez ángel,1591
+2019-08,Fresqueros,Mar del Plata,Peces,Rayas nep,32
+2019-08,Fresqueros,Mar del Plata,Peces,Rayas nep,217
+2019-08,Fresqueros,Mar del Plata,Peces,Tiburones nep,431040
+2019-08,Fresqueros,Mar del Plata,Peces,Tiburones nep,186674
+2019-08,Rada o ría,Mar del Plata,Crustáceos,Camarón,131
+2019-08,Rada o ría,Mar del Plata,Crustáceos,Langostino,3298
+2019-08,Rada o ría,Mar del Plata,Moluscos,Calamar Illex,90
+2019-08,Rada o ría,Mar del Plata,Moluscos,Calamar Loligo,1667
+2019-08,Rada o ría,Mar del Plata,Moluscos,Calamar patagónico,31
+2019-08,Rada o ría,Mar del Plata,Moluscos,Pulpitos,91848
+2019-08,Rada o ría,Mar del Plata,Peces,Anchoa de banco,91672
+2019-08,Rada o ría,Mar del Plata,Peces,Besugo,10356742
+2019-08,Rada o ría,Mar del Plata,Peces,Besugo,2245
+2019-08,Rada o ría,Mar del Plata,Peces,Castañeta,496
+2019-08,Rada o ría,Mar del Plata,Peces,Chernia,1708
+2019-08,Rada o ría,Mar del Plata,Peces,Cornalito,34
+2019-08,Rada o ría,Mar del Plata,Peces,Corvina blanca,620
+2019-08,Rada o ría,Mar del Plata,Peces,Gatuzo,86394
+2019-08,Rada o ría,Mar del Plata,Peces,Lenguados nep,1921
+2019-08,Rada o ría,Mar del Plata,Peces,Merluza hubbsi,2843
+2019-08,Rada o ría,Mar del Plata,Peces,Mero,316
+2019-08,Rada o ría,Mar del Plata,Peces,Otras especies de peces,418
+2019-08,Rada o ría,Mar del Plata,Peces,Palometa,198503
+2019-08,Rada o ría,Mar del Plata,Peces,Papafigo,14812
+2019-08,Rada o ría,Mar del Plata,Peces,Pargo,28
+2019-08,Rada o ría,Mar del Plata,Peces,Pescadilla,311
+2019-08,Rada o ría,Mar del Plata,Peces,Pez gallo,4735766
+2019-08,Rada o ría,Mar del Plata,Peces,Pez palo,372
+2019-08,Rada o ría,Mar del Plata,Peces,Pez ángel,40537
+2019-08,Rada o ría,Mar del Plata,Peces,Rayas nep,1500
+2019-08,Rada o ría,Mar del Plata,Peces,Salmonete,2548
+2019-08,Rada o ría,Mar del Plata,Peces,Salmón de mar,390
+2019-08,Rada o ría,Mar del Plata,Peces,Tiburones nep,14585
+2019-08,Rada o ría,Necochea / Quequén,Moluscos,Calamar Illex,930
+2019-08,Rada o ría,Necochea / Quequén,Moluscos,Calamar Loligo,340
+2019-08,Rada o ría,Necochea / Quequén,Moluscos,Caracol,400
+2019-08,Rada o ría,Necochea / Quequén,Moluscos,Pulpos nep,2249437
+2019-08,Rada o ría,Necochea / Quequén,Peces,Anchoíta,151949
+2019-08,Rada o ría,Necochea / Quequén,Peces,Besugo,55
+2019-08,Rada o ría,Necochea / Quequén,Peces,Castañeta,1790
+2019-08,Rada o ría,Necochea / Quequén,Peces,Corvina blanca,9690
+2019-08,Rada o ría,Necochea / Quequén,Peces,Gatuzo,15450
+2019-08,Rada o ría,Necochea / Quequén,Peces,Lenguados nep,2130
+2019-08,Rada o ría,Necochea / Quequén,Peces,Merluza hubbsi,7040
+2019-08,Rada o ría,Necochea / Quequén,Peces,Merluza hubbsi,490
+2019-08,Rada o ría,Necochea / Quequén,Peces,Mero,300
+2019-08,Rada o ría,Necochea / Quequén,Peces,Palometa,120
+2019-08,Rada o ría,Necochea / Quequén,Peces,Pescadilla,242396
+2019-08,Rada o ría,Necochea / Quequén,Peces,Pez gallo,1615
+2019-08,Rada o ría,Necochea / Quequén,Peces,Pez palo,70
+2019-08,Rada o ría,Necochea / Quequén,Peces,Pez ángel,15165
+2019-08,Rada o ría,Necochea / Quequén,Peces,Rayas nep,11830
+2019-08,Rada o ría,Necochea / Quequén,Peces,Salmonete,9465
+2019-08,Rada o ría,Necochea / Quequén,Peces,Salmón de mar,101
+2019-08,Rada o ría,Necochea / Quequén,Peces,Tiburones nep,32
+2019-08,Congeladores poteros nacionales,otros puertos Buenos Aires,Moluscos,Calamar Illex,1380
+2019-08,Congeladores tangoneros,otros puertos Buenos Aires,Crustáceos,Langostino,50
+2019-08,Congeladores tangoneros,otros puertos Buenos Aires,Peces,Merluza hubbsi,1915
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Besugo,10
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Cazón,1930
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,820
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Gatuzo,450
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Mero,690
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Palometa,2682
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Pargo,10198
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Pescadilla,27575
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Pez gallo,15793
+2019-08,Costeros,otros puertos Buenos Aires,Peces,Rayas nep,10939
+2019-08,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,3403
+2019-08,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,3843
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Anchoa de banco,70
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Cazón,2042
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,256
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,8424
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,405205
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Lisa,165
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,19966
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,6110
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Pargo,15549
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Pejerrey,236
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,3089
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,5071
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,177
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Raya marmolada,130
+2019-08,Rada o ría,otros puertos Buenos Aires,Peces,Rayas nep,560
+2019-08,Congeladores palangreros,Puerto Deseado,Peces,Merluza negra,25
+2019-08,Congeladores poteros nacionales,Puerto Deseado,Moluscos,Calamar Illex,63371
+2019-08,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,864
+2019-08,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,32
+2019-08,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,3356
+2019-08,Congeladores arrastreros,Puerto Madryn,Moluscos,Calamar Illex,4128
+2019-08,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,13456
+2019-08,Congeladores arrastreros,Puerto Madryn,Peces,Bacalao austral,552
+2019-08,Congeladores arrastreros,Puerto Madryn,Peces,Merluza de cola,53
+2019-08,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,2656
+2019-08,Congeladores poteros nacionales,Puerto Madryn,Moluscos,Calamar Illex,128
+2019-08,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,576
+2019-08,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,3602
+2019-08,Costeros,Puerto Madryn,Crustáceos,Langostino,4736
+2019-08,Fresqueros,Puerto Madryn,Crustáceos,Langostino,3069
+2019-08,Fresqueros,Puerto Madryn,Peces,Merluza hubbsi,8131
+2019-08,Costeros,Rawson,Crustáceos,Langostino,330
+2019-08,Costeros,Rawson,Peces,Anchoíta,1097
+2019-08,Fresqueros,Rawson,Crustáceos,Langostino,1296
+2019-08,Costeros,Río Salado,Peces,Corvina blanca,3192
+2019-08,Rada o ría,Río Salado,Peces,Anchoa de banco,2217
+2019-08,Rada o ría,Río Salado,Peces,Corvina blanca,640
+2019-08,Rada o ría,Río Salado,Peces,Corvina negra,150
+2019-08,Rada o ría,Río Salado,Peces,Lenguados nep,722710
+2019-08,Rada o ría,Río Salado,Peces,Lisa,520
+2019-08,Rada o ría,Río Salado,Peces,Otras especies de peces,19410
+2019-08,Rada o ría,Río Salado,Peces,Palometa,1728
+2019-08,Rada o ría,Río Salado,Peces,Pejerrey,32
+2019-08,Rada o ría,Río Salado,Peces,Pescadilla,168
+2019-08,Rada o ría,Río Salado,Peces,Pescadilla real,93
+2019-08,Rada o ría,Río Salado,Peces,Raya hocicuda / picuda,390
+2019-08,Costeros,Rosales,Crustáceos,Camarón,20360
+2019-08,Costeros,Rosales,Crustáceos,Langostino,23051
+2019-08,Rada o ría,Rosales,Crustáceos,Camarón,389
+2019-08,Rada o ría,Rosales,Crustáceos,Langostino,220
+2019-08,Costeros,San Antonio Oeste,Peces,Lenguados nep,400
+2019-08,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,96
+2019-08,Costeros,San Antonio Oeste,Peces,Pez gallo,705031
+2019-08,Costeros,San Antonio Oeste,Peces,Raya hocicuda / picuda,576
+2019-08,Rada o ría,San Antonio Oeste,Moluscos,Calamar Illex,256
+2019-08,Rada o ría,San Antonio Oeste,Peces,Abadejo,1216
+2019-08,Rada o ría,San Antonio Oeste,Peces,Besugo,60
+2019-08,Rada o ría,San Antonio Oeste,Peces,Cazón,384
+2019-08,Rada o ría,San Antonio Oeste,Peces,Gatuzo,28512
+2019-08,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,992
+2019-08,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,192
+2019-08,Rada o ría,San Antonio Oeste,Peces,Mero,64
+2019-08,Rada o ría,San Antonio Oeste,Peces,Otras especies de peces,120
+2019-08,Rada o ría,San Antonio Oeste,Peces,Palometa,160
+2019-08,Rada o ría,San Antonio Oeste,Peces,Pez gallo,608
+2019-08,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,32
+2019-08,Rada o ría,San Antonio Oeste,Peces,Salmón de mar,3168
+2019-08,Rada o ría,San Antonio Oeste,Peces,Savorín,160
+2019-08,Costeros,San Clemente del Tuyú,Peces,Corvina blanca,3360
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Anchoa de banco,672
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,39104
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Corvina negra,224
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Lenguados nep,160
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Lisa,672
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Otras especies de peces,16320
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Palometa,6176
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla,593
+2019-08,Rada o ría,San Clemente del Tuyú,Peces,Saraca,416
+2019-08,Congeladores arrastreros,Ushuaia,Moluscos,Vieira (callos),154
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Abadejo,58542
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,2608
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Granadero,60
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,7078
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,3630
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,368
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Polaca,1474
+2019-08,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,2000
+2019-09,Rada o ría,Bahía Blanca,Crustáceos,Langostino,53399
+2019-09,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,22370
+2019-09,Fresqueros,Caleta Olivia / Paula,Crustáceos,Langostino,5911
+2019-09,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,1560
+2019-09,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,10470694
+2019-09,Costeros,Camarones,Crustáceos,Langostino,22
+2019-09,Costeros,Camarones,Peces,Merluza hubbsi,1135
+2019-09,Fresqueros,Camarones,Crustáceos,Langostino,25
+2019-09,Fresqueros,Camarones,Peces,Merluza hubbsi,444
+2019-09,Congeladores tangoneros,Comodoro Rivadavia,Crustáceos,Langostino,8559
+2019-09,Congeladores tangoneros,Comodoro Rivadavia,Peces,Merluza hubbsi,747
+2019-09,Costeros,Comodoro Rivadavia,Crustáceos,Langostino,116575
+2019-09,Fresqueros,Comodoro Rivadavia,Crustáceos,Langostino,19625
+2019-09,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,16336
+2019-09,Costeros,General Lavalle,Peces,Chucho,189022
+2019-09,Costeros,General Lavalle,Peces,Corvina blanca,3163969
+2019-09,Costeros,General Lavalle,Peces,Otras especies de peces,24679
+2019-09,Costeros,General Lavalle,Peces,Pescadilla,4163
+2019-09,Costeros,General Lavalle,Peces,Rayas nep,54
+2019-09,Rada o ría,General Lavalle,Peces,Anchoa de banco,138210
+2019-09,Rada o ría,General Lavalle,Peces,Bagre,466105
+2019-09,Rada o ría,General Lavalle,Peces,Besugo,809140
+2019-09,Rada o ría,General Lavalle,Peces,Brótola,1197
+2019-09,Rada o ría,General Lavalle,Peces,Chucho,765949
+2019-09,Rada o ría,General Lavalle,Peces,Congrio,878
+2019-09,Rada o ría,General Lavalle,Peces,Corvina blanca,2120850
+2019-09,Rada o ría,General Lavalle,Peces,Corvina negra,3548
+2019-09,Rada o ría,General Lavalle,Peces,Gatuzo,8081710
+2019-09,Rada o ría,General Lavalle,Peces,Lenguados nep,16788
+2019-09,Rada o ría,General Lavalle,Peces,Lisa,395986
+2019-09,Rada o ría,General Lavalle,Peces,Otras especies de peces,3232
+2019-09,Rada o ría,General Lavalle,Peces,Otras especies de peces,36800
+2019-09,Rada o ría,General Lavalle,Peces,Palometa,10
+2019-09,Rada o ría,General Lavalle,Peces,Papafigo,29906
+2019-09,Rada o ría,General Lavalle,Peces,Pargo,80
+2019-09,Rada o ría,General Lavalle,Peces,Pejerrey,21300
+2019-09,Rada o ría,General Lavalle,Peces,Pescadilla,2200
+2019-09,Rada o ría,General Lavalle,Peces,Pescadilla real,46220
+2019-09,Rada o ría,General Lavalle,Peces,Pez gallo,692
+2019-09,Rada o ría,General Lavalle,Peces,Pez ángel,55
+2019-09,Rada o ría,General Lavalle,Peces,Raya marmolada,4312
+2019-09,Rada o ría,General Lavalle,Peces,Rayas nep,33
+2019-09,Rada o ría,General Lavalle,Peces,Saraca,2506
+2019-09,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),199883
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,203
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,19608
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Merluza de cola,96
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,12980
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Merluza negra,210
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,26
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,70
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,198
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,31219
+2019-09,Congeladores arrastreros,Mar del Plata,Peces,Rubio,1800795
+2019-09,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,10721
+2019-09,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,160181
+2019-09,Costeros,Mar del Plata,Crustáceos,Langostino,5900
+2019-09,Costeros,Mar del Plata,Moluscos,Calamar Illex,81341
+2019-09,Costeros,Mar del Plata,Moluscos,Calamar Loligo,93399
+2019-09,Costeros,Mar del Plata,Peces,Abadejo,89962
+2019-09,Costeros,Mar del Plata,Peces,Anchoa de banco,102026
+2019-09,Costeros,Mar del Plata,Peces,Anchoa de banco,276
+2019-09,Costeros,Mar del Plata,Peces,Anchoíta,74687
+2019-09,Costeros,Mar del Plata,Peces,Besugo,945
+2019-09,Costeros,Mar del Plata,Peces,Besugo,23805
+2019-09,Costeros,Mar del Plata,Peces,Brótola,850
+2019-09,Costeros,Mar del Plata,Peces,Caballa,544
+2019-09,Costeros,Mar del Plata,Peces,Castañeta,1890
+2019-09,Costeros,Mar del Plata,Peces,Chernia,4213
+2019-09,Costeros,Mar del Plata,Peces,Chernia,16156
+2019-09,Costeros,Mar del Plata,Peces,Congrio,570129
+2019-09,Costeros,Mar del Plata,Peces,Corvina blanca,700
+2019-09,Costeros,Mar del Plata,Peces,Corvina blanca,36
+2019-09,Costeros,Mar del Plata,Peces,Gatuzo,18293
+2019-09,Costeros,Mar del Plata,Peces,Gatuzo,12744
+2019-09,Costeros,Mar del Plata,Peces,Lenguados nep,72449
+2019-09,Costeros,Mar del Plata,Peces,Lenguados nep,2495
+2019-09,Costeros,Mar del Plata,Peces,Merluza hubbsi,25122
+2019-09,Costeros,Mar del Plata,Peces,Merluza hubbsi,900
+2019-09,Costeros,Mar del Plata,Peces,Merluza hubbsi,63131
+2019-09,Costeros,Mar del Plata,Peces,Mero,189800
+2019-09,Costeros,Mar del Plata,Peces,Mero,2533
+2019-09,Costeros,Mar del Plata,Peces,Palometa,1196
+2019-09,Costeros,Mar del Plata,Peces,Palometa,13679
+2019-09,Costeros,Mar del Plata,Peces,Pampanito,1139
+2019-09,Costeros,Mar del Plata,Peces,Pampanito,11801
+2019-09,Costeros,Mar del Plata,Peces,Papafigo,120
+2019-09,Costeros,Mar del Plata,Peces,Pargo,1330
+2019-09,Costeros,Mar del Plata,Peces,Pescadilla,120
+2019-09,Costeros,Mar del Plata,Peces,Pescadilla,54542
+2019-09,Costeros,Mar del Plata,Peces,Pescadilla real,7690
+2019-09,Costeros,Mar del Plata,Peces,Pez gallo,315
+2019-09,Costeros,Mar del Plata,Peces,Pez gallo,315
+2019-09,Costeros,Mar del Plata,Peces,Pez palo,32
+2019-09,Costeros,Mar del Plata,Peces,Pez palo,84
+2019-09,Costeros,Mar del Plata,Peces,Pez ángel,413142
+2019-09,Costeros,Mar del Plata,Peces,Pez ángel,691432
+2019-09,Costeros,Mar del Plata,Peces,Raya lisa,100
+2019-09,Costeros,Mar del Plata,Peces,Rayas nep,40
+2019-09,Costeros,Mar del Plata,Peces,Rayas nep,40
+2019-09,Costeros,Mar del Plata,Peces,Salmonete,8160
+2019-09,Costeros,Mar del Plata,Peces,Salmón de mar,80
+2019-09,Costeros,Mar del Plata,Peces,Salmón de mar,80
+2019-09,Costeros,Mar del Plata,Peces,Tiburones nep,5642
+2019-09,Costeros,Mar del Plata,Peces,Tiburones nep,750
+2019-09,Costeros,Mar del Plata,Peces,Tiburón gris,207643
+2019-09,Fresqueros,Mar del Plata,Crustáceos,Langostino,656619
+2019-09,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,1120
+2019-09,Fresqueros,Mar del Plata,Peces,Abadejo,235021
+2019-09,Fresqueros,Mar del Plata,Peces,Anchoa de banco,37896
+2019-09,Fresqueros,Mar del Plata,Peces,Anchoíta,248587
+2019-09,Fresqueros,Mar del Plata,Peces,Besugo,4117
+2019-09,Fresqueros,Mar del Plata,Peces,Caballa,19681
+2019-09,Fresqueros,Mar del Plata,Peces,Corvina blanca,170
+2019-09,Fresqueros,Mar del Plata,Peces,Gatuzo,126866
+2019-09,Fresqueros,Mar del Plata,Peces,Gatuzo,4034
+2019-09,Fresqueros,Mar del Plata,Peces,Jurel,1319073
+2019-09,Fresqueros,Mar del Plata,Peces,Lenguados nep,116125
+2019-09,Fresqueros,Mar del Plata,Peces,Lenguados nep,272
+2019-09,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,8161
+2019-09,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,35
+2019-09,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,60
+2019-09,Fresqueros,Mar del Plata,Peces,Mero,2272
+2019-09,Fresqueros,Mar del Plata,Peces,Notothenia,96628
+2019-09,Fresqueros,Mar del Plata,Peces,Palometa,272767
+2019-09,Fresqueros,Mar del Plata,Peces,Papafigo,9077114
+2019-09,Fresqueros,Mar del Plata,Peces,Pescadilla,8736
+2019-09,Fresqueros,Mar del Plata,Peces,Pescadilla real,776
+2019-09,Fresqueros,Mar del Plata,Peces,Pez gallo,2325
+2019-09,Fresqueros,Mar del Plata,Peces,Pez gallo,1112
+2019-09,Fresqueros,Mar del Plata,Peces,Pez palo,57562
+2019-09,Fresqueros,Mar del Plata,Peces,Pez ángel,93
+2019-09,Fresqueros,Mar del Plata,Peces,Rayas nep,333
+2019-09,Fresqueros,Mar del Plata,Peces,Rayas nep,1456
+2019-09,Fresqueros,Mar del Plata,Peces,Salmón de mar,1057
+2019-09,Fresqueros,Mar del Plata,Peces,Tiburones nep,906
+2019-09,Fresqueros,Mar del Plata,Peces,Tiburones nep,185971
+2019-09,Rada o ría,Mar del Plata,Peces,Anchoa de banco,23124
+2019-09,Rada o ría,Mar del Plata,Peces,Anchoíta,36
+2019-09,Rada o ría,Mar del Plata,Peces,Besugo,233
+2019-09,Rada o ría,Mar del Plata,Peces,Corvina blanca,2313
+2019-09,Rada o ría,Mar del Plata,Peces,Gatuzo,1092119
+2019-09,Rada o ría,Mar del Plata,Peces,Lenguados nep,241
+2019-09,Rada o ría,Mar del Plata,Peces,Mero,22231
+2019-09,Rada o ría,Mar del Plata,Peces,Palometa,42467
+2019-09,Rada o ría,Mar del Plata,Peces,Pescadilla,30
+2019-09,Rada o ría,Mar del Plata,Peces,Pez gallo,18720
+2019-09,Rada o ría,Mar del Plata,Peces,Pez palo,90
+2019-09,Rada o ría,Mar del Plata,Peces,Rayas nep,3150
+2019-09,Rada o ría,Mar del Plata,Peces,Saraca,450
+2019-09,Rada o ría,Mar del Plata,Peces,Tiburones nep,90
+2019-09,Rada o ría,Necochea / Quequén,Peces,Anchoíta,330
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Besugo,11300
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Cazón,13117
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,650
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Gatuzo,9240
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Mero,500
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Pescadilla,60
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Pescadilla real,115
+2019-09,Costeros,otros puertos Buenos Aires,Peces,Rayas nep,360
+2019-09,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,793585
+2019-09,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,41980
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Anchoa de banco,210
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Cazón,2370
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,7380
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Corvina negra,635
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,15
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,4210
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Lisa,1620
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Otras especies de peces,60
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,840
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,279845
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Pampanito,33142
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,90
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,90
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla real,17379
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Pez ángel,11830
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,10750
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,512
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Raya marmolada,21164
+2019-09,Rada o ría,otros puertos Buenos Aires,Peces,Rayas nep,1620
+2019-09,Congeladores arrastreros,Puerto Deseado,Peces,Merluza negra,427844
+2019-09,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,160
+2019-09,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,366
+2019-09,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,200
+2019-09,Congeladores arrastreros,Puerto Madryn,Peces,Bacalao austral,240
+2019-09,Congeladores arrastreros,Puerto Madryn,Peces,Merluza de cola,99683
+2019-09,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,778
+2019-09,Congeladores arrastreros,Puerto Madryn,Peces,Notothenia,30
+2019-09,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,2961
+2019-09,Congeladores arrastreros,Puerto Madryn,Peces,Rubio,2050
+2019-09,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,96
+2019-09,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,234514
+2019-09,Costeros,Puerto Madryn,Crustáceos,Langostino,8017
+2019-09,Fresqueros,Puerto Madryn,Crustáceos,Langostino,2679
+2019-09,Fresqueros,Puerto Madryn,Peces,Merluza hubbsi,16
+2019-09,Costeros,Rawson,Crustáceos,Langostino,60
+2019-09,Costeros,Rawson,Peces,Anchoíta,329487
+2019-09,Costeros,Rawson,Peces,Merluza hubbsi,960
+2019-09,Costeros,Rawson,Peces,Pez gallo,887
+2019-09,Fresqueros,Rawson,Crustáceos,Langostino,13755
+2019-09,Costeros,Río Salado,Peces,Corvina blanca,64
+2019-09,Rada o ría,Río Salado,Peces,Anchoa de banco,1108
+2019-09,Rada o ría,Río Salado,Peces,Bagre,84
+2019-09,Rada o ría,Río Salado,Peces,Corvina blanca,124
+2019-09,Rada o ría,Río Salado,Peces,Corvina negra,43
+2019-09,Rada o ría,Río Salado,Peces,Lenguados nep,41632
+2019-09,Rada o ría,Río Salado,Peces,Lisa,11218
+2019-09,Rada o ría,Río Salado,Peces,Otras especies de peces,64
+2019-09,Rada o ría,Río Salado,Peces,Palometa,100
+2019-09,Rada o ría,Río Salado,Peces,Pejerrey,1436
+2019-09,Rada o ría,Río Salado,Peces,Pescadilla,44
+2019-09,Rada o ría,Río Salado,Peces,Pescadilla real,30
+2019-09,Costeros,Rosales,Crustáceos,Camarón,290
+2019-09,Costeros,Rosales,Crustáceos,Langostino,188
+2019-09,Rada o ría,Rosales,Crustáceos,Camarón,2884
+2019-09,Rada o ría,Rosales,Crustáceos,Langostino,259342
+2019-09,Costeros,San Antonio Este,Crustáceos,Langostino,13662
+2019-09,Fresqueros,San Antonio Este,Crustáceos,Langostino,100
+2019-09,Fresqueros,San Antonio Este,Peces,Gatuzo,128
+2019-09,Fresqueros,San Antonio Este,Peces,Merluza hubbsi,700
+2019-09,Fresqueros,San Antonio Este,Peces,Otras especies de peces,416
+2019-09,Fresqueros,San Antonio Este,Peces,Pez gallo,2540
+2019-09,Fresqueros,San Antonio Este,Peces,Raya hocicuda / picuda,288
+2019-09,Fresqueros,San Antonio Este,Peces,Salmón de mar,960
+2019-09,Rada o ría,San Antonio Este,Moluscos,Calamar Illex,80
+2019-09,Rada o ría,San Antonio Este,Peces,Besugo,80
+2019-09,Rada o ría,San Antonio Este,Peces,Gatuzo,180
+2019-09,Rada o ría,San Antonio Este,Peces,Lenguados nep,50
+2019-09,Rada o ría,San Antonio Este,Peces,Merluza hubbsi,720
+2019-09,Rada o ría,San Antonio Este,Peces,Otras especies de peces,120
+2019-09,Rada o ría,San Antonio Este,Peces,Pez gallo,20460
+2019-09,Rada o ría,San Antonio Este,Peces,Pez ángel,90
+2019-09,Rada o ría,San Antonio Este,Peces,Raya hocicuda / picuda,9362
+2019-09,Rada o ría,San Antonio Este,Peces,Salmón de mar,30
+2019-09,Rada o ría,San Antonio Oeste,Peces,Gatuzo,2387
+2019-09,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,720
+2019-09,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,240
+2019-09,Rada o ría,San Antonio Oeste,Peces,Otras especies de peces,210
+2019-09,Rada o ría,San Antonio Oeste,Peces,Pez gallo,61010
+2019-09,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,360
+2019-09,Rada o ría,San Antonio Oeste,Peces,Salmón de mar,7732
+2019-09,Costeros,San Clemente del Tuyú,Peces,Corvina blanca,2040
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Anchoa de banco,522
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Brótola,34
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,35
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Corvina negra,16710
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Lisa,2000
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Otras especies de peces,11033
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Palometa,2010
+2019-09,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla,90
+2019-09,Congeladores arrastreros,Ushuaia,Moluscos,Vieira (callos),14849
+2019-10,Rada o ría,Bahía Blanca,Peces,Gatuzo,642
+2019-10,Rada o ría,Bahía Blanca,Peces,Palometa,145545
+2019-10,Rada o ría,Bahía Blanca,Peces,Pescadilla,48902
+2019-10,Rada o ría,Bahía Blanca,Peces,Raya marmolada,11257
+2019-10,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,2271
+2019-10,Congeladores tangoneros,Caleta Olivia / Paula,Peces,Merluza austral,596
+2019-10,Congeladores tangoneros,Caleta Olivia / Paula,Peces,Merluza hubbsi,35
+2019-10,Fresqueros,Caleta Olivia / Paula,Crustáceos,Langostino,25
+2019-10,Fresqueros,Caleta Olivia / Paula,Peces,Abadejo,253122
+2019-10,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,1700
+2019-10,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,535
+2019-10,Fresqueros,Caleta Olivia / Paula,Peces,Notothenia,2969
+2019-10,Fresqueros,Caleta Olivia / Paula,Peces,Raya hocicuda / picuda,1132
+2019-10,Fresqueros,Caleta Olivia / Paula,Peces,Raya hocicuda / picuda,336
+2019-10,Rada o ría,Caleta Olivia / Paula,Peces,Merluza hubbsi,450
+2019-10,Costeros,Camarones,Crustáceos,Langostino,12707555
+2019-10,Costeros,Camarones,Peces,Merluza hubbsi,228
+2019-10,Fresqueros,Camarones,Crustáceos,Langostino,669
+2019-10,Fresqueros,Camarones,Peces,Merluza hubbsi,394
+2019-10,Costeros,Comodoro Rivadavia,Crustáceos,Langostino,35
+2019-10,Costeros,Comodoro Rivadavia,Peces,Merluza hubbsi,5478
+2019-10,Fresqueros,Comodoro Rivadavia,Crustáceos,Langostino,600
+2019-10,Fresqueros,Comodoro Rivadavia,Peces,Merluza hubbsi,3601
+2019-10,Costeros,General Lavalle,Peces,Bagre,2232
+2019-10,Costeros,General Lavalle,Peces,Chucho,3791
+2019-10,Costeros,General Lavalle,Peces,Congrio,1598
+2019-10,Costeros,General Lavalle,Peces,Corvina blanca,4263
+2019-10,Costeros,General Lavalle,Peces,Corvina negra,32
+2019-10,Costeros,General Lavalle,Peces,Lenguados nep,17601
+2019-10,Costeros,General Lavalle,Peces,Otras especies de peces,934
+2019-10,Costeros,General Lavalle,Peces,Pescadilla,2002
+2019-10,Costeros,General Lavalle,Peces,Pescadilla real,8294
+2019-10,Costeros,General Lavalle,Peces,Raya cola corta,1324
+2019-10,Costeros,General Lavalle,Peces,Raya de círculos,26877
+2019-10,Costeros,General Lavalle,Peces,Raya marrón oscuro,178082
+2019-10,Costeros,General Lavalle,Peces,Rayas nep,11085
+2019-10,Costeros,General Lavalle,Peces,Saraca,19472
+2019-10,Rada o ría,General Lavalle,Peces,Anchoa de banco,175296
+2019-10,Rada o ría,General Lavalle,Peces,Bagre,2178874
+2019-10,Rada o ría,General Lavalle,Peces,Brótola,58520
+2019-10,Rada o ría,General Lavalle,Peces,Congrio,1584
+2019-10,Rada o ría,General Lavalle,Peces,Corvina blanca,11471
+2019-10,Rada o ría,General Lavalle,Peces,Corvina negra,129
+2019-10,Rada o ría,General Lavalle,Peces,Lenguados nep,4284
+2019-10,Rada o ría,General Lavalle,Peces,Lisa,4624
+2019-10,Rada o ría,General Lavalle,Peces,Mero,666
+2019-10,Rada o ría,General Lavalle,Peces,Otras especies de peces,9608
+2019-10,Rada o ría,General Lavalle,Peces,Palometa,410475
+2019-10,Rada o ría,General Lavalle,Peces,Pejerrey,333
+2019-10,Rada o ría,General Lavalle,Peces,Pescadilla,1170
+2019-10,Rada o ría,General Lavalle,Peces,Pescadilla real,812688
+2019-10,Rada o ría,General Lavalle,Peces,Pez gallo,70
+2019-10,Rada o ría,General Lavalle,Peces,Pez ángel,15149
+2019-10,Rada o ría,General Lavalle,Peces,Raya marmolada,2599182
+2019-10,Rada o ría,General Lavalle,Peces,Rayas nep,896
+2019-10,Rada o ría,General Lavalle,Peces,Saraca,21
+2019-10,Congeladores arrastreros,Mar del Plata,Moluscos,Calamar Illex,6187
+2019-10,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),306721
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Abadejo,668
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Bacalao austral,4213553
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Besugo,7534
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Besugo,8959475
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Brótola,60
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Brótola,71524
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Caballa,55747
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Gatuzo,38807
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Gatuzo,24158
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Granadero,53553
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Lenguados nep,32
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Lenguados nep,32
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Merluza de cola,94
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Merluza hubbsi,59415
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Merluza negra,32
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Mero,64
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Mero,252
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Notothenia,8064
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,2200
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Pampanito,192
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Papafigo,448
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Pez gallo,352
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Pez gallo,3604
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Pez palo,32
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,499
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Raya hocicuda / picuda,141825
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,7403
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Rayas nep,90
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Salmonete,5370
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Salmón de mar,5997
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Salmón de mar,38532
+2019-10,Congeladores arrastreros,Mar del Plata,Peces,Savorín,3084
+2019-10,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,341895
+2019-10,Congeladores tangoneros,Mar del Plata,Peces,Jurel,327298
+2019-10,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,215
+2019-10,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,70
+2019-10,Costeros,Mar del Plata,Crustáceos,Cangrejo,705
+2019-10,Costeros,Mar del Plata,Crustáceos,Langostino,1714603
+2019-10,Costeros,Mar del Plata,Moluscos,Calamar Illex,9903
+2019-10,Costeros,Mar del Plata,Moluscos,Calamar Loligo,159246
+2019-10,Costeros,Mar del Plata,Peces,Abadejo,9661
+2019-10,Costeros,Mar del Plata,Peces,Anchoa de banco,174599
+2019-10,Costeros,Mar del Plata,Peces,Anchoíta,24225
+2019-10,Costeros,Mar del Plata,Peces,Besugo,312558
+2019-10,Costeros,Mar del Plata,Peces,Besugo,143377
+2019-10,Costeros,Mar del Plata,Peces,Caballa,6441
+2019-10,Costeros,Mar del Plata,Peces,Chernia,63421
+2019-10,Costeros,Mar del Plata,Peces,Congrio,11448
+2019-10,Costeros,Mar del Plata,Peces,Corvina blanca,1180
+2019-10,Costeros,Mar del Plata,Peces,Corvina blanca,2845
+2019-10,Costeros,Mar del Plata,Peces,Gatuzo,7786
+2019-10,Costeros,Mar del Plata,Peces,Gatuzo,288
+2019-10,Costeros,Mar del Plata,Peces,Lenguados nep,387158
+2019-10,Costeros,Mar del Plata,Peces,Lenguados nep,1006
+2019-10,Costeros,Mar del Plata,Peces,Merluza hubbsi,2367
+2019-10,Costeros,Mar del Plata,Peces,Merluza hubbsi,20152
+2019-10,Costeros,Mar del Plata,Peces,Merluza hubbsi,14157
+2019-10,Costeros,Mar del Plata,Peces,Mero,357603
+2019-10,Costeros,Mar del Plata,Peces,Mero,3770
+2019-10,Costeros,Mar del Plata,Peces,Palometa,49778
+2019-10,Costeros,Mar del Plata,Peces,Pampanito,2612
+2019-10,Costeros,Mar del Plata,Peces,Papafigo,81542
+2019-10,Costeros,Mar del Plata,Peces,Pargo,200499
+2019-10,Costeros,Mar del Plata,Peces,Pescadilla,5765
+2019-10,Costeros,Mar del Plata,Peces,Pescadilla,6169
+2019-10,Costeros,Mar del Plata,Peces,Pescadilla real,23547
+2019-10,Costeros,Mar del Plata,Peces,Pez gallo,5120
+2019-10,Costeros,Mar del Plata,Peces,Pez gallo,3790
+2019-10,Costeros,Mar del Plata,Peces,Pez palo,40342
+2019-10,Costeros,Mar del Plata,Peces,Pez palo,160
+2019-10,Costeros,Mar del Plata,Peces,Pez ángel,660
+2019-10,Costeros,Mar del Plata,Peces,Pez ángel,240
+2019-10,Costeros,Mar del Plata,Peces,Raya cola corta,275
+2019-10,Costeros,Mar del Plata,Peces,Rayas nep,14250
+2019-10,Costeros,Mar del Plata,Peces,Rayas nep,90
+2019-10,Costeros,Mar del Plata,Peces,Salmonete,300
+2019-10,Costeros,Mar del Plata,Peces,Salmón de mar,732577
+2019-10,Costeros,Mar del Plata,Peces,Salmón de mar,2600
+2019-10,Costeros,Mar del Plata,Peces,Savorín,579643
+2019-10,Costeros,Mar del Plata,Peces,Tiburones nep,18625
+2019-10,Costeros,Mar del Plata,Peces,Tiburones nep,2912
+2019-10,Costeros,Mar del Plata,Peces,Tiburón escalandrún,100
+2019-10,Costeros,Mar del Plata,Peces,Tiburón martillo,100
+2019-10,Fresqueros,Mar del Plata,Crustáceos,Langostino,191228
+2019-10,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,99
+2019-10,Fresqueros,Mar del Plata,Peces,Abadejo,66
+2019-10,Fresqueros,Mar del Plata,Peces,Anchoa de banco,2470
+2019-10,Fresqueros,Mar del Plata,Peces,Anchoíta,528
+2019-10,Fresqueros,Mar del Plata,Peces,Bacalao austral,416
+2019-10,Fresqueros,Mar del Plata,Peces,Besugo,448
+2019-10,Fresqueros,Mar del Plata,Peces,Caballa,448
+2019-10,Fresqueros,Mar del Plata,Peces,Castañeta,32
+2019-10,Fresqueros,Mar del Plata,Peces,Corvina blanca,385
+2019-10,Fresqueros,Mar del Plata,Peces,Gatuzo,1952
+2019-10,Fresqueros,Mar del Plata,Peces,Gatuzo,1
+2019-10,Fresqueros,Mar del Plata,Peces,Jurel,944
+2019-10,Fresqueros,Mar del Plata,Peces,Lenguados nep,96
+2019-10,Fresqueros,Mar del Plata,Peces,Lenguados nep,1120
+2019-10,Fresqueros,Mar del Plata,Peces,Merluza de cola,64
+2019-10,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,450
+2019-10,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,190
+2019-10,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,640
+2019-10,Fresqueros,Mar del Plata,Peces,Mero,96
+2019-10,Fresqueros,Mar del Plata,Peces,Mero,300
+2019-10,Fresqueros,Mar del Plata,Peces,Notothenia,197230
+2019-10,Fresqueros,Mar del Plata,Peces,Palometa,1118
+2019-10,Fresqueros,Mar del Plata,Peces,Papafigo,18272
+2019-10,Fresqueros,Mar del Plata,Peces,Pescadilla,880500
+2019-10,Fresqueros,Mar del Plata,Peces,Pez gallo,90
+2019-10,Fresqueros,Mar del Plata,Peces,Pez gallo,5542
+2019-10,Fresqueros,Mar del Plata,Peces,Pez palo,680
+2019-10,Fresqueros,Mar del Plata,Peces,Pez palo,349345
+2019-10,Fresqueros,Mar del Plata,Peces,Pez ángel,10265
+2019-10,Fresqueros,Mar del Plata,Peces,Pez ángel,174455
+2019-10,Fresqueros,Mar del Plata,Peces,Raya cola corta,174895
+2019-10,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,275850
+2019-10,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,2884
+2019-10,Fresqueros,Mar del Plata,Peces,Raya lisa,49109
+2019-10,Fresqueros,Mar del Plata,Peces,Rayas nep,1485
+2019-10,Fresqueros,Mar del Plata,Peces,Rayas nep,564688
+2019-10,Fresqueros,Mar del Plata,Peces,Rubio,33
+2019-10,Fresqueros,Mar del Plata,Peces,Salmonete,7306
+2019-10,Fresqueros,Mar del Plata,Peces,Salmón de mar,2101395
+2019-10,Fresqueros,Mar del Plata,Peces,Salmón de mar,155
+2019-10,Fresqueros,Mar del Plata,Peces,Savorín,98509
+2019-10,Fresqueros,Mar del Plata,Peces,Tiburones nep,1895
+2019-10,Fresqueros,Mar del Plata,Peces,Tiburones nep,13314
+2019-10,Fresqueros,Mar del Plata,Peces,Tiburón bacota,87
+2019-10,Fresqueros,Mar del Plata,Peces,Tiburón gris,2120
+2019-10,Rada o ría,Mar del Plata,Peces,Anchoa de banco,3723
+2019-10,Rada o ría,Mar del Plata,Peces,Besugo,816
+2019-10,Rada o ría,Mar del Plata,Peces,Besugo,28687
+2019-10,Rada o ría,Mar del Plata,Peces,Caballa,2904185
+2019-10,Rada o ría,Mar del Plata,Peces,Chernia,13785323
+2019-10,Rada o ría,Mar del Plata,Peces,Cornalito,30
+2019-10,Rada o ría,Mar del Plata,Peces,Corvina blanca,8799
+2019-10,Rada o ría,Mar del Plata,Peces,Corvina negra,1467
+2019-10,Rada o ría,Mar del Plata,Peces,Gatuzo,1869
+2019-10,Rada o ría,Mar del Plata,Peces,Lenguados nep,3192
+2019-10,Rada o ría,Mar del Plata,Peces,Mero,41646
+2019-10,Rada o ría,Mar del Plata,Peces,Mero,9046
+2019-10,Rada o ría,Mar del Plata,Peces,Otras especies de peces,15774
+2019-10,Rada o ría,Mar del Plata,Peces,Palometa,30
+2019-10,Rada o ría,Mar del Plata,Peces,Pargo,6860
+2019-10,Rada o ría,Mar del Plata,Peces,Pescadilla,1291
+2019-10,Rada o ría,Mar del Plata,Peces,Pez gallo,1288
+2019-10,Rada o ría,Mar del Plata,Peces,Pez palo,7606
+2019-10,Rada o ría,Mar del Plata,Peces,Pez ángel,103200
+2019-10,Rada o ría,Mar del Plata,Peces,Raya marrón oscuro,90
+2019-10,Rada o ría,Mar del Plata,Peces,Rayas nep,3552
+2019-10,Rada o ría,Mar del Plata,Peces,Tiburones nep,409105
+2019-10,Rada o ría,Necochea / Quequén,Peces,Anchoíta,12043
+2019-10,Congeladores tangoneros,otros puertos Buenos Aires,Crustáceos,Langostino,639
+2019-10,Congeladores tangoneros,otros puertos Buenos Aires,Peces,Merluza hubbsi,315
+2019-10,Costeros,otros puertos Buenos Aires,Peces,Cazón,141
+2019-10,Costeros,otros puertos Buenos Aires,Peces,Corvina blanca,3695
+2019-10,Costeros,otros puertos Buenos Aires,Peces,Gatuzo,39318
+2019-10,Costeros,otros puertos Buenos Aires,Peces,Palometa,1339
+2019-10,Costeros,otros puertos Buenos Aires,Peces,Pescadilla,3244
+2019-10,Rada o ría,otros puertos Buenos Aires,Crustáceos,Camarón,363
+2019-10,Rada o ría,otros puertos Buenos Aires,Crustáceos,Langostino,521
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Anchoa de banco,11407
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Cazón,67485
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,875
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Corvina blanca,1543646
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,92606
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Gatuzo,36467
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,88848
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Palometa,1443
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Pargo,2280
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,420
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Pescadilla,11700
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Pez ángel,1020
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Raya lisa,13200
+2019-10,Rada o ría,otros puertos Buenos Aires,Peces,Rayas nep,146
+2019-10,Congeladores arrastreros,Puerto Deseado,Peces,Merluza negra,1058
+2019-10,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,112
+2019-10,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,30
+2019-10,Fresqueros,Puerto Deseado,Crustáceos,Langostino,949874
+2019-10,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,41170
+2019-10,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,3994
+2019-10,Congeladores arrastreros,Puerto Madryn,Peces,Abadejo,812
+2019-10,Congeladores arrastreros,Puerto Madryn,Peces,Bacalao austral,6400
+2019-10,Congeladores arrastreros,Puerto Madryn,Peces,Merluza de cola,690
+2019-10,Congeladores arrastreros,Puerto Madryn,Peces,Merluza hubbsi,112
+2019-10,Congeladores arrastreros,Puerto Madryn,Peces,Pampanito,430
+2019-10,Congeladores arrastreros,Puerto Madryn,Peces,Papafigo,23064
+2019-10,Congeladores arrastreros,Puerto Madryn,Peces,Rubio,63659
+2019-10,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,320
+2019-10,Congeladores tangoneros,Puerto Madryn,Peces,Jurel,414
+2019-10,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,9298
+2019-10,Costeros,Puerto Madryn,Crustáceos,Langostino,5100
+2019-10,Costeros,Puerto Madryn,Peces,Mero,9556
+2019-10,Fresqueros,Puerto Madryn,Crustáceos,Langostino,320
+2019-10,Fresqueros,Puerto Madryn,Peces,Merluza hubbsi,890
+2019-10,Costeros,Rawson,Crustáceos,Langostino,24363
+2019-10,Costeros,Rawson,Peces,Merluza hubbsi,32715
+2019-10,Fresqueros,Rawson,Crustáceos,Langostino,260
+2019-10,Costeros,Río Salado,Peces,Corvina blanca,3970
+2019-10,Rada o ría,Río Salado,Peces,Bagre,266128
+2019-10,Rada o ría,Río Salado,Peces,Corvina blanca,2522
+2019-10,Rada o ría,Río Salado,Peces,Corvina negra,5876
+2019-10,Rada o ría,Río Salado,Peces,Lenguados nep,9566
+2019-10,Rada o ría,Río Salado,Peces,Otras especies de peces,740
+2019-10,Rada o ría,Río Salado,Peces,Palometa,70
+2019-10,Rada o ría,Río Salado,Peces,Pescadilla,3600
+2019-10,Rada o ría,Río Salado,Peces,Pescadilla real,60
+2019-10,Rada o ría,Río Salado,Peces,Saraca,5304
+2019-10,Costeros,Rosales,Crustáceos,Camarón,123574
+2019-10,Costeros,Rosales,Crustáceos,Langostino,1210
+2019-10,Rada o ría,Rosales,Crustáceos,Camarón,15304
+2019-10,Rada o ría,Rosales,Crustáceos,Langostino,2179
+2019-10,Costeros,San Antonio Este,Peces,Merluza hubbsi,210
+2019-10,Costeros,San Antonio Este,Peces,Mero,10382
+2019-10,Costeros,San Antonio Este,Peces,Pez gallo,5609
+2019-10,Costeros,San Antonio Este,Peces,Rayas nep,637594
+2019-10,Costeros,San Antonio Este,Peces,Savorín,2995
+2019-10,Fresqueros,San Antonio Este,Peces,Merluza hubbsi,2170
+2019-10,Fresqueros,San Antonio Este,Peces,Raya lisa,10
+2019-10,Costeros,San Antonio Oeste,Peces,Caballa,150
+2019-10,Costeros,San Antonio Oeste,Peces,Gatuzo,933
+2019-10,Costeros,San Antonio Oeste,Peces,Gatuzo,18590
+2019-10,Costeros,San Antonio Oeste,Peces,Lenguados nep,16
+2019-10,Costeros,San Antonio Oeste,Peces,Lenguados nep,23725
+2019-10,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,97
+2019-10,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,300
+2019-10,Costeros,San Antonio Oeste,Peces,Merluza hubbsi,90
+2019-10,Costeros,San Antonio Oeste,Peces,Otras especies de peces,17171
+2019-10,Costeros,San Antonio Oeste,Peces,Pez gallo,2903
+2019-10,Costeros,San Antonio Oeste,Peces,Pez gallo,166
+2019-10,Costeros,San Antonio Oeste,Peces,Pez palo,942
+2019-10,Costeros,San Antonio Oeste,Peces,Pez ángel,250
+2019-10,Costeros,San Antonio Oeste,Peces,Rayas nep,1200
+2019-10,Costeros,San Antonio Oeste,Peces,Salmón de mar,24870
+2019-10,Rada o ría,San Antonio Oeste,Peces,Besugo,4884
+2019-10,Rada o ría,San Antonio Oeste,Peces,Cazón,30
+2019-10,Rada o ría,San Antonio Oeste,Peces,Gatuzo,32
+2019-10,Rada o ría,San Antonio Oeste,Peces,Lenguados nep,102
+2019-10,Rada o ría,San Antonio Oeste,Peces,Merluza hubbsi,70
+2019-10,Rada o ría,San Antonio Oeste,Peces,Mero,736
+2019-10,Rada o ría,San Antonio Oeste,Peces,Otras especies de peces,3410
+2019-10,Rada o ría,San Antonio Oeste,Peces,Pez gallo,100
+2019-10,Rada o ría,San Antonio Oeste,Peces,Pez ángel,100
+2019-10,Rada o ría,San Antonio Oeste,Peces,Raya hocicuda / picuda,160
+2019-10,Rada o ría,San Antonio Oeste,Peces,Salmón de mar,128
+2019-10,Costeros,San Clemente del Tuyú,Peces,Corvina blanca,1842
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Anchoa de banco,410
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Corvina blanca,30272
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Corvina negra,64
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Lenguados nep,210
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Lisa,4878
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla,192
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Pescadilla real,4510
+2019-10,Rada o ría,San Clemente del Tuyú,Peces,Saraca,288
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Abadejo,16
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,47076
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Granadero,7840
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,160
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,930
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,1160
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Polaca,1726
+2019-10,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,1500
+2019-11,Congeladores tangoneros,Caleta Olivia / Paula,Crustáceos,Langostino,491694
+2019-11,Congeladores tangoneros,Caleta Olivia / Paula,Peces,Merluza hubbsi,434
+2019-11,Fresqueros,Caleta Olivia / Paula,Peces,Merluza hubbsi,4454
+2019-11,Rada o ría,General Lavalle,Peces,Corvina blanca,28610
+2019-11,Rada o ría,General Lavalle,Peces,Corvina negra,24066
+2019-11,Rada o ría,General Lavalle,Peces,Lenguados nep,2418538
+2019-11,Rada o ría,General Lavalle,Peces,Otras especies de peces,3537
+2019-11,Rada o ría,General Lavalle,Peces,Pescadilla real,1892926
+2019-11,Rada o ría,General Lavalle,Peces,Raya marmolada,4032
+2019-11,Rada o ría,General Lavalle,Peces,Saraca,124474
+2019-11,Congeladores arrastreros,Mar del Plata,Moluscos,Vieira (callos),3654
+2019-11,Congeladores tangoneros,Mar del Plata,Crustáceos,Langostino,110365
+2019-11,Congeladores tangoneros,Mar del Plata,Peces,Merluza hubbsi,177
+2019-11,Costeros,Mar del Plata,Crustáceos,Cangrejo,277607
+2019-11,Costeros,Mar del Plata,Moluscos,Calamar Illex,50
+2019-11,Costeros,Mar del Plata,Peces,Abadejo,788
+2019-11,Costeros,Mar del Plata,Peces,Anchoa de banco,398108
+2019-11,Costeros,Mar del Plata,Peces,Anchoíta,1396
+2019-11,Costeros,Mar del Plata,Peces,Besugo,114047
+2019-11,Costeros,Mar del Plata,Peces,Besugo,2381
+2019-11,Costeros,Mar del Plata,Peces,Brótola,594
+2019-11,Costeros,Mar del Plata,Peces,Corvina blanca,102
+2019-11,Costeros,Mar del Plata,Peces,Gatuzo,1190
+2019-11,Costeros,Mar del Plata,Peces,Lenguados nep,396
+2019-11,Costeros,Mar del Plata,Peces,Lenguados nep,237204
+2019-11,Costeros,Mar del Plata,Peces,Merluza hubbsi,806
+2019-11,Costeros,Mar del Plata,Peces,Merluza hubbsi,312263
+2019-11,Costeros,Mar del Plata,Peces,Mero,170
+2019-11,Costeros,Mar del Plata,Peces,Mero,159744
+2019-11,Costeros,Mar del Plata,Peces,Palometa,10009
+2019-11,Costeros,Mar del Plata,Peces,Papafigo,1680
+2019-11,Costeros,Mar del Plata,Peces,Pescadilla,61009
+2019-11,Costeros,Mar del Plata,Peces,Pescadilla,743
+2019-11,Costeros,Mar del Plata,Peces,Pez palo,2725
+2019-11,Costeros,Mar del Plata,Peces,Pez palo,21994
+2019-11,Costeros,Mar del Plata,Peces,Pez ángel,3803
+2019-11,Costeros,Mar del Plata,Peces,Pez ángel,2590
+2019-11,Costeros,Mar del Plata,Peces,Raya hocicuda / picuda,495
+2019-11,Costeros,Mar del Plata,Peces,Rayas nep,132
+2019-11,Costeros,Mar del Plata,Peces,Rayas nep,15090
+2019-11,Costeros,Mar del Plata,Peces,Salmón de mar,2926
+2019-11,Costeros,Mar del Plata,Peces,Salmón de mar,173794
+2019-11,Costeros,Mar del Plata,Peces,Tiburones nep,398
+2019-11,Costeros,Mar del Plata,Peces,Tiburones nep,14187
+2019-11,Costeros,Mar del Plata,Peces,Tiburón gris,2584
+2019-11,Fresqueros,Mar del Plata,Moluscos,Calamar Illex,13885
+2019-11,Fresqueros,Mar del Plata,Peces,Abadejo,20790
+2019-11,Fresqueros,Mar del Plata,Peces,Anchoa de banco,52
+2019-11,Fresqueros,Mar del Plata,Peces,Anchoíta,1549
+2019-11,Fresqueros,Mar del Plata,Peces,Caballa,86
+2019-11,Fresqueros,Mar del Plata,Peces,Castañeta,8093
+2019-11,Fresqueros,Mar del Plata,Peces,Corvina blanca,32
+2019-11,Fresqueros,Mar del Plata,Peces,Gatuzo,892928
+2019-11,Fresqueros,Mar del Plata,Peces,Lenguados nep,322000
+2019-11,Fresqueros,Mar del Plata,Peces,Lenguados nep,616
+2019-11,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,5789
+2019-11,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,1024
+2019-11,Fresqueros,Mar del Plata,Peces,Merluza hubbsi,434044
+2019-11,Fresqueros,Mar del Plata,Peces,Palometa,10850
+2019-11,Fresqueros,Mar del Plata,Peces,Papafigo,68
+2019-11,Fresqueros,Mar del Plata,Peces,Pescadilla,47075
+2019-11,Fresqueros,Mar del Plata,Peces,Pez gallo,4305
+2019-11,Fresqueros,Mar del Plata,Peces,Pez palo,180
+2019-11,Fresqueros,Mar del Plata,Peces,Pez ángel,640
+2019-11,Fresqueros,Mar del Plata,Peces,Pez ángel,4
+2019-11,Fresqueros,Mar del Plata,Peces,Raya cola corta,537741
+2019-11,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,1373342
+2019-11,Fresqueros,Mar del Plata,Peces,Raya hocicuda / picuda,352
+2019-11,Fresqueros,Mar del Plata,Peces,Rayas nep,620
+2019-11,Fresqueros,Mar del Plata,Peces,Rayas nep,816
+2019-11,Fresqueros,Mar del Plata,Peces,Róbalo,108
+2019-11,Fresqueros,Mar del Plata,Peces,Savorín,700
+2019-11,Fresqueros,Mar del Plata,Peces,Tiburones nep,36
+2019-11,Fresqueros,Mar del Plata,Peces,Tiburón azul,111
+2019-11,Fresqueros,Mar del Plata,Peces,Tiburón gris,2030
+2019-11,Rada o ría,Necochea / Quequén,Peces,Anchoíta,42104
+2019-11,Congeladores tangoneros,otros puertos Buenos Aires,Crustáceos,Langostino,396
+2019-11,Congeladores tangoneros,otros puertos Buenos Aires,Peces,Jurel,56829
+2019-11,Congeladores tangoneros,otros puertos Buenos Aires,Peces,Merluza hubbsi,846
+2019-11,Congeladores tangoneros,Puerto Deseado,Crustáceos,Langostino,64
+2019-11,Congeladores tangoneros,Puerto Deseado,Peces,Merluza hubbsi,2466
+2019-11,Fresqueros,Puerto Deseado,Peces,Merluza hubbsi,4160
+2019-11,Fresqueros,Puerto Deseado,Peces,Raya hocicuda / picuda,30
+2019-11,Congeladores tangoneros,Puerto Madryn,Crustáceos,Langostino,50
+2019-11,Congeladores tangoneros,Puerto Madryn,Peces,Merluza hubbsi,69069
+2019-11,Costeros,Rawson,Crustáceos,Langostino,245
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Abadejo,38720
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Bacalao austral,416
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Granadero,160
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Merluza austral,32
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Merluza de cola,1175
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Merluza negra,32
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Polaca,736
+2019-11,Congeladores arrastreros,Ushuaia,Peces,Rayas nep,36562
