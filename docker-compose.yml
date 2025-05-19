@@ -26,6 +26,8 @@ services:
       - postgres-db:/var/lib/postgresql/data
       - ./scripts:/docker-entrypoint-initdb.d # Scripts que se ejecutan solamente al iniciar por primera vez el servidor
       - ./datos:/datos
+      - .datos/captura-puerto-flota-2019.csv
+      - postgres-etl-db-1:/var/lib/postgresql/data
     networks:
       - net
 
