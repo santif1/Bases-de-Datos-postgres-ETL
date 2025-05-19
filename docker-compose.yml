@@ -5,6 +5,8 @@ networks:
 volumes:
   postgres-db:
     external: false
+  postgres-etl-db-1:
+    external: false
 
 services:
   db:
